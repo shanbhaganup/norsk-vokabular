@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, formell](https://ordbokene.no/bm/16556)
-- [Reference record added-c7c4f8a19399](../../reference/vocabulary-4472/word-types/adjectives.md#added-c7c4f8a19399)

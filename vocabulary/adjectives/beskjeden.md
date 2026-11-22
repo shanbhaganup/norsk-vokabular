@@ -33,4 +33,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, beskjeden (5471)](https://ordbokene.no/bm/5471)
-- [Reference snapshot, record 17](../../reference/vocabulary-4472/word-types/adjectives.md#word-0017)

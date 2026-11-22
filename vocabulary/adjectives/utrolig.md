@@ -37,5 +37,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0391](../../reference/vocabulary-4472/word-types/adjectives.md#word-0391).
 - [Bokmålsordboka: utrolig, utrulig (65664)](https://ordbokene.no/bm/65664).

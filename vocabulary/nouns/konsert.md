@@ -26,5 +26,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference entry word-0772](../../reference/vocabulary-4472/word-types/nouns.md#word-0772)
 - [Bokmålsordboka: konsert](https://ordbokene.no/bm/konsert)

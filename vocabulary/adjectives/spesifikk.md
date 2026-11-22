@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: spesifikk](https://ordbokene.no/bm/spesifikk)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-66467cdfc72c)

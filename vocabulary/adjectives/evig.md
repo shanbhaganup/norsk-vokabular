@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 13482](https://ordbokene.no/bm/13482)
-- [Reference record evig](../../reference/vocabulary-4472/word-types/adjectives.md#word-0066)

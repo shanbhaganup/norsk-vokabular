@@ -25,5 +25,3 @@ checked_on: 2026-11-22
 **Notes:** This figurative sense is separated from the fairy-tale character. The reference snapshot supplies no dictionary paradigm or exact dictionary citation, so gender and inflection remain Unverified; the examples illustrate the source lemma and should not be treated as verification of the proposed inflections.
 
 **Sources:**
-
-- [Reference record word-1636](../../reference/vocabulary-4472/word-types/nouns.md#word-1636)

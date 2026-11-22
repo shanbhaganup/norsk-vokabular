@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: foretrekke (16198)](https://ordbokene.no/bm/16198)
-- [Reference snapshot record word-0100](../../reference/vocabulary-4472/word-types/verbs.md#word-0100)

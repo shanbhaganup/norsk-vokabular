@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, hente (23270)](https://ordbokene.no/bm/23270)
-- [Reference snapshot, hente](../../reference/vocabulary-4472/word-types/verbs.md#word-0153)

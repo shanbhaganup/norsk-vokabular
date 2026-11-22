@@ -27,5 +27,3 @@ This adverb entry covers the source’s “regularly” use; the same anchor als
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/27709)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#word-0100)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-068a317ce193)

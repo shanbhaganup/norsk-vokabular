@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: etablere](https://ordbokene.no/bm/13189)
-- [Reference record added-f9cb6c528a77](../../reference/vocabulary-4472/word-types/verbs.md#added-f9cb6c528a77)

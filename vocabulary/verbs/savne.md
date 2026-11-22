@@ -63,7 +63,5 @@ checked_on: 2026-11-22
 **Notes:** The dictionary distinguishes feeling the absence of someone or something, lacking something, and noticing that something has gone missing. It also lists *sakne* as a related alternative lemma; this entry retains the assigned headword *savne*. Examples are original.
 
 **Sources:**
-- [Related adjective source](../../reference/vocabulary-4472/word-types/adjectives.md#added-93bdf1bee865)
 
 - [Bokmålsordboka, savne/sakne (50273)](https://ordbokene.no/bm/50273)
-- [Reference record word-0316](../../reference/vocabulary-4472/word-types/verbs.md#word-0316)

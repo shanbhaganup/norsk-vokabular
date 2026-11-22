@@ -70,4 +70,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rengjøre/reingjøre (48101)](https://ordbokene.no/bm/48101)
-- [Reference record word-0298](../../reference/vocabulary-4472/word-types/verbs.md#word-0298)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kunstner](https://ordbokene.no/bm/kunstner)
-- [Reference snapshot word-0816](../../reference/vocabulary-4472/word-types/nouns.md#word-0816)

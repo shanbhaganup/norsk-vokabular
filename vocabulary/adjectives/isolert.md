@@ -30,4 +30,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka, isolere (27297)](https://ordbokene.no/bm/27297)
-- [Reference snapshot, record 159](../../reference/vocabulary-4472/word-types/adjectives.md#word-0159)

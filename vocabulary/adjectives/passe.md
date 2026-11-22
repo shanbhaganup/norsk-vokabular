@@ -30,6 +30,5 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/nno/bm/44353)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-285bf485033b)
 - [Related working entry](../verbs/passe.md)
 - [Working adverb entry](../adverbs/passe.md)

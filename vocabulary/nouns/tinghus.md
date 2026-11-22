@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 61053 / tinghus](https://ordbokene.no/bm/61053)
-- [Reference vocabulary word-1619](../../reference/vocabulary-4472/word-types/nouns.md#word-1619)

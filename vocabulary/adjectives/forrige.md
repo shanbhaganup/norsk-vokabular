@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: forrige](https://ordbokene.no/bm/16748)
-- [Reference vocabulary: forrige](../../reference/vocabulary-4472/word-types/adjectives.md#word-0089)

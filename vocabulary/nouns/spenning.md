@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary word-1460](../../reference/vocabulary-4472/word-types/nouns.md#word-1460)
 - [Bokmålsordboka 55970](https://ordbokene.no/bm/55970)
 - [Bokmålsordboka 55971](https://ordbokene.no/bm/55971)
 - [Bokmålsordboka 129623](https://ordbokene.no/bm/129623)

@@ -59,4 +59,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: avdekke](https://ordbokene.no/bm/3395)
-- [Reference record added-f6bce967fafe](../../reference/vocabulary-4472/word-types/verbs.md#added-f6bce967fafe)

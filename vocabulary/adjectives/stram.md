@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: stram](https://ordbokene.no/bm/stram)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-d1bcf6a255a4)

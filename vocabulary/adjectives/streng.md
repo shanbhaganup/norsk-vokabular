@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: streng](https://ordbokene.no/bm/streng)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-61caa39e732a)

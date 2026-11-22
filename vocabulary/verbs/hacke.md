@@ -63,4 +63,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, hacke (70868)](https://ordbokene.no/bm/70868)
-- [Reference snapshot, hacke](../../reference/vocabulary-4472/word-types/verbs.md#word-0146)

@@ -46,4 +46,3 @@ checked_on: 2026-06-07
 **Sources:**
 
 - [Bokmålsordboka — advare](https://ordbokene.no/bm/247)
-- [Reference snapshot — advare](../../reference/vocabulary-4472/word-types/verbs.md#word-0002)

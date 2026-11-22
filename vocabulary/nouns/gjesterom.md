@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gjesterom](https://ordbokene.no/bm/19962)
-- [Reference record word-0497](../../reference/vocabulary-4472/word-types/nouns.md#word-0497)

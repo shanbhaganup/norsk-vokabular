@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gresskar](https://ordbokene.no/bm/20916)
-- [Reference vocabulary record word-0516](../../reference/vocabulary-4472/word-types/nouns.md#word-0516)

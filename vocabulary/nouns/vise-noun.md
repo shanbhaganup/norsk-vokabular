@@ -28,4 +28,3 @@ source_anchor: added-839d3940d4ce
 **Sources:**
 
 - [Bokm?lsordboka: vise](https://ordbokene.no/bm/68723)
-- Reference anchor: [added-839d3940d4ce](../../reference/vocabulary-4472/word-types/nouns.md#added-839d3940d4ce)

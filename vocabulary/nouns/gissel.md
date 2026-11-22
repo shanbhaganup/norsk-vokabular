@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record gissel](../../reference/vocabulary-4472/word-types/nouns.md#word-0488)
 - [Bokm?lsordboka 19689](https://ordbokene.no/bm/19689)

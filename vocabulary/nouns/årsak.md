@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: årsak](https://ordbokene.no/bm/1112)
-- [Reference vocabulary word-1784](../../reference/vocabulary-4472/word-types/nouns.md#word-1784)

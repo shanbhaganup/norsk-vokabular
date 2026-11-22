@@ -128,9 +128,8 @@
 | [svigerfar](../vocabulary/nouns/svigerfar.md) | noun | father-in-law |
 | [svigerinne](../vocabulary/nouns/svigerinne.md) | noun | sister-in-law |
 | [svigermor](../vocabulary/nouns/svigermor.md) | noun | mother-in-law |
-| [svigersønn](../vocabulary/nouns/svigersnn.md) | noun | son-in-law |
-| [svoger](../vocabulary/nouns/svoger.md) | noun | brother-in-law |
 | [svigersønn](../vocabulary/nouns/svigersonn.md) | noun | son-in-law |
+| [svoger](../vocabulary/nouns/svoger.md) | noun | brother-in-law |
 | [sønn](../vocabulary/nouns/sonn.md) | noun | son |
 | [søsken](../vocabulary/nouns/sosken.md) | noun | siblings |
 | [søskenbarn](../vocabulary/nouns/soskenbarn.md) | noun | cousin |
@@ -157,4 +156,4 @@
 | [samboer](../vocabulary/nouns/samboer.md) | noun | cohabiting partner |
 | [slektning](../vocabulary/nouns/slektning.md) | noun | relative |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

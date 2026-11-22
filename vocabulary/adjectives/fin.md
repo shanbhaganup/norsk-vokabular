@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: fin](https://ordbokene.no/bm/14683)
-- [Reference vocabulary: fin](../../reference/vocabulary-4472/word-types/adjectives.md#word-0078)

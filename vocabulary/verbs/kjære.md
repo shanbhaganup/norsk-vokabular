@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — kjære](https://ordbokene.no/bm/29673)
-- [Reference snapshot — kjære](../../reference/vocabulary-4472/word-types/verbs.md#added-da0b9c43c648)

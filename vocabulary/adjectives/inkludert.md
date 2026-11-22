@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, inkludert](https://ordbokene.no/bm/26244)
-- [Reference record added-68bcb67d2c76](../../reference/vocabulary-4472/word-types/adjectives.md#added-68bcb67d2c76)

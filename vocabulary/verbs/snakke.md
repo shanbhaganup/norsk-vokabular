@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, snakke (55031)](https://ordbokene.no/bm/55031)
-- [Reference record word-0355](../../reference/vocabulary-4472/word-types/verbs.md#word-0355)

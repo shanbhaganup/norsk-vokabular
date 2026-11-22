@@ -30,5 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, betale (5611)](https://ordbokene.no/bm/5611)
-- [Reference snapshot, word-0021](../../reference/vocabulary-4472/word-types/adjectives.md#word-0021)
-

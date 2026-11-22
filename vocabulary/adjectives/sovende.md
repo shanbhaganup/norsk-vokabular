@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/sove.md)
 
 - [Bokmålsordboka: sovende](https://ordbokene.no/bm/sovende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-f187d71596fd)

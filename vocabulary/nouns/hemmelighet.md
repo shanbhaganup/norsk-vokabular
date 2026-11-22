@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hemmelighet](https://ordbokene.no/bm/23149)
-- [Reference vocabulary: hemmelighet](../../reference/vocabulary-4472/word-types/nouns.md#word-0564)

@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0336](../../reference/vocabulary-4472/word-types/adjectives.md#word-0336).
 - [Bokmålsordboka: sulten (58334)](https://ordbokene.no/bm/58334).

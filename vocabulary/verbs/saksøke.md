@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, saksøke (49704)](https://ordbokene.no/bm/49704)
-- [Reference record word-0313](../../reference/vocabulary-4472/word-types/verbs.md#word-0313)

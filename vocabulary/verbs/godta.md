@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, godta (20480)](https://ordbokene.no/bm/20480)
-- [Reference snapshot, godta](../../reference/vocabulary-4472/word-types/verbs.md#word-0139)

@@ -65,4 +65,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, satse (50237)](https://ordbokene.no/bm/50237)
-- [Reference record word-0315](../../reference/vocabulary-4472/word-types/verbs.md#word-0315)

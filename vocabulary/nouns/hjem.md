@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hjem](https://ordbokene.no/bm/hjem)
-- [Reference vocabulary word-0580](../../reference/vocabulary-4472/word-types/nouns.md#word-0580)

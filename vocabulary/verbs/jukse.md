@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — jukse](https://ordbokene.no/bm/27943)
-- [Reference snapshot — jukse](../../reference/vocabulary-4472/word-types/verbs.md#added-62bef9d2950a)

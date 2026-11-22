@@ -25,6 +25,4 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/48033)
-- [Related adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-0c434626e189)
 - [Working adjective entry](../adjectives/relativ.md)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#word-0162)

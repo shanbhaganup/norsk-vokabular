@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, melde 2 (37713)](https://ordbokene.no/bm/37713)
-- [Reference record word-0240](../../reference/vocabulary-4472/word-types/verbs.md#word-0240)

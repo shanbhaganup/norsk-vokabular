@@ -1180,7 +1180,7 @@ The first table links to the 12 format demonstrations. Reference promotions are 
 | [graffiti](nouns/graffiti.md) | noun | graffiti; wall writing |
 | [gram](nouns/gram.md) | noun | gram |
 | [grammatikk](nouns/grammatikk.md) | noun | grammar; grammar book |
-| [grann](nouns/granne.md) | noun | a tiny amount; a bit |
+| [grann](nouns/grann.md) | noun | a tiny amount; a bit |
 | [fullstendig](adjectives/fullstendig.md) | adjective | complete; thorough |
 | [fysisk](adjectives/fysisk.md) | adjective | physical |
 | [fæl](adjectives/fæl.md) | adjective | awful; horrible |
@@ -1190,7 +1190,6 @@ The first table links to the 12 format demonstrations. Reference promotions are 
 | [glad](adjectives/glad.md) | adjective | happy; glad |
 | [glatt](adjectives/glatt.md) | adjective | smooth; slippery |
 | [gratis](adjectives/gratis.md) | adjective | free of charge |
-| [grann](nouns/grann.md) | noun | a tiny amount; a bit |
 | [grav](nouns/grav.md) | noun | Grave |
 | [gren](nouns/gren.md) | noun | Branch |
 | [grense](nouns/grense.md) | noun | border; limit |
@@ -3044,12 +3043,12 @@ The first table links to the 12 format demonstrations. Reference promotions are 
 | [begrenset](adjectives/begrenset.md) | adjective | limited |
 | [svigerinne](nouns/svigerinne.md) | noun | sister-in-law |
 | [svigermor](nouns/svigermor.md) | noun | mother-in-law |
-| [svigersønn](nouns/svigersnn.md) | noun | son-in-law |
+| [svigersønn](nouns/svigersonn.md) | noun | son-in-law |
 | [svindel](nouns/svindel.md) | noun | fraud |
-| [svømmebasseng](nouns/svmmebasseng.md) | noun | swimming pool |
-| [svømmer](nouns/svmmer.md) | noun | swimmer |
-| [svømmetur](nouns/svmmetur.md) | noun | swim; swimming trip |
-| [svømming](nouns/svmming.md) | noun | swimming |
+| [svømmebasseng](nouns/svommebasseng.md) | noun | swimming pool |
+| [svømmer](nouns/svommer.md) | noun | swimmer |
+| [svømmetur](nouns/svommetur.md) | noun | swim; swimming trip |
+| [svømming](nouns/svomming.md) | noun | swimming |
 | [svoger](nouns/svoger.md) | noun | brother-in-law |
 | [svulst](nouns/svulst.md) | noun | tumor |
 | [sykdom](nouns/sykdom.md) | noun | disease; illness |
@@ -3062,11 +3061,6 @@ The first table links to the 12 format demonstrations. Reference promotions are 
 | [syre](nouns/syre.md) | noun | acid |
 | [system](nouns/system.md) | noun | system |
 | [systemfeil](nouns/systemfeil.md) | noun | system error |
-| [svigersønn](nouns/svigersonn.md) | noun | son-in-law |
-| [svømmebasseng](nouns/svommebasseng.md) | noun | swimming pool |
-| [svømmer](nouns/svommer.md) | noun | swimmer |
-| [svømmetur](nouns/svommetur.md) | noun | swim; swimming trip |
-| [svømming](nouns/svomming.md) | noun | swimming |
 | [beleilig](adjectives/beleilig.md) | adjective | convenient |
 | [besøkende](adjectives/besøkende.md) | adjective | visiting |
 | [betydelig](adjectives/betydelig.md) | adjective | significant; considerable |
@@ -3498,7 +3492,7 @@ The first table links to the 12 format demonstrations. Reference promotions are 
 | [værelse](nouns/værelse.md) | noun | room |
 | [krumme](verbs/krumme.md) | verb | to bend; curve |
 | [krydre](verbs/krydre.md) | verb | to season; spice; enliven (figurative) |
-| [ønske](verbs/undefined.md) | verb | to wish; to want; to wish someone something |
+| [ønske](verbs/ønske.md) | verb | to wish; to want; to wish someone something |
 | [midlertidig](adjectives/midlertidig.md) | adjective | temporary, provisional |
 | [mild](adjectives/mild.md) | adjective | mild, gentle |
 | [militær](adjectives/militær.md) | adjective | military |
@@ -3544,7 +3538,6 @@ The first table links to the 12 format demonstrations. Reference promotions are 
 | [åke](verbs/åke.md) | verb | to travel/go; to end up in a place or situation |
 | [åpne](verbs/åpne.md) | verb | to open; make available; begin |
 | [ødelegge](verbs/ødelegge.md) | verb | to damage, destroy; to ruin |
-| [ønske](verbs/ønske.md) | verb | to wish; to want; to wish someone something |
 | [årbok](nouns/årbok.md) | noun | yearbook |
 | [årsak](nouns/årsak.md) | noun | cause |
 | [åsted](nouns/åsted.md) | noun | scene |
@@ -4682,5 +4675,3 @@ The first table links to the 12 format demonstrations. Reference promotions are 
 | [tå](nouns/tå.md) | noun | toe |
 | [tåre](nouns/tåre.md) | noun | tear |
 | [tårn](nouns/tårn.md) | noun | tower |
-
-[Reference vocabulary: 4,472 entries](../reference/vocabulary-4472/README.md)

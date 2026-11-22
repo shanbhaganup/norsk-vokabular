@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0256](../../reference/vocabulary-4472/word-types/adjectives.md#word-0256).
 - [Bokmålsordboka: persisk 2 II (44760)](https://ordbokene.no/bm/44760).

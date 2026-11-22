@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0327](../../reference/vocabulary-4472/word-types/adjectives.md#word-0327).
 - [Bokmålsordboka: stenge 2 II (57019), participle and adjective use](https://ordbokene.no/bm/57019).

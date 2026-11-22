@@ -30,5 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, bedre (4841)](https://ordbokene.no/bm/4841)
-- [Reference snapshot, word-0014](../../reference/vocabulary-4472/word-types/adjectives.md#word-0014)
-

@@ -32,4 +32,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 13868](https://ordbokene.no/bm/13868)
-- [Reference record farget](../../reference/vocabulary-4472/word-types/adjectives.md#word-0069)

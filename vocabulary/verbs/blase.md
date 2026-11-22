@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: blåse](https://ordbokene.no/bm/6716)
-- [Reference record added-da9dd4cd3170](../../reference/vocabulary-4472/word-types/verbs.md#added-da9dd4cd3170)

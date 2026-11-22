@@ -29,6 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-6fa3947a6b0c](../../reference/vocabulary-4472/word-types/adjectives.md#added-6fa3947a6b0c)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/nno/search?dict=bm%2Cnn&q=til%C3%A5rskommet%7Ctil%C3%A5rskommen&scope=eif>)
-

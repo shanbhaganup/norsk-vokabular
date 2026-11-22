@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 52554](https://ordbokene.no/bm/52554)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-b39c65327f02)
 - [Related adverb entry](../adverbs/skarpt.md)

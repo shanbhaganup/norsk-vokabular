@@ -29,6 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-b26ff99983dc](../../reference/vocabulary-4472/word-types/adjectives.md#added-b26ff99983dc)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/slappe>)
-

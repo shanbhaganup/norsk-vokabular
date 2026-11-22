@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka ei / en](https://ordbokene.no/bm/ei / en)
-- [Reference snapshot: word-1089](../../reference/vocabulary-4472/word-types/nouns.md#word-1089)

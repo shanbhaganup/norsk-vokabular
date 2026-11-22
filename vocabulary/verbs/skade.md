@@ -76,4 +76,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka skade (verb)](https://ordbokene.no/bm/52363)
-- [Reference verb record added-0b671e4a5b41](../../reference/vocabulary-4472/word-types/verbs.md#added-0b671e4a5b41)

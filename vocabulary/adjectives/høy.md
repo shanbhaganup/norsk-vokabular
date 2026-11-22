@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: høy](https://ordbokene.no/bm/25253)
-- [Reference snapshot: word-0141](../../reference/vocabulary-4472/word-types/adjectives.md#word-0141)

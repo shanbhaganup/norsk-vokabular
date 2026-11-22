@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, kunst](https://ordbokene.no/nob/bm/kunst)
-- [Reference vocabulary record word-0814](../../reference/vocabulary-4472/word-types/nouns.md#word-0814)

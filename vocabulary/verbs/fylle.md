@@ -39,7 +39,7 @@ checked_on: 2026-11-22
 
 **Form status:** Common paradigm verified for the selected sense.
 
-**Notes:** Promoted from [reference record word-0123](../../reference/vocabulary-4472/word-types/verbs.md#word-0123). This entry covers putting or packing something full, entering information (`fylle inn/ut`), meeting a need or requirement, and reaching an age. Bokmålsordboka entry 18515 gives `fylte`, `fylt`, `fyllende`, and the agreeing forms `fylte`. Entry 18516 is the separate sense “drink and carouse”; its forms `fylla` and `fyllet` are not alternatives in the selected fill sense and are excluded. The present participle is dictionary-listed; its use meaning “increasing” is uncommon. English glosses reviewed separately.
+**Notes:** This entry covers putting or packing something full, entering information (`fylle inn/ut`), meeting a need or requirement, and reaching an age. Bokmålsordboka entry 18515 gives `fylte`, `fylt`, `fyllende`, and the agreeing forms `fylte`. Entry 18516 is the separate sense “drink and carouse”; its forms `fylla` and `fyllet` are not alternatives in the selected fill sense and are excluded. The present participle is dictionary-listed; its use meaning “increasing” is uncommon. English glosses reviewed separately.
 
 **Sources:**
 

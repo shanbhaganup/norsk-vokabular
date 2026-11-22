@@ -43,6 +43,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary word-0378](../../reference/vocabulary-4472/word-types/verbs.md#word-0378)
 - [Bokmålsordboka 57355](https://ordbokene.no/bm/57355)
 - [Bokmålsordboka 57356](https://ordbokene.no/bm/57356)

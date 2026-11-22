@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: indisk](https://ordbokene.no/bm/indisk)
-- [Reference snapshot: word-0149](../../reference/vocabulary-4472/word-types/adjectives.md#word-0149)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tredje](https://ordbokene.no/bm/tredje)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-ee1fb89d75ad)

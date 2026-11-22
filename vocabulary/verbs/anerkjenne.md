@@ -48,5 +48,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary, added-bbc181de344f](../../reference/vocabulary-4472/word-types/verbs.md#added-bbc181de344f)
 - [Bokmålsordboka](https://ordbokene.no/bm/1747)

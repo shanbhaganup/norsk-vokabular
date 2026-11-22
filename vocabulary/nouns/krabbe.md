@@ -28,5 +28,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record word-0790](../../reference/vocabulary-4472/word-types/nouns.md#word-0790)
 - [Bokmålsordboka: krabbe](https://ordbokene.no/bm/31855)

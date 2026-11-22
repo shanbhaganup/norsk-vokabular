@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, nevne (40763)](https://ordbokene.no/bm/40763)
-- [Reference record word-0252](../../reference/vocabulary-4472/word-types/verbs.md#word-0252)

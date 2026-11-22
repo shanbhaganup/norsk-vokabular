@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, returnere (48426)](https://ordbokene.no/bm/48426)
-- [Reference record word-0302](../../reference/vocabulary-4472/word-types/verbs.md#word-0302)

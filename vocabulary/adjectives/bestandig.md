@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, bestandig (5522)](https://ordbokene.no/bm/5522)
-- [Reference snapshot, record 19](../../reference/vocabulary-4472/word-types/adjectives.md#word-0019)

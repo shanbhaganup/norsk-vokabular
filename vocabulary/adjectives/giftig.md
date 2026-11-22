@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, giftig](https://ordbokene.no/bm/19605)
-- [Reference record added-07af14e909ee](../../reference/vocabulary-4472/word-types/adjectives.md#added-07af14e909ee)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: ødemark](https://ordbokene.no/bm/42649)
-- [Reference vocabulary word-1787](../../reference/vocabulary-4472/word-types/nouns.md#word-1787)

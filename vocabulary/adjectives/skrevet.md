@@ -40,4 +40,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/skrive.md)
 
 - [Bokmålsordboka: skrevet](https://ordbokene.no/bm/skrevet)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-60f690097c30)

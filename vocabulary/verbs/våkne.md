@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 69310](https://ordbokene.no/bm/69310)
-- [Reference vocabulary våkne](../../reference/vocabulary-4472/word-types/verbs.md#word-0450)

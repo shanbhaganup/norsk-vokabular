@@ -39,9 +39,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary headword and principal paradigm forms checked; compound tenses and original example sentences supplied for teaching.
 
-**Notes:** The reference gloss “award” corresponds to Bokmålsordboka’s “dele ut til; la få; gi.” Tildelt is the verified participle; the participle agreement rows show the common neuter and definite/plural forms. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order. Source record: [reference verb anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-be693cfb7c38).
+**Notes:** The reference gloss “award” corresponds to Bokmålsordboka’s “dele ut til; la få; gi.” Tildelt is the verified participle; the participle agreement rows show the common neuter and definite/plural forms. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order.
 
 **Sources:**
 
 - [Bokmålsordboka: tildele]( https://ordbokene.no/bm/tildele )
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-be693cfb7c38)

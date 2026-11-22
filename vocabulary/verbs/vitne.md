@@ -60,4 +60,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka vitne (verb)](https://ordbokene.no/bm/68844)
-- [Reference verb record added-b1c6b4c12a4a](../../reference/vocabulary-4472/word-types/verbs.md#added-b1c6b4c12a4a)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 61112 / tirsdag](https://ordbokene.no/bm/61112)
-- [Reference vocabulary word-1621](../../reference/vocabulary-4472/word-types/nouns.md#word-1621)

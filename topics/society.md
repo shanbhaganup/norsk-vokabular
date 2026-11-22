@@ -393,4 +393,4 @@
 | [tendens](../vocabulary/nouns/tendens.md) | noun | trend |
 | [trend](../vocabulary/nouns/trend.md) | noun | trend |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

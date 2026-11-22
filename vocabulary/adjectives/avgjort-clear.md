@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/3484)
-- [Reference snapshot · avgjort](../../reference/vocabulary-4472/word-types/adverbs.md#word-0010)

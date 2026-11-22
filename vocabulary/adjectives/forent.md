@@ -35,4 +35,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, forent](https://ordbokene.no/bm/16161)
-- [Reference record added-10297cfc06e7](../../reference/vocabulary-4472/word-types/adjectives.md#added-10297cfc06e7)

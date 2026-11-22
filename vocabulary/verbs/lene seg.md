@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: lene](https://ordbokene.no/bm/34820)
-- [Reference record](../../reference/vocabulary-4472/word-types/verbs.md#added-260ea5100bb4)

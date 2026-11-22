@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: klem](https://ordbokene.no/bm/30038)
-- [Reference record word-0737](../../reference/vocabulary-4472/word-types/nouns.md#word-0737)

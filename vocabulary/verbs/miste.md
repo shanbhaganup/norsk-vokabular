@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, miste (38688)](https://ordbokene.no/bm/38688)
-- [Reference record word-0245](../../reference/vocabulary-4472/word-types/verbs.md#word-0245)

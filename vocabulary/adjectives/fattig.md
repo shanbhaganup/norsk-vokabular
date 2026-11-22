@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 14046](https://ordbokene.no/bm/14046)
-- [Reference record fattig](../../reference/vocabulary-4472/word-types/adjectives.md#word-0072)

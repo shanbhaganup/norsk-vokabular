@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, meter 2, entry 38136](https://ordbokene.no/bm/38136)
-- [Reference record word-0966](../../reference/vocabulary-4472/word-types/nouns.md#word-0966)

@@ -31,5 +31,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0300](../../reference/vocabulary-4472/word-types/adjectives.md#word-0300).
 - [Bokmålsordboka: sjalu (51828)](https://ordbokene.no/bm/51828).

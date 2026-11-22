@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: grade](https://ordbokene.no/bm/20586)
-- [Reference record added-78f658a77475](../../reference/vocabulary-4472/word-types/verbs.md#added-78f658a77475)

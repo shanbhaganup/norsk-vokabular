@@ -39,7 +39,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary paradigm verified; compound tense forms are productive. Passive constructions beyond dictionary-listed `fås` remain unverified.
 
-**Notes:** Promoted from [reference record word-0124](../../reference/vocabulary-4472/word-types/verbs.md#word-0124). The selected entry includes receiving/obtaining, being permitted or able to do something, and managing to cause or complete something. `Fått` and `fåtte` are listed as adjectival participle forms, but natural attributive uses were not verified and remain Unverified. `Fående` is listed in the dictionary but is rarely usable as a present participle; it remains Unverified. The dictionary records impersonal/passive `fås`, not ordinary `bli fått`. Do not read the dictionary-verified Norwegian paradigm as verification of the English gloss.
+**Notes:** The selected entry includes receiving/obtaining, being permitted or able to do something, and managing to cause or complete something. `Fått` and `fåtte` are listed as adjectival participle forms, but natural attributive uses were not verified and remain Unverified. `Fående` is listed in the dictionary but is rarely usable as a present participle; it remains Unverified. The dictionary records impersonal/passive `fås`, not ordinary `bli fått`. Do not read the dictionary-verified Norwegian paradigm as verification of the English gloss.
 
 **Sources:**
 

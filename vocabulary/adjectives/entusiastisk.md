@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, entusiastisk](https://ordbokene.no/bm/12885)
-- [Reference record added-f32eb990173a](../../reference/vocabulary-4472/word-types/adjectives.md#added-f32eb990173a)

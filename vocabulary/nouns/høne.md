@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: høne](https://ordbokene.no/bm/25183)
-- [Reference vocabulary record word-0634](../../reference/vocabulary-4472/word-types/nouns.md#word-0634)

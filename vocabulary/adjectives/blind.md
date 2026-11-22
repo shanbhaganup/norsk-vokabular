@@ -30,5 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, blind (6412)](https://ordbokene.no/bm/6412)
-- [Reference snapshot, word-0025](../../reference/vocabulary-4472/word-types/adjectives.md#word-0025)
-

@@ -37,5 +37,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0399)
 - [Bokmålsordboka 59351](https://ordbokene.no/bm/59351)

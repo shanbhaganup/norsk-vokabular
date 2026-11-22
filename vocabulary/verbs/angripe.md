@@ -48,4 +48,3 @@ checked_on: 2026-06-07
 **Sources:**
 
 - [Bokmålsordboka — angripe](https://ordbokene.no/bm/1830)
-- [Reference snapshot — angripe](../../reference/vocabulary-4472/word-types/verbs.md#word-0005)

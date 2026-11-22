@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: skinnende](https://ordbokene.no/bm/skinnende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-8c96f79788ad)

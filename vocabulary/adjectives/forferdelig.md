@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: forferdelig](https://ordbokene.no/bm/16228)
-- [Reference vocabulary: forferdelig](../../reference/vocabulary-4472/word-types/adjectives.md#word-0085)

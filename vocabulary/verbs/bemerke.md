@@ -51,4 +51,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bemerke](https://ordbokene.no/bm/5221)
-- [Reference record added-fa68289887a8](../../reference/vocabulary-4472/word-types/verbs.md#added-fa68289887a8)

@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 34562](https://ordbokene.no/bm/34562)
-- [Reference snapshot · løve](../../reference/vocabulary-4472/word-types/nouns.md#word-0914)

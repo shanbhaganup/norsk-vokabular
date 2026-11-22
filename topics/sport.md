@@ -117,10 +117,6 @@
 | [stadium](../vocabulary/nouns/stadium.md) | noun | stadium |
 | [supermann](../vocabulary/nouns/supermann.md) | noun | superman |
 | [surfer](../vocabulary/nouns/surfer.md) | noun | surfer |
-| [svømmebasseng](../vocabulary/nouns/svmmebasseng.md) | noun | swimming pool |
-| [svømmer](../vocabulary/nouns/svmmer.md) | noun | swimmer |
-| [svømmetur](../vocabulary/nouns/svmmetur.md) | noun | swim; swimming trip |
-| [svømming](../vocabulary/nouns/svmming.md) | noun | swimming |
 | [svømmebasseng](../vocabulary/nouns/svommebasseng.md) | noun | swimming pool |
 | [svømmer](../vocabulary/nouns/svommer.md) | noun | swimmer |
 | [svømmetur](../vocabulary/nouns/svommetur.md) | noun | swim; swimming trip |
@@ -164,4 +160,4 @@
 | [tape](../vocabulary/verbs/tape.md) | verb | to lose; to be defeated |
 | [svart](../vocabulary/nouns/svart.md) | noun | black |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

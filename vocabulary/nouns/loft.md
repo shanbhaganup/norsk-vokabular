@@ -28,4 +28,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · loft](https://ordbokene.no/bm/35641)
-- [Reference snapshot · loft](../../reference/vocabulary-4472/word-types/nouns.md#word-0879)

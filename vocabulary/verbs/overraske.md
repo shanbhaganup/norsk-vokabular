@@ -55,4 +55,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/43713)
-- [Related source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-c06b16b9caac)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: konkret](https://ordbokene.no/bm/31249)
-- [Reference vocabulary 0178](../../reference/vocabulary-4472/word-types/adjectives.md#word-0178)

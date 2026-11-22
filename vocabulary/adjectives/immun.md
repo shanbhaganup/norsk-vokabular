@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: immun](https://ordbokene.no/bm/immun)
-- [Reference snapshot: word-0146](../../reference/vocabulary-4472/word-types/adjectives.md#word-0146)

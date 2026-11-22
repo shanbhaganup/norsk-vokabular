@@ -37,5 +37,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0303](../../reference/vocabulary-4472/word-types/adjectives.md#word-0303).
 - [Bokmålsordboka: skade 2 II (52363), participle/adjective use](https://ordbokene.no/bm/52363).

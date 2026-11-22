@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: strålende](https://ordbokene.no/bm/strålende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-319a01d36af7)

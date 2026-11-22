@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, entry 38505](https://ordbokene.no/bm/38505)
-- [Reference record word-0983](../../reference/vocabulary-4472/word-types/nouns.md#word-0983)

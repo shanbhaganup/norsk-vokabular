@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: finansiell](https://ordbokene.no/bm/14694)
-- [Reference vocabulary: finansiell](../../reference/vocabulary-4472/word-types/adjectives.md#word-0079)

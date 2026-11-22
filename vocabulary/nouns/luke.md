@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · luke](https://ordbokene.no/bm/35998)
-- [Reference snapshot · luke](../../reference/vocabulary-4472/word-types/nouns.md#word-0889)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: uforsiktig](https://ordbokene.no/bm/uforsiktig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-aa3ed099e9ac)

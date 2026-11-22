@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 - [Bokmålsordboka: klubb](https://ordbokene.no/bm/30263)
 - [Bokmålsordboka: klubb, additional entry](https://ordbokene.no/bm/30264)
-- [Reference record word-0743](../../reference/vocabulary-4472/word-types/nouns.md#word-0743)

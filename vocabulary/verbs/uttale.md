@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: uttale](https://ordbokene.no/bm/65888)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-5b6732497b30)

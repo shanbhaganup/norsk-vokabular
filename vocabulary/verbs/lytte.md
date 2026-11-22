@@ -50,4 +50,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, lytte (36427)](https://ordbokene.no/bm/36427)
-- [Reference record word-0229](../../reference/vocabulary-4472/word-types/verbs.md#word-0229)

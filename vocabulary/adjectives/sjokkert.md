@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 - [Related working entry](../verbs/sjokkere.md)
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/sjokkert>)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-153f4b36ed98)

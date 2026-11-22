@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, lekker (34759)](https://ordbokene.no/bm/34759)
-- [Reference vocabulary, record 0196](../../reference/vocabulary-4472/word-types/adjectives.md#word-0196)

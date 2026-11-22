@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: telefonselskap](https://ordbokene.no/bm/136305)
-- [Reference vocabulary record 1589](../../reference/vocabulary-4472/word-types/nouns.md#word-1589)

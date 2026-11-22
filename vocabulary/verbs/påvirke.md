@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, påvirke (47150)](https://ordbokene.no/bm/47150)
-- [Reference record word-0288](../../reference/vocabulary-4472/word-types/verbs.md#word-0288)

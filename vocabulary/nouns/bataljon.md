@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 4746](https://ordbokene.no/bm/4746)
-- [Reference snapshot · bataljon](../../reference/vocabulary-4472/word-types/nouns.md#word-0105)

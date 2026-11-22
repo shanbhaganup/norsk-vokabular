@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: erklære](https://ordbokene.no/bm/13032)
-- [Reference record added-0b5a98ab06cd](../../reference/vocabulary-4472/word-types/verbs.md#added-0b5a98ab06cd)

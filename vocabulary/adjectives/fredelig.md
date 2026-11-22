@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, fredelig](https://ordbokene.no/bm/17680)
-- [Reference record added-c77cd042d209](../../reference/vocabulary-4472/word-types/adjectives.md#added-c77cd042d209)

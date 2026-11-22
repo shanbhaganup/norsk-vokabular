@@ -62,4 +62,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka — avlytte](https://ordbokene.no/eng/bm/3670)
-- [Reference snapshot — avlytte](../../reference/vocabulary-4472/word-types/verbs.md#word-0013)

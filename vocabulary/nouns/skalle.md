@@ -28,5 +28,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 52432](https://ordbokene.no/bm/52432)
 - [Bokmålsordboka 52433](https://ordbokene.no/bm/52433)
-
-- [Reference vocabulary entry](../../reference/vocabulary-4472/word-types/nouns.md#word-1360)

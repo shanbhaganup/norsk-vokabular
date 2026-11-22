@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: distribuere](https://ordbokene.no/bm/10354)
-- [Reference record added-6acab0e3f675](../../reference/vocabulary-4472/word-types/verbs.md#added-6acab0e3f675)

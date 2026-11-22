@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rømme 2 (49364)](https://ordbokene.no/bm/49364) · [rømme 3 (49365)](https://ordbokene.no/bm/49365)
-- [Reference record word-0309](../../reference/vocabulary-4472/word-types/verbs.md#word-0309)

@@ -28,4 +28,3 @@ source_anchor: added-8190780645db
 **Sources:**
 
 - [Bokm?lsordboka: vinne](https://ordbokene.no/bm/vinne)
-- Reference anchor: [added-8190780645db](../../reference/vocabulary-4472/word-types/nouns.md#added-8190780645db)

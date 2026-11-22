@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: demonstrere](https://ordbokene.no/bm/9714)
-- [Reference record added-dec9d730d247](../../reference/vocabulary-4472/word-types/verbs.md#added-dec9d730d247)

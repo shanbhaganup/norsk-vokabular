@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: chatte](https://ordbokene.no/bm/107208)
-- [Reference record added-49ff9ff9140b](../../reference/vocabulary-4472/word-types/verbs.md#added-49ff9ff9140b)

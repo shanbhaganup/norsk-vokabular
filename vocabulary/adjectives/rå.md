@@ -31,5 +31,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0283](../../reference/vocabulary-4472/word-types/adjectives.md#word-0283).
 - [Bokmålsordboka: rå 4 IV (49459)](https://ordbokene.no/bm/49459).

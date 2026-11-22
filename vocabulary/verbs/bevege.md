@@ -53,4 +53,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: bevege](https://ordbokene.no/bm/5703)
-- [Reference record #word-0042](../../reference/vocabulary-4472/word-types/verbs.md#word-0042)

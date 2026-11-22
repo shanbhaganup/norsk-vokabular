@@ -26,4 +26,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/2165)
-- [Reference snapshot · antakeligvis](../../reference/vocabulary-4472/word-types/adverbs.md#word-0009)

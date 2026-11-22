@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 42598](https://ordbokene.no/bm/42598)
-- [Reference snapshot · oppover](../../reference/vocabulary-4472/word-types/other-words.md#word-0017)

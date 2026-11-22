@@ -45,4 +45,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, lyve (36434)](https://ordbokene.no/bm/36434)
-- [Reference record word-0230](../../reference/vocabulary-4472/word-types/verbs.md#word-0230)

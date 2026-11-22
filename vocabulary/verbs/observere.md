@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, observere (41770)](https://ordbokene.no/bm/41770)
-- [Reference record word-0255](../../reference/vocabulary-4472/word-types/verbs.md#word-0255)

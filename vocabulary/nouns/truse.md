@@ -28,5 +28,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot: word-1654](../../reference/vocabulary-4472/word-types/nouns.md#word-1654)
 - [Bokmålsordboka](https://ordbokene.no/bm/62550)

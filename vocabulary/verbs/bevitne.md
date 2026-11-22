@@ -54,4 +54,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: bevitne](https://ordbokene.no/bm/5747)
-- [Reference record #word-0044](../../reference/vocabulary-4472/word-types/verbs.md#word-0044)

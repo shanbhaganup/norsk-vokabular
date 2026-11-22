@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary agreement and comparison forms checked against the reference paradigm; original examples authored for this entry.
 
-**Notes:** Adjective sense “bright/light-colored”, distinct from noun lys “light”. The reference snapshot labels it bright. Reference entry: [added-4d96365665c1](../../reference/vocabulary-4472/word-types/adjectives.md#added-4d96365665c1).
+**Notes:** Adjective sense “bright/light-colored”, distinct from noun lys “light”. The reference snapshot labels it bright.
 
 **Sources:**
 
 - [Bokmålsordboka 36301](https://ordbokene.no/bm/36301)
-- [Reference vocabulary](../../reference/vocabulary-4472/word-types/adjectives.md#added-4d96365665c1)

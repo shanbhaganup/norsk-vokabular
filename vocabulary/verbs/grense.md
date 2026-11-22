@@ -61,4 +61,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka, grense (verb)](https://ordbokene.no/eng/bm/20862)
 - [Bokmålsordboka, begrense](https://ordbokene.no/nob/bm/begrense%7Cgrense)
-- [Reference verb record added-6d20e0069e52](../../reference/vocabulary-4472/word-types/verbs.md#added-6d20e0069e52)

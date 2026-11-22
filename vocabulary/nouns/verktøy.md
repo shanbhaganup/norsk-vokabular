@@ -28,6 +28,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-1de98c61ff04](../../reference/vocabulary-4472/word-types/nouns.md#added-1de98c61ff04)
 
 - [Bokmålsordboka — verktøy](https://ordbokene.no/bm/67858)

@@ -30,5 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, arrestere (2745)](https://ordbokene.no/bm/2745)
-- [Reference snapshot, word-0011](../../reference/vocabulary-4472/word-types/adjectives.md#word-0011)
-

@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-e44168e9473d](../../reference/vocabulary-4472/word-types/adjectives.md#added-e44168e9473d)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/10214>)
 
 | Komparativ | mer direkte | Vi valgte en mer direkte vei. | We chose a more direct route. |

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: unik](https://ordbokene.no/bm/unik)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-fcc99010d581)

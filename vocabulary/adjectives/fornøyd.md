@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: fornøyd](https://ordbokene.no/bm/16671)
-- [Reference vocabulary: fornøyd](../../reference/vocabulary-4472/word-types/adjectives.md#word-0088)

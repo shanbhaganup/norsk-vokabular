@@ -57,9 +57,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms verified; compound tenses and passive examples are productive constructions. All example sentences are original teaching examples.
 
-**Notes:** The entry follows the ‘take away, clear away’ sense in [reference record word-0093](../../reference/vocabulary-4472/word-types/verbs.md#word-0093), corresponding to Bokmålsordboka entry 15052. The dictionary also has a related ‘remove from office’ sense, omitted here; English glosses were independently checked against the Norwegian definitions. The dictionary lists both common past/participle alternatives and rarer definite/plural forms. `Fjernende` is a regular present participle and is less common than a relative clause in ordinary prose. Passive examples use a direct object of `fjerne`.
+**Notes:** The entry follows the ‘take away, clear away’ sense, corresponding to Bokmålsordboka entry 15052. The dictionary also has a related ‘remove from office’ sense, omitted here; English glosses were independently checked against the Norwegian definitions. The dictionary lists both common past/participle alternatives and rarer definite/plural forms. `Fjernende` is a regular present participle and is less common than a relative clause in ordinary prose. Passive examples use a direct object of `fjerne`.
 
 **Sources:**
 
 - [Bokmålsordboka: fjerne 2 II (15052)](https://ordbokene.no/bm/15052)
-- [Reference snapshot record word-0093](../../reference/vocabulary-4472/word-types/verbs.md#word-0093)

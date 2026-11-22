@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka, grave (20773)](https://ordbokene.no/bm/20773)
 - [Bokmålsordboka, grave III (20774), homonym whose forms are mixed into the reference snapshot](https://ordbokene.no/bm/20774)
-- [Reference snapshot, grave](../../reference/vocabulary-4472/word-types/verbs.md#word-0142)

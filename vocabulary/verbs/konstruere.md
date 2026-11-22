@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — konstruere](https://ordbokene.no/bm/31345)
-- [Reference snapshot — konstruere](../../reference/vocabulary-4472/word-types/verbs.md#added-a7bbf40e5747)

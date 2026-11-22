@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gal](https://ordbokene.no/bm/18874)
-- [Reference record added-acc162fad0a0](../../reference/vocabulary-4472/word-types/adjectives.md#added-acc162fad0a0)

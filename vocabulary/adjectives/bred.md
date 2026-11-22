@@ -31,7 +31,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-cd2450d50d5e](../../reference/vocabulary-4472/word-types/adjectives.md#added-cd2450d50d5e)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/7351>)
 
 | Komparativ | bredere | Denne veien er bredere enn den gamle. | This road is broader than the old one. |

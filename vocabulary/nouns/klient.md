@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: klient](https://ordbokene.no/bm/30086)
-- [Reference record word-0738](../../reference/vocabulary-4472/word-types/nouns.md#word-0738)

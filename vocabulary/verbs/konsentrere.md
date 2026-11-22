@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — konsentrere](https://ordbokene.no/bm/31281)
-- [Reference snapshot — konsentrere](../../reference/vocabulary-4472/word-types/verbs.md#added-130b286201e6)

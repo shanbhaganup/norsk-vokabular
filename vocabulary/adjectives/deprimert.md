@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-0fc930b51d7d](../../reference/vocabulary-4472/word-types/adjectives.md#added-0fc930b51d7d)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/9779>)
 
 | Komparativ | mer deprimert | Han virket mer deprimert etter samtalen. | He seemed more depressed after the conversation. |

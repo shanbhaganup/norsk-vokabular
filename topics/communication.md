@@ -304,10 +304,9 @@
 | [vise](../vocabulary/verbs/vise.md) | verb | to show; to point out |
 | [vilje](../vocabulary/nouns/vilje.md) | noun | will; willingness |
 | [vits](../vocabulary/nouns/vits.md) | noun | joke |
-| [ønske](../vocabulary/verbs/undefined.md) | verb | to wish; to want; to wish someone something |
+| [ønske](../vocabulary/verbs/ønske.md) | verb | to wish; to want; to wish someone something |
 | [oppriktig](../vocabulary/adjectives/oppriktig.md) | adjective | sincere, genuine |
 | [åpne](../vocabulary/verbs/åpne.md) | verb | to open; make available; begin |
-| [ønske](../vocabulary/verbs/ønske.md) | verb | to wish; to want; to wish someone something |
 | [akseptere](../vocabulary/verbs/akseptere.md) | verb | to accept |
 | [anerkjenne](../vocabulary/verbs/anerkjenne.md) | verb | to acknowledge; recognize |
 | [engasjere](../vocabulary/verbs/engasjere.md) | verb | to engage; involve |
@@ -361,4 +360,4 @@
 | [takk](../vocabulary/nouns/takk.md) | noun | thanks |
 | [tale](../vocabulary/nouns/tale.md) | noun | speech |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

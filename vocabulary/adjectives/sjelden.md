@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0301](../../reference/vocabulary-4472/word-types/adjectives.md#word-0301).
 - [Bokmålsordboka: sjelden 1 I (51895)](https://ordbokene.no/bm/51895).

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: transportere](https://ordbokene.no/bm/61884)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-d51a474f62c1)

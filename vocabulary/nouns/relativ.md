@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, relativ](https://ordbokene.no/bm/48032)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-0c434626e189)
 - [Related adjective entry](../adjectives/relativ.md)

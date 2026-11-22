@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0319](../../reference/vocabulary-4472/word-types/adjectives.md#word-0319).
 - [Bokmålsordboka: snill (55157)](https://ordbokene.no/bm/55157).

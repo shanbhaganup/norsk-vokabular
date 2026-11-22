@@ -26,5 +26,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference anchor: added-f99156075c5f](../../reference/vocabulary-4472/word-types/nouns.md#added-f99156075c5f)
 - [Bokmålsordboka 28158](https://ordbokene.no/bm/28158)

@@ -30,6 +30,5 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 68949](https://ordbokene.no/bm/68949)
-- [Reference adjective added-4311b7cd31e8](../../reference/vocabulary-4472/word-types/adjectives.md#added-4311b7cd31e8)
 
 - [Related noun](../nouns/voksen.md)

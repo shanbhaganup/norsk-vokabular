@@ -46,4 +46,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka — avhøre](https://ordbokene.no/bm/3538)
-- [Reference snapshot — avhøre](../../reference/vocabulary-4472/word-types/verbs.md#word-0012)

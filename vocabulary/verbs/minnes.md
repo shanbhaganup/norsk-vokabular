@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: minnes (38543)](https://ordbokene.no/bm/38543)
-- [Reference snapshot, verb anchor added-1e4647dcc5cb](../../reference/vocabulary-4472/word-types/verbs.md#added-1e4647dcc5cb)

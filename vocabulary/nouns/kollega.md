@@ -28,4 +28,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: kollega](https://ordbokene.no/bm/30821)
-- [Reference record word-0752](../../reference/vocabulary-4472/word-types/nouns.md#word-0752)

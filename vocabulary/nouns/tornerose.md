@@ -25,5 +25,3 @@ checked_on: 2026-11-22
 **Notes:** Reference snapshot supplies no dictionary paradigm or dictionary citation. This entry covers the fairy-tale character as a proper name; all inflectional forms remain Unverified rather than inferred.
 
 **Sources:**
-
-- [Reference record word-1636](../../reference/vocabulary-4472/word-types/nouns.md#word-1636)

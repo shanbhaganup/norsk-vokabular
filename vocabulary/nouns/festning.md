@@ -28,5 +28,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record festning](../../reference/vocabulary-4472/word-types/nouns.md#word-0370)
 - [Bokmålsordboka 14472](https://ordbokene.no/bm/14472)

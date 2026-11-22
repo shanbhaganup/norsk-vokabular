@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 61336 / tog](https://ordbokene.no/bm/61336)
-- [Reference vocabulary word-1628](../../reference/vocabulary-4472/word-types/nouns.md#word-1628)

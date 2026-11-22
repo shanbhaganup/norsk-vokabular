@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary agreement forms checked against the reference paradigm; original examples authored for this entry.
 
-**Notes:** The reference lists no synthetic comparison. The common periphrastic forms mer kjent and mest kjent are included. Reference entry: [word-0169](../../reference/vocabulary-4472/word-types/adjectives.md#word-0169).
+**Notes:** The reference lists no synthetic comparison. The common periphrastic forms mer kjent and mest kjent are included.
 
 **Sources:**
 
 - [Bokmålsordboka 29548](https://ordbokene.no/bm/29548)
-- [Reference vocabulary word-0169](../../reference/vocabulary-4472/word-types/adjectives.md#word-0169)

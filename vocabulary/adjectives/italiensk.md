@@ -30,4 +30,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka, italiensk (27370)](https://ordbokene.no/bm/27370)
-- [Reference snapshot, record 160](../../reference/vocabulary-4472/word-types/adjectives.md#word-0160)

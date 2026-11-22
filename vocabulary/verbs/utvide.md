@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: utvide](https://ordbokene.no/bm/65961)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-5077be073848)

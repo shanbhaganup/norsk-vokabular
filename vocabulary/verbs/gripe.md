@@ -50,4 +50,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: gripe](https://ordbokene.no/bm/20974)
-- [Reference record added-01081311fc84](../../reference/vocabulary-4472/word-types/verbs.md#added-01081311fc84)

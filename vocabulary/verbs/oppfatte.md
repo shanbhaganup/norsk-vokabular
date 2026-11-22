@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, oppfatte (42403)](https://ordbokene.no/bm/42403)
-- [Reference record word-0259](../../reference/vocabulary-4472/word-types/verbs.md#word-0259)

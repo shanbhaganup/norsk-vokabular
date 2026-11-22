@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 61047 / ting](https://ordbokene.no/bm/61047)
-- [Reference vocabulary word-1618](../../reference/vocabulary-4472/word-types/nouns.md#word-1618)

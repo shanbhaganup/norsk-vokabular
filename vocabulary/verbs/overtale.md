@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, overtale (43780)](https://ordbokene.no/bm/43780)
-- [Reference record word-0271](../../reference/vocabulary-4472/word-types/verbs.md#word-0271)

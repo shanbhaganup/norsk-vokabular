@@ -39,7 +39,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms verified. Imperative is listed but its natural use is unclear; example unverified.
 
-**Notes:** Promoted from [reference record word-0125](../../reference/vocabulary-4472/word-types/verbs.md#word-0125). The main sense is giving birth; the dictionary also records a figurative use meaning bring forth/create. `Født` in “barnet er født” is a resultative/passive participle, while `har født` is the active perfect. The dictionary lists an imperative `fød!`, but it is pragmatically unusual for this verb and is not forced into an invented teaching example. The examples distinguish grammatical forms and are original. English gloss reviewed separately.
+**Notes:** The main sense is giving birth; the dictionary also records a figurative use meaning bring forth/create. `Født` in “barnet er født” is a resultative/passive participle, while `har født` is the active perfect. The dictionary lists an imperative `fød!`, but it is pragmatically unusual for this verb and is not forced into an invented teaching example. The examples distinguish grammatical forms and are original. English gloss reviewed separately.
 
 **Sources:**
 

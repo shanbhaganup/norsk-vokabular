@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/beslutning)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/nouns.md#added-051537cecaeb)

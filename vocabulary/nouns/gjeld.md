@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record gjeld](../../reference/vocabulary-4472/word-types/nouns.md#word-0489)
 - [Bokm?lsordboka 19721](https://ordbokene.no/bm/19721)

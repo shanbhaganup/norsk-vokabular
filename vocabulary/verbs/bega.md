@@ -45,4 +45,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: begå](https://ordbokene.no/bm/4988)
-- [Reference record added-493b85af62b4](../../reference/vocabulary-4472/word-types/verbs.md#added-493b85af62b4)

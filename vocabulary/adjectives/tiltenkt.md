@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/tiltenke.md)
 
 - [Bokmålsordboka: tiltenkt](https://ordbokene.no/bm/tiltenkt)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-7c67d2ccf897)

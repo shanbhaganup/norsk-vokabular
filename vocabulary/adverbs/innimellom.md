@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 26493](https://ordbokene.no/bm/26493)
-- [Reference snapshot · innimellom](../../reference/vocabulary-4472/word-types/other-words.md#word-0009)

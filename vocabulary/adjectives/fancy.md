@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, fancy](https://ordbokene.no/bm/fancy)
-- [Reference record added-409ce9e1451b](../../reference/vocabulary-4472/word-types/adjectives.md#added-409ce9e1451b)

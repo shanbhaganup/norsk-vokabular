@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 42328](https://ordbokene.no/bm/42328)
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-ea3d33f54d0a)

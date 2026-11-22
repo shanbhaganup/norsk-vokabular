@@ -30,5 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, bortskjemt (7114)](https://ordbokene.no/bm/7114)
-- [Reference snapshot, word-0027](../../reference/vocabulary-4472/word-types/adjectives.md#word-0027)
-

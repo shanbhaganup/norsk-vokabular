@@ -39,9 +39,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary headword and principal paradigm forms checked; compound tenses and original example sentences supplied for teaching.
 
-**Notes:** The source entry has several senses including draw, sketch, write down, sign or subscribe, and depict in words. Examples here focus on drawing/design. Tegna/tegnet alternatives are included as accepted Bokmål variants; compound and adjectival agreement rows illustrate common written forms. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order. Source record: [reference verb anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-aebbe35c17ee).
+**Notes:** The source entry has several senses including draw, sketch, write down, sign or subscribe, and depict in words. Examples here focus on drawing/design. Tegna/tegnet alternatives are included as accepted Bokmål variants; compound and adjectival agreement rows illustrate common written forms. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order.
 
 **Sources:**
 
 - [Bokmålsordboka: tegne](https://ordbokene.no/bm/60044)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-aebbe35c17ee)

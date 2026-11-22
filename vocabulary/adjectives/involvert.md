@@ -30,4 +30,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka, involvere (27120)](https://ordbokene.no/bm/27120)
-- [Reference snapshot, record 156](../../reference/vocabulary-4472/word-types/adjectives.md#word-0156)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: øredobb](https://ordbokene.no/bm/42764)
-- [Reference vocabulary word-1792](../../reference/vocabulary-4472/word-types/nouns.md#word-1792)

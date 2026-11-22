@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hvit](https://ordbokene.no/bm/24830)
-- [Reference vocabulary: word-0137](../../reference/vocabulary-4472/word-types/adjectives.md#word-0137)

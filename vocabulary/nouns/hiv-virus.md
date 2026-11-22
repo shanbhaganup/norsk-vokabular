@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hiv](https://ordbokene.no/bm/hiv)
-- [Reference vocabulary word-0577](../../reference/vocabulary-4472/word-types/nouns.md#word-0577)

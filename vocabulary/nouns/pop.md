@@ -31,6 +31,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 45588](https://ordbokene.no/bm/45588)
-- [Related adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-f80661ebdd3f)
 - [Working adjective entry](../adjectives/pop.md)
-- [Reference snapshot: word-1172](../../reference/vocabulary-4472/word-types/nouns.md#word-1172)

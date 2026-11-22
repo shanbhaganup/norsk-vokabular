@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, effektiv](https://ordbokene.no/bm/11703)
-- [Reference record added-f55a3a3e806e](../../reference/vocabulary-4472/word-types/adjectives.md#added-f55a3a3e806e)

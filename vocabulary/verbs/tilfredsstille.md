@@ -39,9 +39,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary headword and principal paradigm forms checked; compound tenses and original example sentences supplied for teaching.
 
-**Notes:** The dictionary sense is “gjøre tilfreds; oppfylle forventninger, krav, ønsker eller lignende.” The present participle also occurs as an adjective, with the lexicalized form tilfredsstillende. Passive voice is shown with direct-object senses. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order. Source record: [reference verb anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-bc8e7d7b3022).
+**Notes:** The dictionary sense is “gjøre tilfreds; oppfylle forventninger, krav, ønsker eller lignende.” The present participle also occurs as an adjective, with the lexicalized form tilfredsstillende. Passive voice is shown with direct-object senses. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order.
 
 **Sources:**
 
 - [Bokmålsordboka: tilfredsstille](https://ordbokene.no/bm/60765)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-bc8e7d7b3022)

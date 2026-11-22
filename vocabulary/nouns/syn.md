@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 59034](https://ordbokene.no/bm/59034)
 - [Bokmålsordboka 136674](https://ordbokene.no/bm/136674)
-- [Reference record word-1547](../../reference/vocabulary-4472/word-types/nouns.md#word-1547)

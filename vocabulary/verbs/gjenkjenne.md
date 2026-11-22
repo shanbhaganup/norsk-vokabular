@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: gjenkjenne](https://ordbokene.no/bm/19796)
-- [Reference record added-62ba42860d4a](../../reference/vocabulary-4472/word-types/verbs.md#added-62ba42860d4a)

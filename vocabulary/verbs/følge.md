@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: følge](https://ordbokene.no/bm/18673)
-- [Reference record added-bab3540b1502](../../reference/vocabulary-4472/word-types/verbs.md#added-bab3540b1502)

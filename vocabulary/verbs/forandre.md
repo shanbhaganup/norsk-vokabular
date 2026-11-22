@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forandre](https://ordbokene.no/bm/15918)
-- [Reference snapshot, word-0097](../../reference/vocabulary-4472/word-types/verbs.md#word-0097)

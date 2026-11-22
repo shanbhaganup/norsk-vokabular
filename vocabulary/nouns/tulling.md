@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot: word-1662](../../reference/vocabulary-4472/word-types/nouns.md#word-1662)
 - [Bokmålsordboka: action noun, a separate homonym](https://ordbokene.no/bm/62811)
 - [Bokmålsordboka: person sense](https://ordbokene.no/bm/62812)

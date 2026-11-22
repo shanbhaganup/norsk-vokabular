@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, oppkalle (42484)](https://ordbokene.no/bm/42484)
-- [Reference record word-0263](../../reference/vocabulary-4472/word-types/verbs.md#word-0263)

@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, pågripe (47065)](https://ordbokene.no/bm/47065)
-- [Reference record word-0286](../../reference/vocabulary-4472/word-types/verbs.md#word-0286)

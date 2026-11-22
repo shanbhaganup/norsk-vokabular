@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary word-1265](../../reference/vocabulary-4472/word-types/nouns.md#word-1265)
 - [Bokmålsordboka 48602](https://ordbokene.no/bm/48602)

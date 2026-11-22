@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gymnas](https://ordbokene.no/bm/21676)
-- [Reference record word-0535](../../reference/vocabulary-4472/word-types/nouns.md#word-0535)

@@ -29,5 +29,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference vocabulary word-0123](../../reference/vocabulary-4472/word-types/adjectives.md#word-0123)
 - [Bokmålsordboka 21736](https://ordbokene.no/bm/21736)

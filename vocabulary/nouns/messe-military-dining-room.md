@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, messe 3, entry 38064](https://ordbokene.no/bm/38064)
-- [Reference record word-0961](../../reference/vocabulary-4472/word-types/nouns.md#word-0961)

@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 
 - [Ordbøkene, male 2 (36721), paint](https://ordbokene.no/bm/36721)
 - [Ordbøkene, male 1 (36720), separate grind homonym](https://ordbokene.no/bm/36720)
-- [Reference record word-0237](../../reference/vocabulary-4472/word-types/verbs.md#word-0237)

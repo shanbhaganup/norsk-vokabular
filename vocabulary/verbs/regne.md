@@ -64,4 +64,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, regne 2 (47822)](https://ordbokene.no/bm/47822) · [regne 1, rain sense (47821)](https://ordbokene.no/bm/47821)
-- [Reference record word-0295](../../reference/vocabulary-4472/word-types/verbs.md#word-0295)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: yuan](https://ordbokene.no/bm/69698)
-- [Reference vocabulary word-1781](../../reference/vocabulary-4472/word-types/nouns.md#word-1781)

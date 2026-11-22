@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, liste (verb)](https://ordbokene.no/bm/35386)
-- [Reference verb record added-bbc9fb7d4ef6](../../reference/vocabulary-4472/word-types/verbs.md#added-bbc9fb7d4ef6)

@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gren](https://ordbokene.no/bm/20844)
-- [Reference vocabulary record word-0512](../../reference/vocabulary-4472/word-types/nouns.md#word-0512)

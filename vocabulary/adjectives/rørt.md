@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0286](../../reference/vocabulary-4472/word-types/adjectives.md#word-0286).
 - [Bokmålsordboka: rørt](https://ordbokene.no/bm/r%C3%B8rt).

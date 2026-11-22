@@ -25,7 +25,5 @@ checked_on: 2026-11-22
 **Notes:** Promoted from reference anchor word-1327. Forms and accepted alternatives follow the source record. Each alternative has its own example. The English meaning follows the source gloss; review contextual nuance where applicable.
 
 **Sources:**
-- [Related adjective source](../../reference/vocabulary-4472/word-types/adjectives.md#added-a095a5b862b6)
 
 - [Bokmålsordboka ](https://ordbokene.no/bm/50907)
-- [Reference vocabulary word-1327](../../reference/vocabulary-4472/word-types/nouns.md#word-1327)

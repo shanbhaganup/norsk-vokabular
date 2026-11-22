@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, spandere (55793)](https://ordbokene.no/bm/55793)
-- [Reference record word-0358](../../reference/vocabulary-4472/word-types/verbs.md#word-0358)

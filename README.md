@@ -1,6 +1,6 @@
 # Norskopplæring — Codex project template
 
-A Norwegian Bokmål vocabulary project with 12 templates and 12 worked entries. Every applicable form or feature row has a Norwegian example and an English translation. The earlier 4,472-entry vocabulary package is included as a reference snapshot.
+A Norwegian Bokmål vocabulary project with 12 templates and 12 worked entries. Every applicable form or feature row has a Norwegian example and an English translation.
 
 ## Start
 
@@ -20,7 +20,6 @@ A Norwegian Bokmål vocabulary project with 12 templates and 12 worked entries. 
 | templates/ | One copyable template and worked example per word type |
 | [vocabulary/INDEX.md](vocabulary/INDEX.md) | Links to 12 working example entries |
 | topics/ | Topic indexes for those working examples |
-| [reference/README.md](reference/README.md) | Existing 4,472-entry vocabulary, unchanged |
 | [imports/README.md](imports/README.md) | Instructions for future source lists |
 | [review/README.md](review/README.md) | Questions and uncertain forms needing review |
 | [docs/GRAMMAR.md](docs/GRAMMAR.md) | Grammar, status and example-writing conventions |
@@ -52,4 +51,4 @@ Allowed word_type values: noun, verb, adjective, adverb, pronoun, determiner, pr
 
 Each table has four columns: Form / feature, Value, Norwegian example, English translation. An example must use the listed form. Illustrate every accepted alternative listed in the same cell, or split it into separate rows. Use — for an inapplicable form with a reason; use Unverified when a form is unknown. Usage constructions and related words are labelled explicitly.
 
-The 12 worked entries demonstrate the enriched layout. The 4,472-entry reference retains its existing layout and verification notes; its entries can be promoted individually when requested. Working examples and reference copies are not additive counts of unique words. AGENTS.md carries project guidance; it does not update global ChatGPT memory or automatically convert an existing ChatGPT project.
+The 12 worked entries demonstrate the enriched layout. The migration log records entries promoted from the 4,472-entry snapshot. Working examples and reference copies are not additive counts of unique words. AGENTS.md carries project guidance; it does not update global ChatGPT memory or automatically convert an existing ChatGPT project.

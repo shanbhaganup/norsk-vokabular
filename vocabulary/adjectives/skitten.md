@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0304](../../reference/vocabulary-4472/word-types/adjectives.md#word-0304).
 - [Bokmålsordboka: skitten (52932)](https://ordbokene.no/bm/52932).

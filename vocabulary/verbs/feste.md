@@ -63,4 +63,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka: feste](https://ordbokene.no/bm/14453)
 - [Bokmålsordboka: feste (additional sense)](https://ordbokene.no/bm/14454)
-- [Reference record added-ec4fd8076b27](../../reference/vocabulary-4472/word-types/verbs.md#added-ec4fd8076b27)

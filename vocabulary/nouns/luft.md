@@ -28,4 +28,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · luft](https://ordbokene.no/bm/35902)
-- [Reference snapshot · luft](../../reference/vocabulary-4472/word-types/nouns.md#word-0886)

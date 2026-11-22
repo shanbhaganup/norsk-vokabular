@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gammeldags](https://ordbokene.no/bm/18980)
-- [Reference record added-0b794e5b22e1](../../reference/vocabulary-4472/word-types/adjectives.md#added-0b794e5b22e1)

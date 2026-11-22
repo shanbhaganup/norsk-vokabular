@@ -78,4 +78,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, glede (verb)](https://ordbokene.no/bm/20199)
-- [Reference verb record added-4ee32bb44bc1](../../reference/vocabulary-4472/word-types/verbs.md#added-4ee32bb44bc1)

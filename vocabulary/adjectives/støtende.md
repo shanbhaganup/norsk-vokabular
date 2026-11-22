@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/støte.md)
 
 - [Bokmålsordboka: støtende](https://ordbokene.no/bm/støtende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-5a55a5f74167)

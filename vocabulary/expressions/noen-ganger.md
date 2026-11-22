@@ -23,4 +23,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/gang)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-f17543b38ec7)

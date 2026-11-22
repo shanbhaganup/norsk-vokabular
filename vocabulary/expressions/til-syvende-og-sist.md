@@ -23,4 +23,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/syvende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-e03ec7641efb)

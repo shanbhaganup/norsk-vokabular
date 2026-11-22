@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0275](../../reference/vocabulary-4472/word-types/adjectives.md#word-0275).
 - [Bokmålsordboka: rett 3 III (48356)](https://ordbokene.no/bm/48356).

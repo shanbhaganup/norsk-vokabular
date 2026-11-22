@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hilsen](https://ordbokene.no/bm/hilsen)
-- [Reference vocabulary word-0572](../../reference/vocabulary-4472/word-types/nouns.md#word-0572)

@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: håndveske](https://ordbokene.no/bm/25484)
-- [Reference vocabulary record word-0631](../../reference/vocabulary-4472/word-types/nouns.md#word-0631)

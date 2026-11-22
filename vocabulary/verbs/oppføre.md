@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, oppføre (42422)](https://ordbokene.no/bm/42422) · [fixed expression oppføre seg](https://ordbokene.no/bm/oppf%C3%B8re%20seg)
-- [Reference record word-0261](../../reference/vocabulary-4472/word-types/verbs.md#word-0261)

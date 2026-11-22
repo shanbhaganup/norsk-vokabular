@@ -31,7 +31,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot — sein](../../reference/vocabulary-4472/word-types/adjectives.md#added-3450bb7f6c34)
 
-- Reference record [word-0291](../../reference/vocabulary-4472/word-types/adjectives.md#word-0291).
 - [Bokmålsordboka: sen 3 III (50846)](https://ordbokene.no/bm/50846).

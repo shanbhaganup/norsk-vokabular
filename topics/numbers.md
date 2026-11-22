@@ -96,4 +96,4 @@
 | [måle](../vocabulary/verbs/måle.md) | verb | measure |
 | [regne ut](../vocabulary/verbs/regne-ut.md) | verb | calculate |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

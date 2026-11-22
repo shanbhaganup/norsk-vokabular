@@ -28,5 +28,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record feiring](../../reference/vocabulary-4472/word-types/nouns.md#word-0361)
 - [Bokmålsordboka 112646](https://ordbokene.no/bm/112646)

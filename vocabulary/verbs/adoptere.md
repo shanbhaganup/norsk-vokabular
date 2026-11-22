@@ -46,4 +46,3 @@ checked_on: 2026-06-07
 **Sources:**
 
 - [Bokmålsordboka — adoptere](https://ordbokene.no/bm/220)
-- [Reference snapshot — adoptere](../../reference/vocabulary-4472/word-types/verbs.md#word-0001)

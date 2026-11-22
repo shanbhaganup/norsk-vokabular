@@ -25,5 +25,3 @@ checked_on: 2026-11-22
 **Notes:** Promoted from reference record word-1336. Alternatives are separately illustrated.
 
 **Sources:**
-
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/nouns.md#word-1336)

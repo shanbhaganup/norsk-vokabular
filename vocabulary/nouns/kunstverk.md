@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kunstverk](https://ordbokene.no/bm/kunstverk)
-- [Reference snapshot word-0817](../../reference/vocabulary-4472/word-types/nouns.md#word-0817)

@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka Jordene langs elva er fruktbare.](https://ordbokene.no/bm/Jordene langs elva er fruktbare.)
-- [Reference vocabulary word-0666](../../reference/vocabulary-4472/word-types/nouns.md#word-0666)

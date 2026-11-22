@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka ](https://ordbokene.no/bm/50861)
-- [Reference vocabulary word-1325](../../reference/vocabulary-4472/word-types/nouns.md#word-1325)

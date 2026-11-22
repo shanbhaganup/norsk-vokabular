@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 45258](https://ordbokene.no/bm/45258)
 - [Bokmålsordboka 45259](https://ordbokene.no/bm/45259)
-- [Reference snapshot: word-1158](../../reference/vocabulary-4472/word-types/nouns.md#word-1158)

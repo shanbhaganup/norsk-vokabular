@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, påstå (47132)](https://ordbokene.no/bm/47132)
-- [Reference record word-0287](../../reference/vocabulary-4472/word-types/verbs.md#word-0287)

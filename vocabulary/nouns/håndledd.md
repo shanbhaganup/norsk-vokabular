@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: håndledd](https://ordbokene.no/bm/25436)
-- [Reference vocabulary record word-0630](../../reference/vocabulary-4472/word-types/nouns.md#word-0630)

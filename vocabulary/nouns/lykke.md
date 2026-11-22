@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · lykke](https://ordbokene.no/bm/36235)
-- [Reference snapshot · lykke](../../reference/vocabulary-4472/word-types/nouns.md#word-0894)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 - [Bokmålsordboka: kokk, cook sense](https://ordbokene.no/bm/30751)
 - [Bokmålsordboka: kokk, bacteria homograph](https://ordbokene.no/bm/30750)
-- [Reference record word-0751](../../reference/vocabulary-4472/word-types/nouns.md#word-0751)

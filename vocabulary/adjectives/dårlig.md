@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, dårlig](https://ordbokene.no/bm/11621)
-- [Reference record added-c9f68216a175](../../reference/vocabulary-4472/word-types/adjectives.md#added-c9f68216a175)

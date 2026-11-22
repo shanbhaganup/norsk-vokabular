@@ -50,4 +50,3 @@ checked_on: 2026-11-21
 
 - [Bokmålsordboka: bære, entry 1](https://ordbokene.no/bm/8439)
 - [Bokmålsordboka: bære, entry 2](https://ordbokene.no/bm/8440)
-- [Reference vocabulary record word-0058](../../reference/vocabulary-4472/word-types/verbs.md#word-0058)

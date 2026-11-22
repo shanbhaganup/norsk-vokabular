@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 60982 / tiltale](https://ordbokene.no/bm/60982)
-- [Reference vocabulary word-1616](../../reference/vocabulary-4472/word-types/nouns.md#word-1616)

@@ -27,6 +27,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-143ef2e9fab9](../../reference/vocabulary-4472/word-types/nouns.md#added-143ef2e9fab9)
 
 - [Bokmålsordboka: årstid](https://ordbokene.no/bm/1137)

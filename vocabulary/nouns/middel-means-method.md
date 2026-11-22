@@ -30,7 +30,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference anchor: added-513fb82741c3](../../reference/vocabulary-4472/word-types/nouns.md#added-513fb82741c3)
 
 - [Ordbøkene, middel 1, entry 38224](https://ordbokene.no/bm/38224)
-- [Reference record word-0970](../../reference/vocabulary-4472/word-types/nouns.md#word-0970)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/objektiv)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-2332c5247883)

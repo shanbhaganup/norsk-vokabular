@@ -50,4 +50,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: mislykkes (38654)](https://ordbokene.no/bm/38654)
-- [Reference snapshot, verb anchor added-6f4f66c8798f](../../reference/vocabulary-4472/word-types/verbs.md#added-6f4f66c8798f)

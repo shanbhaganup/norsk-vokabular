@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 1390](https://ordbokene.no/bm/1390)
-- [Reference noun record added-82895f394c09](../../reference/vocabulary-4472/word-types/nouns.md#added-82895f394c09)

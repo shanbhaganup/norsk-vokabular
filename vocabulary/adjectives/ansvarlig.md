@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, ansvarlig (2136)](https://ordbokene.no/bm/2136)
-- [Reference snapshot, record 9](../../reference/vocabulary-4472/word-types/adjectives.md#word-0009)

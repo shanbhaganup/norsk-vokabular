@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0285](../../reference/vocabulary-4472/word-types/adjectives.md#word-0285).
 - [Bokmålsordboka: rød (49294)](https://ordbokene.no/bm/49294).

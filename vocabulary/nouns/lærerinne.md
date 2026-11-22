@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · lærerinne](https://ordbokene.no/bm/123379)
-- [Reference snapshot · lærerinne](../../reference/vocabulary-4472/word-types/nouns.md#word-0901)

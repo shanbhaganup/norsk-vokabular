@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, kule](https://ordbokene.no/nob/bm/kule)
-- [Reference vocabulary record word-0810](../../reference/vocabulary-4472/word-types/nouns.md#word-0810)

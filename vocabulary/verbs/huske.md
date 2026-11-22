@@ -63,4 +63,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 24687, memory sense](https://ordbokene.no/bm/24687)
 - [Bokmålsordboka 24686, separate rocking homonym](https://ordbokene.no/bm/24686)
-- [Reference record word-0161](../../reference/vocabulary-4472/word-types/verbs.md#word-0161)

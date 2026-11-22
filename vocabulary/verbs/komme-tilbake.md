@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — komme tilbake](https://ordbokene.no/bm/30960)
-- [Reference snapshot — komme tilbake](../../reference/vocabulary-4472/word-types/verbs.md#added-c2998eca4ea1)

@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, føre (18713)](https://ordbokene.no/bm/18713)
-- [Reference snapshot, record 127](../../reference/vocabulary-4472/word-types/verbs.md#word-0127)

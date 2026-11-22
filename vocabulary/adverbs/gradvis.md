@@ -24,7 +24,5 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record added-de9090d0956d](../../reference/vocabulary-4472/word-types/adjectives.md#added-de9090d0956d)
 
 - [Bokmålsordboka](https://ordbokene.no/bm/20604)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#word-0063)

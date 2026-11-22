@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forlenge](https://ordbokene.no/bm/16472)
-- [Reference record added-6b9716d68876](../../reference/vocabulary-4472/word-types/verbs.md#added-6b9716d68876)

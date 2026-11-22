@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: få tak i](https://ordbokene.no/bm/18820)
-- [Reference record added-12df6ac8fd14](../../reference/vocabulary-4472/word-types/verbs.md#added-12df6ac8fd14)

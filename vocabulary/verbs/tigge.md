@@ -39,9 +39,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary headword and principal paradigm forms checked; compound tenses and original example sentences supplied for teaching.
 
-**Notes:** Intransitive tigge does not take a direct object in the ordinary “beg” sense, so passive rows are inapplicable; dash means this argument structure does not form a natural passive here. The source sense includes pleading as well as asking for food or money. Confirmed common participle is tigget; tigga is included as an accepted alternative. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order. Source record: [reference verb anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-c55664cf8996).
+**Notes:** Intransitive tigge does not take a direct object in the ordinary “beg” sense, so passive rows are inapplicable; dash means this argument structure does not form a natural passive here. The source sense includes pleading as well as asking for food or money. Confirmed common participle is tigget; tigga is included as an accepted alternative. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order.
 
 **Sources:**
 
 - [Bokmålsordboka: tigge](https://ordbokene.no/bm/60660)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-c55664cf8996)

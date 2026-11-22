@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/p%C3%A5litelig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-ef7e1caa1acc)

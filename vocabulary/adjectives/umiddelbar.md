@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: umiddelbar](https://ordbokene.no/bm/umiddelbar)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-8f1f4e9b88bd)

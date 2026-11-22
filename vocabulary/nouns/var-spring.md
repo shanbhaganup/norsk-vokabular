@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-c40cb7c158a0](../../reference/vocabulary-4472/word-types/nouns.md#added-c40cb7c158a0)
 
 - [Bokmålsordboka: vår (substantiv)](https://ordbokene.no/bm/69349)

@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/19587)
-- [Reference snapshot · gift](../../reference/vocabulary-4472/word-types/adjectives.md#added-662ed4bcf6db)

@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/regelmessig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-3dd4e03974cb)
 - [Working adverb entry](../adverbs/regelmessig.md)

@@ -64,4 +64,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: late](https://ordbokene.no/bm/33970)
-- [Reference record](../../reference/vocabulary-4472/word-types/verbs.md#added-3b66a7ed30f0)

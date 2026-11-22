@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, fornuftig](https://ordbokene.no/bm/16654)
-- [Reference record added-c6d2cc3320ee](../../reference/vocabulary-4472/word-types/adjectives.md#added-c6d2cc3320ee)

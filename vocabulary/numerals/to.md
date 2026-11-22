@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 
 - [Bokmålsordboka 61288](https://ordbokene.no/bm/61288)
 - [Bokmålsordboka 107465](https://ordbokene.no/bm/107465)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-954b784b597e)

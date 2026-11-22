@@ -43,8 +43,6 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Related adjective source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-60f690097c30)
 
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0342)
 
 - [Bokmålsordboka 53628](https://ordbokene.no/bm/53628)

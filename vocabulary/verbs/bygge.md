@@ -65,4 +65,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: bygge](https://ordbokene.no/bm/8305)
-- [Reference vocabulary record word-0057](../../reference/vocabulary-4472/word-types/verbs.md#word-0057)

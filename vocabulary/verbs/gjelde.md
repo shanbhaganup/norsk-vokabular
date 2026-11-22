@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka, gjelde (19726)](https://ordbokene.no/bm/19726)
 - [Bokmålsordboka, gjelde II (19727), separate homonym cited in the snapshot](https://ordbokene.no/bm/19727)
-- [Reference snapshot, record 131](../../reference/vocabulary-4472/word-types/verbs.md#word-0131)

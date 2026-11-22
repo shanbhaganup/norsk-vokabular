@@ -25,4 +25,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/mest)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-ba99aff681b0)

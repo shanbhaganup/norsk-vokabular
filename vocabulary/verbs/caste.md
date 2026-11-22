@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: caste](https://ordbokene.no/bm/108828)
-- [Reference record added-bd5df4a38f9b](../../reference/vocabulary-4472/word-types/verbs.md#added-bd5df4a38f9b)

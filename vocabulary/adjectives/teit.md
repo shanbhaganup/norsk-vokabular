@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0346](../../reference/vocabulary-4472/word-types/adjectives.md#word-0346).
 - [Bokmålsordboka: teit (60084)](https://ordbokene.no/bm/60084).

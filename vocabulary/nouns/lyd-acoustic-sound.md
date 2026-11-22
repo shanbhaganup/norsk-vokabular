@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka · lyd](https://ordbokene.no/bm/36171)
 - [Bokmålsordboka · lyd](https://ordbokene.no/bm/136643)
-- [Reference snapshot · lyd](../../reference/vocabulary-4472/word-types/nouns.md#word-0893)

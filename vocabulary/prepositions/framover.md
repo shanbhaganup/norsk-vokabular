@@ -26,5 +26,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 17538](https://ordbokene.no/bm/17538)
-- [Reference snapshot · assigned record](../../reference/vocabulary-4472/word-types/other-words.md#word-0003)
-- [Reference snapshot · framover](../../reference/vocabulary-4472/word-types/other-words.md#added-a7bcbf94553b)

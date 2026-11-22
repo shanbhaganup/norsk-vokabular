@@ -30,5 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, bevisstløs (5746)](https://ordbokene.no/bm/5746)
-- [Reference snapshot, word-0022](../../reference/vocabulary-4472/word-types/adjectives.md#word-0022)
-

@@ -33,7 +33,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-80e333fa998e](../../reference/vocabulary-4472/word-types/adjectives.md#added-80e333fa998e)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/8560>)
 
 | Komparativ | — | — | The resulting-state meaning ‘bent’ is not ordinarily graded. |

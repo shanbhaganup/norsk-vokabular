@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0203](../../reference/vocabulary-4472/word-types/adjectives.md#word-0203).
 - [Bokmålsordboka: lovlig 1 I (35856)](https://ordbokene.no/bm/35856).

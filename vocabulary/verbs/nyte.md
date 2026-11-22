@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, nyte (41415)](https://ordbokene.no/bm/41415)
-- [Reference record word-0253](../../reference/vocabulary-4472/word-types/verbs.md#word-0253)

@@ -28,4 +28,3 @@ source_anchor: added-e7defde56940
 **Sources:**
 
 - [Bokm?lsordboka: vinge](https://ordbokene.no/bm/vinge)
-- Reference anchor: [added-e7defde56940](../../reference/vocabulary-4472/word-types/nouns.md#added-e7defde56940)

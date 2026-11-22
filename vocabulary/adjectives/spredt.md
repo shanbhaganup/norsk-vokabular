@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/spre.md)
 
 - [Bokmålsordboka: spredt](https://ordbokene.no/bm/spredt)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-c26c22034684)

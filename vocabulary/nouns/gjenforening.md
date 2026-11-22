@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record gjenforening](../../reference/vocabulary-4472/word-types/nouns.md#word-0490)
 - [Bokm?lsordboka 115794](https://ordbokene.no/bm/115794)

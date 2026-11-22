@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 68666](https://ordbokene.no/bm/68666)
-- [Reference vocabulary virke](../../reference/vocabulary-4472/word-types/verbs.md#word-0445)

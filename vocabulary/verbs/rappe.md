@@ -57,4 +57,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rappe 1 (47461)](https://ordbokene.no/bm/47461)
-- [Reference record word-0291](../../reference/vocabulary-4472/word-types/verbs.md#word-0291)

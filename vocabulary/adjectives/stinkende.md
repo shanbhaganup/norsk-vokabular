@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0330](../../reference/vocabulary-4472/word-types/adjectives.md#word-0330).
 - [Bokmålsordboka: stinkende (130581)](https://ordbokene.no/bm/130581).

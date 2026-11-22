@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, humoristisk](https://ordbokene.no/bm/24507)
-- [Reference record added-a49e774e8b1c](../../reference/vocabulary-4472/word-types/adjectives.md#added-a49e774e8b1c)

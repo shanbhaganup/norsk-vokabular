@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: herre](https://ordbokene.no/bm/23365)
-- [Reference record word-0567](../../reference/vocabulary-4472/word-types/nouns.md#word-0567)

@@ -28,4 +28,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 67841](https://ordbokene.no/bm/67841)
-- [Reference noun record word-1738](../../reference/vocabulary-4472/word-types/nouns.md#word-1738)

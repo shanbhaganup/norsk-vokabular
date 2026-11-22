@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bøye](https://ordbokene.no/bm/8560)
-- [Reference record added-50259b53804d](../../reference/vocabulary-4472/word-types/verbs.md#added-50259b53804d)

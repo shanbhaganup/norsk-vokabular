@@ -38,4 +38,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, lav/låg (34077)](https://ordbokene.no/bm/34077)
-- [Reference vocabulary, record 0194](../../reference/vocabulary-4472/word-types/adjectives.md#word-0194)

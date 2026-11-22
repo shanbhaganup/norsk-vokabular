@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka: rimelig](https://ordbokene.no/bm/rimelig)
 - [Related adjective entry](../adjectives/rimelig.md)
-- [Related adjective source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-f4a9df96ca22)

@@ -45,4 +45,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: beskylde](https://ordbokene.no/bm/5483)
-- [Reference record added-78de9db23bdd](../../reference/vocabulary-4472/word-types/verbs.md#added-78de9db23bdd)

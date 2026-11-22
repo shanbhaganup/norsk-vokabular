@@ -88,4 +88,4 @@
 | [sitere](../vocabulary/verbs/sitere.md) | verb | cite |
 | [sortere](../vocabulary/verbs/sortere.md) | verb | sort; sort out |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

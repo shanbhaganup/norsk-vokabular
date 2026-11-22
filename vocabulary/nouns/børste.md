@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: børste](https://ordbokene.no/bm/8539)
-- [Reference noun record added-42fcc32d99df](../../reference/vocabulary-4472/word-types/nouns.md#added-42fcc32d99df)

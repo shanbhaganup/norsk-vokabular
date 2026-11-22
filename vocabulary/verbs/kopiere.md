@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — kopiere](https://ordbokene.no/bm/31543)
-- [Reference snapshot — kopiere](../../reference/vocabulary-4472/word-types/verbs.md#added-32c2f79337c0)

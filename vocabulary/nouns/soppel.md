@@ -22,7 +22,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms checked against the cited Bokmålsordboka entries; original example sentences supplied.
 
-**Notes:** Source reference: [word-1555](../../reference/vocabulary-4472/word-types/nouns.md#word-1555). Every accepted alternative is illustrated in the same order. Original teaching examples are used.
+**Notes:** Every accepted alternative is illustrated in the same order. Original teaching examples are used.
 
 **Sources:**
 

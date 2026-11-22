@@ -23,7 +23,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms checked against the cited Bokmålsordboka entry; original example sentences supplied.
 
-**Notes:** Source reference: [word-1567](../../reference/vocabulary-4472/word-types/nouns.md#word-1567). This neuter entry covers both the sense ‘innate ability’ and the dictionary’s related use for a person who has such ability. It is distinct from the historical unit at [talent-historical-unit.md](talent-historical-unit.md).
+**Notes:** This neuter entry covers both the sense ‘innate ability’ and the dictionary’s related use for a person who has such ability. It is distinct from the historical unit at [talent-historical-unit.md](talent-historical-unit.md).
 
 **Sources:**
 

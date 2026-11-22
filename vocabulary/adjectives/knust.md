@@ -25,9 +25,8 @@ checked_on: 2026-11-22
 
 **Form status:** Bokmålsordboka verifies the past participle and its adjectival agreement forms. Comparison is inapplicable to the result-state sense shown. Examples are original.
 
-**Notes:** Adjectival past participle of knuse. Comparison is not applicable to this result-state participle. Reference entry: [word-0171](../../reference/vocabulary-4472/word-types/adjectives.md#word-0171).
+**Notes:** Adjectival past participle of knuse. Comparison is not applicable to this result-state participle.
 
 **Sources:**
 
 - [Bokmålsordboka 30605](https://ordbokene.no/bm/30605)
-- [Reference vocabulary word-0171](../../reference/vocabulary-4472/word-types/adjectives.md#word-0171)

@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record gave](../../reference/vocabulary-4472/word-types/nouns.md#word-0478)
 - [Bokmålsordboka 19312](https://ordbokene.no/bm/19312)

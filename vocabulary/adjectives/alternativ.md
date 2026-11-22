@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 1391](https://ordbokene.no/bm/1391)
-- [Reference adjective record added-909606930b6a](../../reference/vocabulary-4472/word-types/adjectives.md#added-909606930b6a)

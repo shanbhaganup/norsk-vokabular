@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0350](../../reference/vocabulary-4472/word-types/adjectives.md#word-0350).
 - [Bokmålsordboka: tiltrekkende (108780)](https://ordbokene.no/bm/108780).

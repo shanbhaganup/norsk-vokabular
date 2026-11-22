@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 59138](https://ordbokene.no/bm/59138)
 - [Bokmålsordboka 59139](https://ordbokene.no/bm/59139)
-- [Reference record word-1550](../../reference/vocabulary-4472/word-types/nouns.md#word-1550)

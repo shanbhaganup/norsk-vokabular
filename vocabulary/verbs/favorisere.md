@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: favorisere](https://ordbokene.no/bm/14068)
-- [Reference record added-ae45963cfcfb](../../reference/vocabulary-4472/word-types/verbs.md#added-ae45963cfcfb)

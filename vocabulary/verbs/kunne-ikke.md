@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kunne](https://ordbokene.no/bm/32751)
-- [Reference snapshot: kunne ikke](../../reference/vocabulary-4472/word-types/verbs.md#added-78b3a916938b)

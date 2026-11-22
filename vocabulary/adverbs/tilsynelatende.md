@@ -25,7 +25,5 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Related adjective entry](../adjectives/tilsynelatende.md)
-- [Related adjective source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-5387fcf6bfc1)
 
 - [Bokmålsordboka](https://ordbokene.no/bm/60965)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#word-0198)

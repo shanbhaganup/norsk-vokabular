@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kusine](https://ordbokene.no/bm/kusine)
-- [Reference snapshot word-0821](../../reference/vocabulary-4472/word-types/nouns.md#word-0821)

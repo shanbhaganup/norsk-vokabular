@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-704f7e57f7a0)
 - [Bokmålsordboka: reklamere](https://ordbokene.no/bm/reklamere)

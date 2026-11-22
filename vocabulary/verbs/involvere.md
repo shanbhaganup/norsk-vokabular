@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — involvere](https://ordbokene.no/bm/27120)
-- [Reference snapshot — involvere](../../reference/vocabulary-4472/word-types/verbs.md#added-14fef5212021)

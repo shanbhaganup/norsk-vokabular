@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: grep](https://ordbokene.no/bm/20892)
-- [Reference vocabulary record word-0514](../../reference/vocabulary-4472/word-types/nouns.md#word-0514)

@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forvente](https://ordbokene.no/bm/17257)
-- [Reference record added-15eb62f297bb](../../reference/vocabulary-4472/word-types/verbs.md#added-15eb62f297bb)

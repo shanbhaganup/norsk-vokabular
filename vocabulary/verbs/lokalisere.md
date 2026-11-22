@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: lokalisere](https://ordbokene.no/bm/35690)
-- [Reference record](../../reference/vocabulary-4472/word-types/verbs.md#added-a04fded0ddbc)

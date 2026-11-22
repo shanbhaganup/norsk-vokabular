@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 40598](https://ordbokene.no/bm/40598)
-- [Reference snapshot · nei](../../reference/vocabulary-4472/word-types/other-words.md#word-0013)

@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-0c6734503120](../../reference/vocabulary-4472/word-types/nouns.md#added-0c6734503120)
 
 - [Bokmålsordboka: ønske (substantiv)](https://ordbokene.no/bm/42737)

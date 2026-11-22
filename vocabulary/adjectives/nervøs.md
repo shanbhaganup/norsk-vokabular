@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0232](../../reference/vocabulary-4472/word-types/adjectives.md#word-0232).
 - [Bokmålsordboka: nervøs](https://ordbokene.no/bm/nerv%C3%B8s).

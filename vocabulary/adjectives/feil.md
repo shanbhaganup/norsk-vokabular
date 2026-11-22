@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Invariable agreement forms and absence of synthetic comparison follow the reference paradigm.
 
-**Notes:** Feil does not change for gender, number or definiteness in this adjective sense. Comparison is not normally used for a binary correctness judgment. Distinct from the noun feil “mistake”. Reference entry [added-515ef264e65e](../../reference/vocabulary-4472/word-types/adjectives.md#added-515ef264e65e).
+**Notes:** Feil does not change for gender, number or definiteness in this adjective sense. Comparison is not normally used for a binary correctness judgment. Distinct from the noun feil “mistake”.
 
 **Sources:**
 
 - [Bokmålsordboka 14124](https://ordbokene.no/bm/14124)
-- [Reference vocabulary](../../reference/vocabulary-4472/word-types/adjectives.md#added-515ef264e65e)

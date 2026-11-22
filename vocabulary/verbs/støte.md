@@ -47,5 +47,4 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka: støte, støyte](https://ordbokene.no/bm/støte)
 - [Språkrådet: støte — støter — støtte — har støtt](https://sprakradet.no/spraksporsmal-og-svar/skjotte-blotte-stotte-ikke-skjotet-blotet-stotet/)
-- [Related adjective source record: støtende](../../reference/vocabulary-4472/word-types/adjectives.md#added-5a55a5f74167)
 - [Related adjective entry](../adjectives/støtende.md)

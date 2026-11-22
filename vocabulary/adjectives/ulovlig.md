@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0379](../../reference/vocabulary-4472/word-types/adjectives.md#word-0379).
 - [Bokmålsordboka: ulovlig (64128)](https://ordbokene.no/bm/64128).

@@ -65,4 +65,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, lønne (34442)](https://ordbokene.no/bm/34442)
-- [Reference record word-0234](../../reference/vocabulary-4472/word-types/verbs.md#word-0234)

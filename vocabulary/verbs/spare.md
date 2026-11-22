@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, spare (55815)](https://ordbokene.no/bm/55815)
-- [Reference record word-0359](../../reference/vocabulary-4472/word-types/verbs.md#word-0359)

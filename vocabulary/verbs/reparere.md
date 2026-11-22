@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-bae0139cecae)
 - [Bokmålsordboka: reparere](https://ordbokene.no/bm/reparere)

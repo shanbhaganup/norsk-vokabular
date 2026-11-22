@@ -57,4 +57,3 @@ checked_on: 2026-11-22
 
 - [Ordbøkene, misse 2 (38676), miss in sport](https://ordbokene.no/bm/38676)
 - [Ordbøkene, misse 1 (38675), separate “lose” homonym](https://ordbokene.no/bm/38675)
-- [Reference record word-0244](../../reference/vocabulary-4472/word-types/verbs.md#word-0244)

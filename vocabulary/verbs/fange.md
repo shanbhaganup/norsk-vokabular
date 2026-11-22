@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: fange (13791)](https://ordbokene.no/bm/13791)
-- [Reference vocabulary record word-0086](../../reference/vocabulary-4472/word-types/verbs.md#word-0086)

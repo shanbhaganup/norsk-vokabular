@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: knapp, noun entry](https://ordbokene.no/bm/30424)
-- [Reference record word-0745](../../reference/vocabulary-4472/word-types/nouns.md#word-0745)

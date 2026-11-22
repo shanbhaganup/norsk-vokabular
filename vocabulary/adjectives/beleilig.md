@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-cc2e622caec9](../../reference/vocabulary-4472/word-types/adjectives.md#added-cc2e622caec9)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/5164>)
 
 | Komparativ | mer beleilig | Denne anledningen passer mer beleilig enn den andre. | This occasion is more convenient than the other one. |

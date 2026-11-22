@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — konkludere](https://ordbokene.no/bm/31239)
-- [Reference snapshot — konkludere](../../reference/vocabulary-4472/word-types/verbs.md#added-845476f2efc9)

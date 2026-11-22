@@ -40,4 +40,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: fortjene](https://ordbokene.no/bm/17132)
-- [Reference record word-0116](../../reference/vocabulary-4472/word-types/verbs.md#word-0116)

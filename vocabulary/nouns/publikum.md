@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary record word-1209](../../reference/vocabulary-4472/word-types/nouns.md#word-1209)
 - [Bokmålsordboka 46804](https://ordbokene.no/bm/46804)

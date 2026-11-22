@@ -32,4 +32,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: flott](https://ordbokene.no/bm/15492)
-- [Reference vocabulary: flott](../../reference/vocabulary-4472/word-types/adjectives.md#word-0083)

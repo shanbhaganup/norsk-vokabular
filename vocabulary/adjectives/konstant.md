@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: konstant](https://ordbokene.no/bm/31335)
-- [Reference vocabulary 0179](../../reference/vocabulary-4472/word-types/adjectives.md#word-0179)

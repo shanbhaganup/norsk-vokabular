@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 1](https://ordbokene.no/bm/49382)
 - [Bokmålsordboka 2](https://ordbokene.no/bm/49383)
-- [Reference vocabulary word-1296](../../reference/vocabulary-4472/word-types/nouns.md#word-1296)

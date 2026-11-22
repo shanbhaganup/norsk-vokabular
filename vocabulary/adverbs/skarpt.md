@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka: skarp](https://ordbokene.no/bm/skarp)
 - [Related adjective entry](../adjectives/skarp.md)
-- [Related adjective source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-b39c65327f02)

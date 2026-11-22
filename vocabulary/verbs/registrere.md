@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, registrere (47805)](https://ordbokene.no/bm/47805)
-- [Reference record word-0294](../../reference/vocabulary-4472/word-types/verbs.md#word-0294)

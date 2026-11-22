@@ -39,9 +39,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary headword and principal paradigm forms checked; compound tenses and original example sentences supplied for teaching.
 
-**Notes:** This entry follows the reference sense “acquire” and uses the fixed reflexive construction *tilegne seg*. Bokmålsordboka separately lists *tilegne* meaning “dedicate”; that distinct sense is outside this reference entry. Reflexive phrases do not form natural passive or present-participle constructions in this sense, so those rows are inapplicable. The adjective rows use dictionary-listed participle agreement forms to mean “acquired.” Source record: [reference verb anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-ce14c58b7558).
+**Notes:** This entry follows the reference sense “acquire” and uses the fixed reflexive construction *tilegne seg*. Bokmålsordboka separately lists *tilegne* meaning “dedicate”; that distinct sense is outside this reference entry. Reflexive phrases do not form natural passive or present-participle constructions in this sense, so those rows are inapplicable. The adjective rows use dictionary-listed participle agreement forms to mean “acquired.”
 
 **Sources:**
 
 - [Bokmålsordboka: tilegne](https://ordbokene.no/bm/60745)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-ce14c58b7558)

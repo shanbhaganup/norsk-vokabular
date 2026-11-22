@@ -28,5 +28,3 @@ checked_on: 2026-11-21
 **Notes:** The reference snapshot labels this as an English borrowing and supplies no dictionary paradigm. Every form is Unverified pending verification; no inflections are assumed.
 
 **Sources:**
-
-- [Reference vocabulary word-0125](../../reference/vocabulary-4472/word-types/adjectives.md#word-0125)

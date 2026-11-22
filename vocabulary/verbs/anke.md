@@ -54,5 +54,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary, added-73ea7f129149](../../reference/vocabulary-4472/word-types/verbs.md#added-73ea7f129149)
 - [Bokmålsordboka](https://ordbokene.no/bm/1880)

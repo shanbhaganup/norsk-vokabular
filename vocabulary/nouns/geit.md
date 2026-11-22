@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record geit](../../reference/vocabulary-4472/word-types/nouns.md#word-0480)
 - [Bokmålsordboka 19358](https://ordbokene.no/bm/19358)

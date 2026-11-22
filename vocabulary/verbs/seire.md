@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, seire (50443)](https://ordbokene.no/bm/50443)
-- [Reference record word-0319](../../reference/vocabulary-4472/word-types/verbs.md#word-0319)

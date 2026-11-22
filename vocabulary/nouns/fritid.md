@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 18132](https://ordbokene.no/bm/18132)
-- [Reference vocabulary word-0447](../../reference/vocabulary-4472/word-types/nouns.md#word-0447)

@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kvarter](https://ordbokene.no/bm/33037)
-- [Reference snapshot word-0826](../../reference/vocabulary-4472/word-types/nouns.md#word-0826)

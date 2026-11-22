@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, individuell](https://ordbokene.no/bm/26045)
-- [Reference record added-d3f72e6ecfee](../../reference/vocabulary-4472/word-types/adjectives.md#added-d3f72e6ecfee)

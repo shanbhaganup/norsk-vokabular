@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hytte](https://ordbokene.no/bm/25033)
-- [Reference vocabulary record word-0629](../../reference/vocabulary-4472/word-types/nouns.md#word-0629)

@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, arabisk (2459)](https://ordbokene.no/bm/2459)
-- [Reference snapshot, record 10](../../reference/vocabulary-4472/word-types/adjectives.md#word-0010)

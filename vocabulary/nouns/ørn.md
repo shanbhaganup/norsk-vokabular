@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference anchor: word-1795](../../reference/vocabulary-4472/word-types/nouns.md#word-1795)
 - [Bokmålsordboka 42811](https://ordbokene.no/bm/42811)

@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record word-0794](../../reference/vocabulary-4472/word-types/nouns.md#word-0794)
 - [Bokmålsordboka: krav (1)](https://ordbokene.no/bm/31970)
 - [Bokmålsordboka: krav (2), ice film](https://ordbokene.no/bm/31971)

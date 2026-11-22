@@ -50,4 +50,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, nærme 2 (41528)](https://ordbokene.no/bm/41528)
-- [Reference record word-0254](../../reference/vocabulary-4472/word-types/verbs.md#word-0254)

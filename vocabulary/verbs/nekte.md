@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, nekte (40616)](https://ordbokene.no/bm/40616)
-- [Reference record word-0251](../../reference/vocabulary-4472/word-types/verbs.md#word-0251)

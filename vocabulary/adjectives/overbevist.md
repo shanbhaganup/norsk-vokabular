@@ -31,5 +31,4 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka](https://ordbokene.no/bm/43522)
 - [Working parent verb entry](../verbs/overbevise.md)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-cae57c1ec7ef)
 - [Related working entry](../verbs/overbevise.md)

@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0265](../../reference/vocabulary-4472/word-types/adjectives.md#word-0265).
 - [Bokmålsordboka: privat 2 II (46279)](https://ordbokene.no/bm/46279).

@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hæl](https://ordbokene.no/bm/25041)
-- [Reference vocabulary record word-0632](../../reference/vocabulary-4472/word-types/nouns.md#word-0632)

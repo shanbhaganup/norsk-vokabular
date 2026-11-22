@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, headword magi](https://ordbokene.no/nob/bm/magi) (entry id 36538 in the reference; exact-id page unavailable in this check)
-- [Reference record word-0919](../../reference/vocabulary-4472/word-types/nouns.md#word-0919)

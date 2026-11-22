@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, grunn](https://ordbokene.no/bm/21112)
-- [Reference record added-1dc7dff73a63](../../reference/vocabulary-4472/word-types/adjectives.md#added-1dc7dff73a63)

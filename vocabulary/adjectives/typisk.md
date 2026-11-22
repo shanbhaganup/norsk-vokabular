@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: typisk](https://ordbokene.no/bm/typisk)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-419220a52687)

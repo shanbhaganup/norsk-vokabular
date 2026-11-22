@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/skåne.md)
 
 - [Bokmålsordboka: skånsom](https://ordbokene.no/bm/skånsom)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-30b453a13f57)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: særlig](https://ordbokene.no/bm/særlig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-7a3422ef12c8)

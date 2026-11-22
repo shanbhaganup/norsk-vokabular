@@ -49,4 +49,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, representere (48190)](https://ordbokene.no/bm/48190)
-- [Reference record word-0299](../../reference/vocabulary-4472/word-types/verbs.md#word-0299)

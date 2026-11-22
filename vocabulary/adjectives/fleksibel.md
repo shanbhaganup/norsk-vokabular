@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: fleksibel](https://ordbokene.no/bm/15319)
-- [Reference vocabulary: fleksibel](../../reference/vocabulary-4472/word-types/adjectives.md#word-0081)

@@ -61,4 +61,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: minne, verb (38532)](https://ordbokene.no/bm/38532)
-- [Reference snapshot, verb anchor added-b9129d5f0be8](../../reference/vocabulary-4472/word-types/verbs.md#added-b9129d5f0be8)

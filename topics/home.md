@@ -210,4 +210,4 @@
 | [teip](../vocabulary/nouns/teip.md) | noun | tape |
 | [trapp](../vocabulary/nouns/trapp.md) | noun | staircase |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

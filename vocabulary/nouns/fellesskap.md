@@ -28,5 +28,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record fellesskap](../../reference/vocabulary-4472/word-types/nouns.md#word-0363)
 - [Bokmålsordboka 14213](https://ordbokene.no/bm/14213)

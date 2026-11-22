@@ -35,4 +35,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, lignende / liknende (35125)](https://ordbokene.no/bm/35125)
-- [Reference vocabulary, record 0199](../../reference/vocabulary-4472/word-types/adjectives.md#word-0199)

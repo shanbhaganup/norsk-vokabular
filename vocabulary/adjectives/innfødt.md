@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/innf%C3%B8dt)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-6e42fc3e64a8)

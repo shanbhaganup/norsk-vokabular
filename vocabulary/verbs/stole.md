@@ -43,6 +43,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference source anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-9b854d26f4ae)
 - [Bokmålsordboka 1](https://ordbokene.no/bm/stole)
 - [Bokmålsordboka 2](https://ordbokene.no/bm/57335)

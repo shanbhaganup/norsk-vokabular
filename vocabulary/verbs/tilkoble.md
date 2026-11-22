@@ -44,7 +44,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Related adjective source record: tilkoblet](../../reference/vocabulary-4472/word-types/adjectives.md#added-f470a3d375bb)
 
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0408)
 - [Bokmålsordboka](https://ordbokene.no/bm/60832)

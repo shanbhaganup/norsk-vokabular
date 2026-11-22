@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 21494](https://ordbokene.no/bm/21494)
-- [Reference snapshot, noun anchor added-f7bbe11c4092](../../reference/vocabulary-4472/word-types/nouns.md#added-f7bbe11c4092)

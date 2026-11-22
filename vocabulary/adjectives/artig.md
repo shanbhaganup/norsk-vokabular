@@ -33,4 +33,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, artig (2782)](https://ordbokene.no/bm/2782)
-- [Reference snapshot, record 12](../../reference/vocabulary-4472/word-types/adjectives.md#word-0012)

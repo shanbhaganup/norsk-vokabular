@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: eksistere](https://ordbokene.no/bm/12013)
-- [Reference record added-cd2f42beae54](../../reference/vocabulary-4472/word-types/verbs.md#added-cd2f42beae54)

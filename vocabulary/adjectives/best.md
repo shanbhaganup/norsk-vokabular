@@ -28,5 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, best (5516)](https://ordbokene.no/bm/5516)
-- [Reference snapshot, word-0018](../../reference/vocabulary-4472/word-types/adjectives.md#word-0018)
-

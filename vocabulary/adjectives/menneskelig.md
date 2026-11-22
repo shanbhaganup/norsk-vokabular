@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0218](../../reference/vocabulary-4472/word-types/adjectives.md#word-0218).
 - [Bokmålsordboka: menneskelig](https://ordbokene.no/bm/menneskelig).

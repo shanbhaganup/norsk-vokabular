@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, lese (34896)](https://ordbokene.no/bm/34896)
-- [Reference record word-0217](../../reference/vocabulary-4472/word-types/verbs.md#word-0217)

@@ -31,7 +31,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-3841ce387031](../../reference/vocabulary-4472/word-types/adjectives.md#added-3841ce387031)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/5753>)
 
 | Komparativ | — | — | Participial resulting-state meaning is not ordinarily graded. |

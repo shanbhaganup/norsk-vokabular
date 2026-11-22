@@ -43,7 +43,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Related adjective source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-f187d71596fd)
 
 - [Bokmålsordboka, sove (55740)](https://ordbokene.no/bm/55740)
-- [Reference record word-0357](../../reference/vocabulary-4472/word-types/verbs.md#word-0357)

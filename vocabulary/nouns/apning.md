@@ -27,6 +27,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-327b04084ec7](../../reference/vocabulary-4472/word-types/nouns.md#added-327b04084ec7)
 
 - [Bokmålsordboka: åpning](https://ordbokene.no/bm/1045)

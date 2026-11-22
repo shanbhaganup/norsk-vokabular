@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: uhøflig](https://ordbokene.no/bm/uhøflig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-02d6c71452e8)

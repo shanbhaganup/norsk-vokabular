@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dominere](https://ordbokene.no/bm/10586)
-- [Reference record added-62a853f44059](../../reference/vocabulary-4472/word-types/verbs.md#added-62a853f44059)

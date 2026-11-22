@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka, hete (23468)](https://ordbokene.no/bm/23468)
 - [Bokmålsordboka, hete II (23467), separate homonym in the reference snapshot](https://ordbokene.no/bm/23467)
-- [Reference snapshot, hete](../../reference/vocabulary-4472/word-types/verbs.md#word-0155)

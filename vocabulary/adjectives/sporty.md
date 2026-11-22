@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0323](../../reference/vocabulary-4472/word-types/adjectives.md#word-0323).
 - [Bokmålsordboka: sporty (56289)](https://ordbokene.no/bm/56289).

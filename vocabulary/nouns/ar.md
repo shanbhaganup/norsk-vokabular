@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-858696303fc1](../../reference/vocabulary-4472/word-types/nouns.md#added-858696303fc1)
 
 - [Bokmålsordboka: år](https://ordbokene.no/bm/1055)

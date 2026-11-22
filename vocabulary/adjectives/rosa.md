@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 - [Related noun entry](../nouns/rosa.md)
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/48879>)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-bd45595756bb)

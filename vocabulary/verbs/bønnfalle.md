@@ -48,4 +48,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: bønnfalle](https://ordbokene.no/bm/8515)
-- [Reference vocabulary record word-0059](../../reference/vocabulary-4472/word-types/verbs.md#word-0059)

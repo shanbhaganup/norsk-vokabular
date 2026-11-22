@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 29924, clarify](https://ordbokene.no/bm/29924)
 - [Bokmålsordboka 121336, prepare for use](https://ordbokene.no/bm/121336)
-- [Reference record word-0191](../../reference/vocabulary-4472/word-types/verbs.md#word-0191)

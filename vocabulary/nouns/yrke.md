@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-afb300fc2c45](../../reference/vocabulary-4472/word-types/nouns.md#added-afb300fc2c45)
 
 - [Bokmålsordboka: yrke (profesjon)](https://ordbokene.no/bm/69622)

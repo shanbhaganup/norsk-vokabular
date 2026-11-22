@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record word-0787](../../reference/vocabulary-4472/word-types/nouns.md#word-0787)
 - [Bokmålsordboka: kos (1)](https://ordbokene.no/bm/31771)
 - [Bokmålsordboka: kos (2)](https://ordbokene.no/bm/31772)

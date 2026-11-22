@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: korrupt](https://ordbokene.no/bm/31688)
-- [Reference vocabulary 0180](../../reference/vocabulary-4472/word-types/adjectives.md#word-0180)

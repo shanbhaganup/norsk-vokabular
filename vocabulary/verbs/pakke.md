@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka pakke (verb)](https://ordbokene.no/bm/43890)
-- [Reference verb record added-b48383c532ed](../../reference/vocabulary-4472/word-types/verbs.md#added-b48383c532ed)

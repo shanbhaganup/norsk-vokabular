@@ -26,5 +26,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference entry word-0770](../../reference/vocabulary-4472/word-types/nouns.md#word-0770)
 - [Bokmålsordboka: konkurs](https://ordbokene.no/bm/konkurs)

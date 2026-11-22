@@ -64,4 +64,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: merke, verb (38004)](https://ordbokene.no/bm/38004)
-- [Reference snapshot, verb anchor added-97767eab9faf](../../reference/vocabulary-4472/word-types/verbs.md#added-97767eab9faf)

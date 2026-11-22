@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference anchor: word-1800](../../reference/vocabulary-4472/word-types/nouns.md#word-1800)
 - [Bokmålsordboka 42913](https://ordbokene.no/bm/42913)

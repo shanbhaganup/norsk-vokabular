@@ -31,5 +31,3 @@ checked_on: 2026-11-21
 - [Bokmålsordboka 18819](https://ordbokene.no/bm/18819)
 - [Bokmålsordboka 127126](https://ordbokene.no/bm/127126)
 - [Bokmålsordboka 127136](https://ordbokene.no/bm/127136)
-- [Reference snapshot · assigned record](../../reference/vocabulary-4472/word-types/other-words.md#word-0004)
-- [Reference snapshot · få](../../reference/vocabulary-4472/word-types/other-words.md#added-28e04b379058)

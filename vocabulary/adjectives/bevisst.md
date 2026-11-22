@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-9cdbe82f27b6](../../reference/vocabulary-4472/word-types/adjectives.md#added-9cdbe82f27b6)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/5740>)
 
 | Komparativ | mer bevisst | Hun er mer bevisst på risikoen nå. | She is more aware of the risk now. |

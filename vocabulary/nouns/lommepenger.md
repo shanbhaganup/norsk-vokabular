@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · lommepenger](https://ordbokene.no/bm/35748)
-- [Reference snapshot · lommepenger](../../reference/vocabulary-4472/word-types/nouns.md#word-0881)

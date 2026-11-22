@@ -30,6 +30,5 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 67420](https://ordbokene.no/bm/67420)
-- [Reference adjective added-f69f5f2afc7b](../../reference/vocabulary-4472/word-types/adjectives.md#added-f69f5f2afc7b)
 
 - [Related adverb](../adverbs/veldig.md)

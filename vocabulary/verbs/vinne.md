@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 68557](https://ordbokene.no/bm/68557)
-- [Reference vocabulary vinne](../../reference/vocabulary-4472/word-types/verbs.md#word-0444)

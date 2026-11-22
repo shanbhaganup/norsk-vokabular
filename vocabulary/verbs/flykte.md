@@ -54,9 +54,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms verified; compound tenses are productive constructions. Passive constructions need usage verification for this intransitive meaning. All Norwegian teaching sentences are original.
 
-**Notes:** The ‘flee, especially from danger’ sense in [reference record word-0094](../../reference/vocabulary-4472/word-types/verbs.md#word-0094) is verified against Bokmålsordboka 15585. The dictionary also gives ‘get away; avoid’ (for example, fleeing everyday life); that related figurative sense is not elaborated here. The reference topic `travel` is retained. Both accepted past/participle forms and listed adjectival agreement forms are shown. The dictionary lists active forms, not passive constructions; the impersonal passive rows remain Unverified because a natural use for this sense has not been established. Dictionary forms confirm the headword and paradigm, not the English gloss.
+**Notes:** The ‘flee, especially from danger’ sense is verified against Bokmålsordboka 15585. The dictionary also gives ‘get away; avoid’ (for example, fleeing everyday life); that related figurative sense is not elaborated here. The reference topic `travel` is retained. Both accepted past/participle forms and listed adjectival agreement forms are shown. The dictionary lists active forms, not passive constructions; the impersonal passive rows remain Unverified because a natural use for this sense has not been established. Dictionary forms confirm the headword and paradigm, not the English gloss.
 
 **Sources:**
 
 - [Bokmålsordboka: flykte (15585)](https://ordbokene.no/bm/15585)
-- [Reference snapshot record word-0094](../../reference/vocabulary-4472/word-types/verbs.md#word-0094)

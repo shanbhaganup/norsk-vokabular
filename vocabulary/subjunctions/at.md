@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/3024)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-3ade123a4c3a)

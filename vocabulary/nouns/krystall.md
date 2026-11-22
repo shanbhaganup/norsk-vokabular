@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, krystall](https://ordbokene.no/bm/32474)
-- [Reference vocabulary record word-0807](../../reference/vocabulary-4472/word-types/nouns.md#word-0807)

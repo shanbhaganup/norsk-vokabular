@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, sprenge (56340)](https://ordbokene.no/bm/56340)
-- [Reference record word-0365](../../reference/vocabulary-4472/word-types/verbs.md#word-0365)

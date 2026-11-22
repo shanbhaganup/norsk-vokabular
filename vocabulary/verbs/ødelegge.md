@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference word-0455](../../reference/vocabulary-4472/word-types/verbs.md#word-0455)
 - [Bokmålsordboka: ødelegge](https://ordbokene.no/bm/42643)

@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka · løgndetektor](https://ordbokene.no/bm/løgndetektor)
 - [Bokmålsordboka 34419](https://ordbokene.no/bm/34419)
-- [Reference snapshot · løgndetektor](../../reference/vocabulary-4472/word-types/nouns.md#word-0903)

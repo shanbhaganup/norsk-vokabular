@@ -46,4 +46,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka — anta](https://ordbokene.no/bm/2153)
-- [Reference snapshot — anta](../../reference/vocabulary-4472/word-types/verbs.md#word-0007)

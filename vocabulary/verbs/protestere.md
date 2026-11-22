@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, protestere (46627)](https://ordbokene.no/bm/46627)
-- [Reference record word-0283](../../reference/vocabulary-4472/word-types/verbs.md#word-0283)

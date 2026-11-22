@@ -28,5 +28,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record fengsel](../../reference/vocabulary-4472/word-types/nouns.md#word-0365)
 - [Bokmålsordboka 14326](https://ordbokene.no/bm/14326)

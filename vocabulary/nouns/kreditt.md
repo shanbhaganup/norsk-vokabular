@@ -26,5 +26,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record word-0795](../../reference/vocabulary-4472/word-types/nouns.md#word-0795)
 - [Bokmålsordboka: kreditt](https://ordbokene.no/nob/bm/kreditt)

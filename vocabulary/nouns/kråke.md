@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, kråke](https://ordbokene.no/nob/bm/kr%C3%A5ke)
-- [Reference vocabulary record word-0808](../../reference/vocabulary-4472/word-types/nouns.md#word-0808)

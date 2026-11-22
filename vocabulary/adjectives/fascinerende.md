@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, fascinerende](https://ordbokene.no/bm/13966)
-- [Reference record added-87567c5b57f1](../../reference/vocabulary-4472/word-types/adjectives.md#added-87567c5b57f1)

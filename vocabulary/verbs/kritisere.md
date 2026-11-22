@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, kritisere (32217)](https://ordbokene.no/bm/32217)
-- [Reference record word-0207](../../reference/vocabulary-4472/word-types/verbs.md#word-0207)

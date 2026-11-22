@@ -48,4 +48,3 @@ checked_on: 2026-11-21
 
 - [Bokmålsordboka: bli](https://ordbokene.no/bm/6390)
 - [Bokmålsordboka: blive](https://ordbokene.no/bm/6460)
-- [Reference record #word-0046](../../reference/vocabulary-4472/word-types/verbs.md#word-0046)

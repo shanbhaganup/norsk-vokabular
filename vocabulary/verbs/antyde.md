@@ -62,4 +62,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka — antyde](https://ordbokene.no/bm/2294)
-- [Reference snapshot — antyde](../../reference/vocabulary-4472/word-types/verbs.md#word-0008)

@@ -27,6 +27,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-9c7c03ed2f3f](../../reference/vocabulary-4472/word-types/nouns.md#added-9c7c03ed2f3f)
 
 - [Bokmålsordboka — verft](https://ordbokene.no/bm/67813)

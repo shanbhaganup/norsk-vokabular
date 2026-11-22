@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0263](../../reference/vocabulary-4472/word-types/adjectives.md#word-0263).
 - [Bokmålsordboka: positiv 4 IV (45707)](https://ordbokene.no/bm/45707).

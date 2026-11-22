@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/32413)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-6f3bca994434)
 - [Working parent verb entry](../verbs/krydre.md)

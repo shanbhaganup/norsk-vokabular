@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-038ddd610867](../../reference/vocabulary-4472/word-types/nouns.md#added-038ddd610867)
 
 - [Bokmålsordboka — vente](https://ordbokene.no/bm/67662)

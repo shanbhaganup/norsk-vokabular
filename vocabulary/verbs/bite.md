@@ -45,4 +45,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bite](https://ordbokene.no/bm/6136)
-- [Reference record added-19a5559f0f46](../../reference/vocabulary-4472/word-types/verbs.md#added-19a5559f0f46)

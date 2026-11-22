@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: sosial](https://ordbokene.no/bm/sosial)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-dea5dc0f63b0)

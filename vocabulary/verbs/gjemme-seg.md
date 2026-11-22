@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: gjemme seg](https://ordbokene.no/bm/19748)
-- [Reference record added-435f322d9fc8](../../reference/vocabulary-4472/word-types/verbs.md#added-435f322d9fc8)

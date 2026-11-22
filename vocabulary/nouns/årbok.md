@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: årbok](https://ordbokene.no/bm/1057)
-- [Reference vocabulary word-1783](../../reference/vocabulary-4472/word-types/nouns.md#word-1783)

@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: innvendig](https://ordbokene.no/bm/innvendig)
-- [Reference snapshot: word-0152](../../reference/vocabulary-4472/word-types/adjectives.md#word-0152)

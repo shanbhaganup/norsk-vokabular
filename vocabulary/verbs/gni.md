@@ -50,4 +50,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: gni](https://ordbokene.no/bm/20378)
-- [Reference record added-164902cee75a](../../reference/vocabulary-4472/word-types/verbs.md#added-164902cee75a)

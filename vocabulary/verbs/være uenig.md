@@ -45,4 +45,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka være](https://ordbokene.no/bm/58834)
 - [Bokmålsordboka uenig](https://ordbokene.no/bm/uenig)
-- [Reference record added-0af4276487df](../../reference/vocabulary-4472/word-types/verbs.md#added-0af4276487df)

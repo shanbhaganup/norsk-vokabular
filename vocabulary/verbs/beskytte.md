@@ -62,4 +62,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: beskytte](https://ordbokene.no/bm/5486)
-- [Reference vocabulary record word-0031](../../reference/vocabulary-4472/word-types/verbs.md#word-0031)

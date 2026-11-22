@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: kokain](https://ordbokene.no/bm/30726)
-- [Reference record word-0750](../../reference/vocabulary-4472/word-types/nouns.md#word-0750)

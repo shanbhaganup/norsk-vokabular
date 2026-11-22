@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/26743)
-- [Reference record word-0651](../../reference/vocabulary-4472/word-types/nouns.md#word-0651)

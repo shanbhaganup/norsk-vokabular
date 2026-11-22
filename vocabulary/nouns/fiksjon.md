@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record fiksjon](../../reference/vocabulary-4472/word-types/nouns.md#word-0374)
 - [Bokmålsordboka 14581](https://ordbokene.no/bm/14581)

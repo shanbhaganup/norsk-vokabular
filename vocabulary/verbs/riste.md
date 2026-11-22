@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-16642d9b842d)
 - [Bokmålsordboka: riste](https://ordbokene.no/bm/riste)

@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0345](../../reference/vocabulary-4472/word-types/adjectives.md#word-0345).
 - [Bokmålsordboka: tape 2 II (59896), participle and adjective use](https://ordbokene.no/bm/59896).

@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0421](../../reference/vocabulary-4472/word-types/adjectives.md#word-0421).
 - [Bokmålsordboka: øm (42730)](https://ordbokene.no/bm/42730).

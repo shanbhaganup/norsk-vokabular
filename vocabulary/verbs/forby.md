@@ -61,4 +61,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forby](https://ordbokene.no/bm/16031)
-- [Reference snapshot, word-0098](../../reference/vocabulary-4472/word-types/verbs.md#word-0098)

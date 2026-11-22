@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, følsom](https://ordbokene.no/bm/18700)
-- [Reference record added-1f0867ddc8e9](../../reference/vocabulary-4472/word-types/adjectives.md#added-1f0867ddc8e9)

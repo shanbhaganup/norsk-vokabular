@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · lokalbefolkning](https://ordbokene.no/bm/121883)
-- [Reference snapshot · lokalbefolkning](../../reference/vocabulary-4472/word-types/nouns.md#word-0880)

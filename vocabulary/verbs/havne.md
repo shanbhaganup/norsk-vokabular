@@ -60,4 +60,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka, havne (22613)](https://ordbokene.no/bm/22613)
 - [Bokmålsordboka, hamne/havne II (22144), homonym included in snapshot forms](https://ordbokene.no/bm/22144)
-- [Reference snapshot, havne](../../reference/vocabulary-4472/word-types/verbs.md#word-0151)

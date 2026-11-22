@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, forsvinne](https://ordbokene.no/bm/17030)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#word-0184)

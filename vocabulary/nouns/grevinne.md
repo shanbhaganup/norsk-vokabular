@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: grevinne](https://ordbokene.no/bm/20933)
-- [Reference vocabulary record word-0519](../../reference/vocabulary-4472/word-types/nouns.md#word-0519)

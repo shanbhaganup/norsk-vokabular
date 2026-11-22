@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — konvertere](https://ordbokene.no/bm/31514)
-- [Reference snapshot — konvertere](../../reference/vocabulary-4472/word-types/verbs.md#added-60b56403ce3f)

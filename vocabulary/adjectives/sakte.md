@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 - [Related working entry](../verbs/sakte.md)
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/sakte>)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-13b8db06671e)

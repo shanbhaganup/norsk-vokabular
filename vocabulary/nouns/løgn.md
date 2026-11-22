@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka · løgn](https://ordbokene.no/bm/løgn)
 - [Bokmålsordboka 34416](https://ordbokene.no/bm/34416)
-- [Reference snapshot · løgn](../../reference/vocabulary-4472/word-types/nouns.md#word-0902)

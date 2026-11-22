@@ -28,4 +28,3 @@ source_anchor: added-8615f962a6aa
 **Sources:**
 
 - [Bokm?lsordboka: versjon](https://ordbokene.no/bm/67943)
-- Reference anchor: [added-8615f962a6aa](../../reference/vocabulary-4472/word-types/nouns.md#added-8615f962a6aa)

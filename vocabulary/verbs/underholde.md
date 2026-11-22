@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: underholde](https://ordbokene.no/bm/64305)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-79b01d229ce4)

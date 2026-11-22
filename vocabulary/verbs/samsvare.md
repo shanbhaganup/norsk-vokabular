@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-86155d0df303)
 - [Bokmålsordboka: samsvare](https://ordbokene.no/bm/samsvare)

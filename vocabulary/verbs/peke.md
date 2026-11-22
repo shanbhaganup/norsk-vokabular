@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, peke (44527)](https://ordbokene.no/bm/44527)
-- [Reference record word-0274](../../reference/vocabulary-4472/word-types/verbs.md#word-0274)

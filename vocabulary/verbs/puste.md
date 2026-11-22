@@ -55,4 +55,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, puste (46966)](https://ordbokene.no/bm/46966)
-- [Reference record word-0285](../../reference/vocabulary-4472/word-types/verbs.md#word-0285)

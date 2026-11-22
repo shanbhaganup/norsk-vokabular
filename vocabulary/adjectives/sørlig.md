@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: sørlig](https://ordbokene.no/bm/sørlig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-1740b0bc1ac3)

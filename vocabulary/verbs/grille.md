@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, grille (20949)](https://ordbokene.no/bm/20949)
-- [Reference snapshot, grille](../../reference/vocabulary-4472/word-types/verbs.md#word-0143)

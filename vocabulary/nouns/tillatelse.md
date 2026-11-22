@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 60836 / tillatelse](https://ordbokene.no/bm/60836)
-- [Reference vocabulary word-1614](../../reference/vocabulary-4472/word-types/nouns.md#word-1614)

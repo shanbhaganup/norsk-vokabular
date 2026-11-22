@@ -45,7 +45,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Related adjective source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-c26c22034684)
 
 - [Bokmålsordboka, spre (56319)](https://ordbokene.no/bm/56319)
-- [Reference record word-0364](../../reference/vocabulary-4472/word-types/verbs.md#word-0364)

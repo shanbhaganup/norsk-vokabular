@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, headword manndom](https://ordbokene.no/bm/manndom) (reference entry id 36919; paradigm not exposed in the fetched entry)
-- [Reference record word-0932](../../reference/vocabulary-4472/word-types/nouns.md#word-0932)

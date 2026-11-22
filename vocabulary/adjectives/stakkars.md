@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0325](../../reference/vocabulary-4472/word-types/adjectives.md#word-0325).
 - [Bokmålsordboka: stakkars (56593)](https://ordbokene.no/bm/56593).

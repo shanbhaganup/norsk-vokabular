@@ -34,4 +34,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/37855)
-- [Reference snapshot · men](../../reference/vocabulary-4472/word-types/nouns.md#added-406901340bf1)

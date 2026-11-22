@@ -65,4 +65,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rydde (49238)](https://ordbokene.no/bm/49238)
-- [Reference record word-0308](../../reference/vocabulary-4472/word-types/verbs.md#word-0308)

@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: anvende](https://ordbokene.no/bm/2299)
-- [Reference record added-9936ba662304](../../reference/vocabulary-4472/word-types/verbs.md#added-9936ba662304)

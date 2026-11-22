@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0241](../../reference/vocabulary-4472/word-types/adjectives.md#word-0241).
 - [Bokmålsordboka: nødvendig (41587)](https://ordbokene.no/bm/41587).

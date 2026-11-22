@@ -40,4 +40,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forsvare](https://ordbokene.no/bm/17008)
-- [Reference record word-0112](../../reference/vocabulary-4472/word-types/verbs.md#word-0112)

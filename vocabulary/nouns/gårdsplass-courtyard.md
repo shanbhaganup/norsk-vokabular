@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gårdsplass](https://ordbokene.no/bm/19138)
-- [Reference record word-0538](../../reference/vocabulary-4472/word-types/nouns.md#word-0538)

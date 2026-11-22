@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gjengjelde (19784)](https://ordbokene.no/bm/19784)
-- [Reference snapshot, gjengjelde](../../reference/vocabulary-4472/word-types/verbs.md#word-0133)

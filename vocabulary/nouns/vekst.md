@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-1217906f3b63](../../reference/vocabulary-4472/word-types/nouns.md#added-1217906f3b63)
 
 - [Bokmålsordboka — vekst](https://ordbokene.no/bm/67350)

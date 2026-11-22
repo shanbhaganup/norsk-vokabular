@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, fjern](https://ordbokene.no/bm/15049)
-- [Reference record added-e0fda5c1df1b](../../reference/vocabulary-4472/word-types/adjectives.md#added-e0fda5c1df1b)

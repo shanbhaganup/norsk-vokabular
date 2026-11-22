@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: telefonsamtale](https://ordbokene.no/bm/136288)
-- [Reference vocabulary record 1588](../../reference/vocabulary-4472/word-types/nouns.md#word-1588)

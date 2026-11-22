@@ -25,4 +25,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/minst)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-f61f95d36bfc)

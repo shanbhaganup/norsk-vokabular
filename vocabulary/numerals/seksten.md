@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/seksten)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-c73c0a82fda7)

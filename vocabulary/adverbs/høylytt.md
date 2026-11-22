@@ -25,4 +25,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, høylytt](https://ordbokene.no/bm/25301)
-- [Reference record added-c022c05efc74](../../reference/vocabulary-4472/word-types/adjectives.md#added-c022c05efc74)

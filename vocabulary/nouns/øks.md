@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: øks](https://ordbokene.no/bm/42689)
-- [Reference vocabulary word-1790](../../reference/vocabulary-4472/word-types/nouns.md#word-1790)

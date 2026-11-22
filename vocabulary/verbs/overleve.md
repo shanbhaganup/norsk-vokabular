@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, overleve (43670)](https://ordbokene.no/bm/43670)
-- [Reference record word-0269](../../reference/vocabulary-4472/word-types/verbs.md#word-0269)

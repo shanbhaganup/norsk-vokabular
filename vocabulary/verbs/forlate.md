@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forlate](https://ordbokene.no/bm/16460)
-- [Reference record word-0106](../../reference/vocabulary-4472/word-types/verbs.md#word-0106)

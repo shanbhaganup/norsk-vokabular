@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka tiltalt / tiltalt](https://ordbokene.no/bm/tiltalt)
-- [Reference vocabulary word-1617](../../reference/vocabulary-4472/word-types/nouns.md#word-1617)

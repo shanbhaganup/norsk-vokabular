@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: håpløs](https://ordbokene.no/bm/25498)
-- [Reference vocabulary: word-0139](../../reference/vocabulary-4472/word-types/adjectives.md#word-0139)

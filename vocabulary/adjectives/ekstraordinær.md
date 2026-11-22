@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, ekstraordinær](https://ordbokene.no/bm/12171)
-- [Reference record added-36f24863533f](../../reference/vocabulary-4472/word-types/adjectives.md#added-36f24863533f)

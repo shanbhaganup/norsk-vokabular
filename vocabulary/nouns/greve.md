@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: greve](https://ordbokene.no/bm/20930)
-- [Reference vocabulary record word-0518](../../reference/vocabulary-4472/word-types/nouns.md#word-0518)

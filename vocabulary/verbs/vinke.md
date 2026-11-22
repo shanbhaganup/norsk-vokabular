@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 68530](https://ordbokene.no/bm/68530)
-- [Reference vocabulary vinke](../../reference/vocabulary-4472/word-types/verbs.md#word-0443)

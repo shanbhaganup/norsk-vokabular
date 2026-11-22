@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, fasjonabel](https://ordbokene.no/bm/13983)
-- [Reference record added-a125a48809a9](../../reference/vocabulary-4472/word-types/adjectives.md#added-a125a48809a9)

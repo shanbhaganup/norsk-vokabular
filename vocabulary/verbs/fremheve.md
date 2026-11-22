@@ -74,4 +74,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: fremheve](https://ordbokene.no/bm/17505)
-- [Reference record added-ec46c7555d8a](../../reference/vocabulary-4472/word-types/verbs.md#added-ec46c7555d8a)

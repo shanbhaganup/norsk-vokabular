@@ -28,5 +28,3 @@ checked_on: 2026-11-21
 **Notes:** Reference provides no verified paradigm or dictionary link. Dagens is an invariant genitive form used attributively; its paradigm needs dictionary review. Comparison does not apply to this temporal meaning.
 
 **Sources:**
-
-- [Reference adjective record word-0034](../../reference/vocabulary-4472/word-types/adjectives.md#word-0034)

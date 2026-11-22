@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0404](../../reference/vocabulary-4472/word-types/adjectives.md#word-0404).
 - [Bokmålsordboka: verdifull (67787)](https://ordbokene.no/bm/67787).

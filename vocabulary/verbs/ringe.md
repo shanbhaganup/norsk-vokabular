@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, ringe 3 (48612)](https://ordbokene.no/bm/48612)
-- [Reference record word-0304](../../reference/vocabulary-4472/word-types/verbs.md#word-0304)

@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, narre (40170)](https://ordbokene.no/bm/40170)
-- [Reference record word-0250](../../reference/vocabulary-4472/word-types/verbs.md#word-0250)

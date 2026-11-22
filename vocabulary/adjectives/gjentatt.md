@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gjentatt](https://ordbokene.no/bm/19906)
-- [Reference record added-1c04a65430a1](../../reference/vocabulary-4472/word-types/adjectives.md#added-1c04a65430a1)

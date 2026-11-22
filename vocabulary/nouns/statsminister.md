@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 56785](https://ordbokene.no/bm/56785)
-- [Reference noun record word-1483](../../reference/vocabulary-4472/word-types/nouns.md#word-1483)

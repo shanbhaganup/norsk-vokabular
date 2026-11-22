@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, lilla (35242)](https://ordbokene.no/bm/35242)
-- [Reference vocabulary, record 0200](../../reference/vocabulary-4472/word-types/adjectives.md#word-0200)

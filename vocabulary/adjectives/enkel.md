@@ -31,5 +31,3 @@ checked_on: 2026-11-21
 
 - [Bokmålsordboka 12766](https://ordbokene.no/bm/12766)
 - [Bokmålsordboka: enkelt (12768)](https://ordbokene.no/bm/12768)
-- [Reference record enkel](../../reference/vocabulary-4472/word-types/adjectives.md#word-0062)
-- [Reference record added-9ca949b2e6aa](../../reference/vocabulary-4472/word-types/adjectives.md#added-9ca949b2e6aa)

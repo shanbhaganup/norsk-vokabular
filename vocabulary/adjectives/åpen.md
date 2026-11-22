@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0417](../../reference/vocabulary-4472/word-types/adjectives.md#word-0417).
 - [Bokmålsordboka: åpen (1033)](https://ordbokene.no/bm/1033).

@@ -50,4 +50,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokm?lsordboka 5150](https://ordbokene.no/bm/5150)
-- [Reference record](../../reference/vocabulary-4472/word-types/verbs.md#word-0027)

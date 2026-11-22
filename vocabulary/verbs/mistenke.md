@@ -46,5 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, mistenke (38690)](https://ordbokene.no/bm/38690) · [headword view](https://ordbokene.no/bm/mistenke)
-- [Reference record word-0246](../../reference/vocabulary-4472/word-types/verbs.md#word-0246)
-- [Adjectival participle reference record](../../reference/vocabulary-4472/word-types/adjectives.md#added-73fb5a79cb09)

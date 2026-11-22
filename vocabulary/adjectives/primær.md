@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/prim%C3%A6r)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-dc8a81a07561)
 - [Working adverb entry](../adverbs/primært.md)

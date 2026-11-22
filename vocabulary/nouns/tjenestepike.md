@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka pike (source paradigm)](https://ordbokene.no/bm/44898)
-- [Reference vocabulary word-1624](../../reference/vocabulary-4472/word-types/nouns.md#word-1624)

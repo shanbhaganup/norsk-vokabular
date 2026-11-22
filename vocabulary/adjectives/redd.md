@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0273](../../reference/vocabulary-4472/word-types/adjectives.md#word-0273).
 - [Bokmålsordboka: redd (47677)](https://ordbokene.no/bm/47677).

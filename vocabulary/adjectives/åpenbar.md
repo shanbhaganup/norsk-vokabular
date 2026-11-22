@@ -30,6 +30,5 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 1034](https://ordbokene.no/bm/1034)
-- [Reference adjective added-4cf729f13830](../../reference/vocabulary-4472/word-types/adjectives.md#added-4cf729f13830)
 
 - [Related adverb](../adverbs/åpenbart.md)

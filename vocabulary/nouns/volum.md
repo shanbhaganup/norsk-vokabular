@@ -28,4 +28,3 @@ source_anchor: added-758a925bf54b
 **Sources:**
 
 - [Bokm?lsordboka: volum](https://ordbokene.no/bm/69014)
-- Reference anchor: [added-758a925bf54b](../../reference/vocabulary-4472/word-types/nouns.md#added-758a925bf54b)

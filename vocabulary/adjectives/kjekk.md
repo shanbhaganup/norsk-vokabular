@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary agreement forms checked against the reference paradigm; original examples authored for this entry.
 
-**Notes:** Dictionary forms and comparison are reproduced from the reference paradigm. Reference entry: [word-0165](../../reference/vocabulary-4472/word-types/adjectives.md#word-0165).
+**Notes:** Dictionary forms and comparison are reproduced from the reference paradigm.
 
 **Sources:**
 
 - [Bokmålsordboka 29452](https://ordbokene.no/bm/29452)
-- [Reference vocabulary word-0165](../../reference/vocabulary-4472/word-types/adjectives.md#word-0165)

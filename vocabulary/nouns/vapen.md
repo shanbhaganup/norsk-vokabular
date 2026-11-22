@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-b47b851bfc97](../../reference/vocabulary-4472/word-types/nouns.md#added-b47b851bfc97)
 
 - [Bokmålsordboka: våpen](https://ordbokene.no/bm/69319)

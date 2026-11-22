@@ -74,4 +74,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: feie](https://ordbokene.no/bm/14116)
-- [Reference record added-9f3ce0c0980c](../../reference/vocabulary-4472/word-types/verbs.md#added-9f3ce0c0980c)

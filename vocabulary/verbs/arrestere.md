@@ -46,4 +46,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka — arrestere](https://ordbokene.no/bm/2745)
-- [Reference snapshot — arrestere](../../reference/vocabulary-4472/word-types/verbs.md#word-0010)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: yoga](https://ordbokene.no/bm/69603)
-- [Reference vocabulary word-1780](../../reference/vocabulary-4472/word-types/nouns.md#word-1780)

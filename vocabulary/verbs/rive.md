@@ -51,4 +51,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rive 2 (48714)](https://ordbokene.no/bm/48714) · [rive 3 (48715)](https://ordbokene.no/bm/48715)
-- [Reference record word-0305](../../reference/vocabulary-4472/word-types/verbs.md#word-0305)

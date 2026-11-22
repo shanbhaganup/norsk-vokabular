@@ -105,4 +105,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, skåre 4 / score 2 (54133)](https://ordbokene.no/bm/54133)
-- [Reference record word-0317](../../reference/vocabulary-4472/word-types/verbs.md#word-0317)

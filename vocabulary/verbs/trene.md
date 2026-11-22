@@ -47,6 +47,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0415)
 - [Bokmålsordboka 62116](https://ordbokene.no/bm/62116)
 - [Bokmålsordboka 62115, separate “become woody” sense](https://ordbokene.no/bm/62115)

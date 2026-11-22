@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 4336](https://ordbokene.no/bm/4336)
-- [Reference snapshot · bandasje](../../reference/vocabulary-4472/word-types/nouns.md#word-0089)

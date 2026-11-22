@@ -24,7 +24,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms checked against the cited Bokmålsordboka entry; original example sentences supplied.
 
-**Notes:** Source reference: [word-1556](../../reference/vocabulary-4472/word-types/nouns.md#word-1556). The source dictionary entry identifies this as a neuter noun and lists senses for the compass direction and southern regions, but gives no full inflection table. Definite and plural forms therefore remain Unverified. A separate adverb entry also exists.
+**Notes:** The source dictionary entry identifies this as a neuter noun and lists senses for the compass direction and southern regions, but gives no full inflection table. Definite and plural forms therefore remain Unverified. A separate adverb entry also exists.
 
 **Sources:**
 

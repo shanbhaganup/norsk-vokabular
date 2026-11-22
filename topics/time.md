@@ -145,4 +145,4 @@
 | [time](../vocabulary/nouns/time.md) | noun | hour |
 | [tiår](../vocabulary/nouns/tiår.md) | noun | decade |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

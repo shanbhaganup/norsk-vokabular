@@ -69,4 +69,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 29921, manage sense](https://ordbokene.no/bm/29921)
 - [Bokmålsordboka 29920, separate clear/clarify sense](https://ordbokene.no/bm/29920)
-- [Reference record word-0190](../../reference/vocabulary-4472/word-types/verbs.md#word-0190)

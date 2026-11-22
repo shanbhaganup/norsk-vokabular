@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, fort](https://ordbokene.no/bm/17077)
-- [Reference record added-836e6cbc22bd](../../reference/vocabulary-4472/word-types/adjectives.md#added-836e6cbc22bd)

@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-7786a6080c34](../../reference/vocabulary-4472/word-types/adjectives.md#added-7786a6080c34)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/6279>)
 
 | Komparativ | blankere | Etter pussingen ble sølvet blankere. | After polishing, the silver became shinier. |

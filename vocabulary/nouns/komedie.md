@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: komedie](https://ordbokene.no/bm/30925)
-- [Reference record word-0754](../../reference/vocabulary-4472/word-types/nouns.md#word-0754)

@@ -74,4 +74,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: eie](https://ordbokene.no/bm/11818)
-- [Reference record added-e9b3cae8a8f5](../../reference/vocabulary-4472/word-types/verbs.md#added-e9b3cae8a8f5)

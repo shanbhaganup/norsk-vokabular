@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference word-0453](../../reference/vocabulary-4472/word-types/verbs.md#word-0453)
 - [Bokmålsordboka: åke](https://ordbokene.no/bm/928)

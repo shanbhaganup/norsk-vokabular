@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: feire](https://ordbokene.no/bm/14152)
-- [Reference snapshot: word-0087](../../reference/vocabulary-4472/word-types/verbs.md#word-0087)

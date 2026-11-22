@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: helg](https://ordbokene.no/bm/22976)
-- [Reference vocabulary: helg](../../reference/vocabulary-4472/word-types/nouns.md#word-0561)

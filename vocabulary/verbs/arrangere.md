@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: arrangere](https://ordbokene.no/bm/2739)
-- [Reference record added-c332a18febd9](../../reference/vocabulary-4472/word-types/verbs.md#added-c332a18febd9)

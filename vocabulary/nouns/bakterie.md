@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 4217](https://ordbokene.no/bm/4217)
-- [Reference snapshot · bakterie](../../reference/vocabulary-4472/word-types/nouns.md#word-0084)

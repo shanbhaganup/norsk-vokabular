@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, overbevise (43522)](https://ordbokene.no/bm/43522)
-- [Reference record word-0267](../../reference/vocabulary-4472/word-types/verbs.md#word-0267)

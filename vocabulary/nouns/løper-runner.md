@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 34499](https://ordbokene.no/bm/34499)
-- [Reference snapshot · løper](../../reference/vocabulary-4472/word-types/nouns.md#word-0909)

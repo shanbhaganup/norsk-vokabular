@@ -44,4 +44,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: datere](https://ordbokene.no/bm/9338)
-- [Reference vocabulary record word-0062](../../reference/vocabulary-4472/word-types/verbs.md#word-0062)

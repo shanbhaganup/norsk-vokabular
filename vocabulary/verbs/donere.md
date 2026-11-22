@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: donere](https://ordbokene.no/bm/10634)
-- [Reference record added-ff460c0064cf](../../reference/vocabulary-4472/word-types/verbs.md#added-ff460c0064cf)

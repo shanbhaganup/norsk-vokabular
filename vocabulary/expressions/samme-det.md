@@ -23,4 +23,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/samme)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-cf53f5f245a2)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tømme](https://ordbokene.no/bm/63355)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-794043ffe718)

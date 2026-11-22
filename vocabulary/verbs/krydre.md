@@ -63,5 +63,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/32413)
-- [Related adjective reference record](../../reference/vocabulary-4472/word-types/adjectives.md#added-6f3bca994434)
 - [Related adjective entry](../adjectives/krydret.md)

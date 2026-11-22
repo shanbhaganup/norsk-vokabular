@@ -54,9 +54,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary headword and listed forms checked; productive compound tenses and original teaching examples supplied.
 
-**Notes:** Intransitive in the sense “play bowling”; passive forms are not natural for this activity sense. “Bowle” is also a separate Bokmål noun, not included here. The listed participle agreement forms are used adjectivally and are distinct from compound-tense forms. Each accepted alternative is illustrated separately. Examples are original teaching sentences. Source reference anchor: [word-0051](../../reference/vocabulary-4472/word-types/verbs.md#word-0051).
+**Notes:** Intransitive in the sense “play bowling”; passive forms are not natural for this activity sense. “Bowle” is also a separate Bokmål noun, not included here. The listed participle agreement forms are used adjectivally and are distinct from compound-tense forms. Each accepted alternative is illustrated separately. Examples are original teaching sentences.
 
 **Sources:**
 
 - [Bokmålsordboka 7204](https://ordbokene.no/bm/7204)
-- [Reference vocabulary record word-0051](../../reference/vocabulary-4472/word-types/verbs.md#word-0051)

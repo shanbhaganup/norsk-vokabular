@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: komfyr](https://ordbokene.no/bm/30933)
-- [Reference record word-0755](../../reference/vocabulary-4472/word-types/nouns.md#word-0755)

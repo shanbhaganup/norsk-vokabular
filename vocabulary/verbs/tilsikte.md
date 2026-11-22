@@ -49,5 +49,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tilsikte](https://ordbokene.no/bm/tilsikte)
-- [Related adjective source record: tilsiktet](../../reference/vocabulary-4472/word-types/adjectives.md#added-b28fb2393daf)
 - [Related adjective entry](../adjectives/tilsiktet.md)

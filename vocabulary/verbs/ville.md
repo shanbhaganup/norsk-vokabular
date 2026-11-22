@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 68339](https://ordbokene.no/bm/68339)
-- [Reference vocabulary ville](../../reference/vocabulary-4472/word-types/verbs.md#word-0442)

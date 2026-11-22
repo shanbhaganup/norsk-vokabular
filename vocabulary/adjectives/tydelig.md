@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0365](../../reference/vocabulary-4472/word-types/adjectives.md#word-0365).
 - [Bokmålsordboka: tydelig (63181)](https://ordbokene.no/bm/63181).

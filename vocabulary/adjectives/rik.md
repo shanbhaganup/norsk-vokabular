@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0277](../../reference/vocabulary-4472/word-types/adjectives.md#word-0277).
 - [Bokmålsordboka: rik (48539)](https://ordbokene.no/bm/48539).

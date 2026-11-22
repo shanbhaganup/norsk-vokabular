@@ -34,7 +34,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot: word-1657](../../reference/vocabulary-4472/word-types/nouns.md#word-1657)
 - [Bokmålsordboka 1](https://ordbokene.no/bm/62584)
 - [Bokmålsordboka 2](https://ordbokene.no/bm/62585)
 - [Bokmålsordboka 3](https://ordbokene.no/bm/62586)

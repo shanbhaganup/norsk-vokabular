@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 36242](https://ordbokene.no/bm/36242)
-- [Reference verb added-1c2d948f7e2f](../../reference/vocabulary-4472/word-types/verbs.md#added-1c2d948f7e2f)
 - [Related adjective](../adjectives/vellykket.md)

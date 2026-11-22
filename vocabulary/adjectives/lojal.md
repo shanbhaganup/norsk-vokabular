@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0202](../../reference/vocabulary-4472/word-types/adjectives.md#word-0202).
 - [Bokmålsordboka: lojal](https://ordbokene.no/bm/lojal).

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: komplisert](https://ordbokene.no/bm/120007)
-- [Reference vocabulary 0176](../../reference/vocabulary-4472/word-types/adjectives.md#word-0176)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tropisk](https://ordbokene.no/bm/tropisk)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-03204bcfea1f)

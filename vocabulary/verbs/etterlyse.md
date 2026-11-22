@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: etterlyse (13295)](https://ordbokene.no/bm/13295)
-- [Reference vocabulary record word-0083](../../reference/vocabulary-4472/word-types/verbs.md#word-0083)

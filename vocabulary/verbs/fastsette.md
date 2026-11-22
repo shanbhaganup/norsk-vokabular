@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: fastsette](https://ordbokene.no/bm/14021)
-- [Reference record added-3758e46b90ae](../../reference/vocabulary-4472/word-types/verbs.md#added-3758e46b90ae)

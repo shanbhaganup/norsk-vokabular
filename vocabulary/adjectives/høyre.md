@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: høyre](https://ordbokene.no/bm/25316)
-- [Reference snapshot: word-0143](../../reference/vocabulary-4472/word-types/adjectives.md#word-0143)

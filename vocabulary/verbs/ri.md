@@ -49,4 +49,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, ri 2 (48494)](https://ordbokene.no/bm/48494)
-- [Reference record word-0303](../../reference/vocabulary-4472/word-types/verbs.md#word-0303)

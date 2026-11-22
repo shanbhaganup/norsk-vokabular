@@ -31,4 +31,3 @@ checked_on: 2026-11-21
 
 - [Bokmålsordboka, annen I (1973)](https://ordbokene.no/bm/1973)
 - [Bokmålsordboka, andre/annen II (107465), ordinal cited in the snapshot](https://ordbokene.no/bm/107465)
-- [Reference snapshot, record 8](../../reference/vocabulary-4472/word-types/adjectives.md#word-0008)

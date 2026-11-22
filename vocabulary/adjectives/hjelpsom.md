@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, hjelpsom](https://ordbokene.no/bm/23741)
-- [Reference record added-4172215ada7b](../../reference/vocabulary-4472/word-types/adjectives.md#added-4172215ada7b)

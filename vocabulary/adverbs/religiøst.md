@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/religi%C3%B8s)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#word-0163)

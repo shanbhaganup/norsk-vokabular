@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary forms checked against Bokmålsordboka; original examples authored for this entry.
 
-**Notes:** The adjective is invariable in gender, number and definiteness. No comparative or superlative is listed; the size category is treated as a fixed label. Reference entry [added-40bc3cc1df7a](../../reference/vocabulary-4472/word-types/adjectives.md#added-40bc3cc1df7a).
+**Notes:** The adjective is invariable in gender, number and definiteness. No comparative or superlative is listed; the size category is treated as a fixed label.
 
 **Sources:**
 
 - [Bokmålsordboka 37571](https://ordbokene.no/bm/37571)
-- [Reference vocabulary](../../reference/vocabulary-4472/word-types/adjectives.md#added-40bc3cc1df7a)

@@ -32,5 +32,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0240](../../reference/vocabulary-4472/word-types/adjectives.md#word-0240).
 - [Bokmålsordboka: nær 1 I (41476)](https://ordbokene.no/bm/41476).

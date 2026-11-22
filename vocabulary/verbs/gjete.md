@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: gjete](https://ordbokene.no/bm/19970)
-- [Reference record added-c63f17201493](../../reference/vocabulary-4472/word-types/verbs.md#added-c63f17201493)

@@ -1,6 +1,7 @@
 # Changelog
 
 ## 2026-11-22
+- Removed citations to the archived vocabulary snapshot and repaired broken links to working entries.
 - Completed promotion links for all 4,472 reference anchors, refreshed working and topic indexes, and passed the structural vocabulary checker.
 - Corrected the sense-specific paradigms/examples for *takk* and *trekk*, clarified the *tank* sense, marked unverified plural forms for *turisme*, and repaired malformed reference links.
 

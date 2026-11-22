@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 134618](https://ordbokene.no/bm/134618)
-- [Reference noun added-e03f4037bf2e](../../reference/vocabulary-4472/word-types/nouns.md#added-e03f4037bf2e)
 - [Related adjective](../adjectives/voksen.md)

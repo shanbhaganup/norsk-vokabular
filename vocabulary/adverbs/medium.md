@@ -20,9 +20,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary forms checked against Bokmålsordboka; original examples authored for this entry.
 
-**Notes:** Invariable adverbial use of medium in cooking descriptions. No comparative or superlative degree applies. Bokmålsordboka explicitly records this use under the adjective entry. The source adjective entry [added-40bc3cc1df7a](../../reference/vocabulary-4472/word-types/adjectives.md#added-40bc3cc1df7a) is cited as the source of this related adverbial use.
+**Notes:** Invariable adverbial use of medium in cooking descriptions. No comparative or superlative degree applies. Bokmålsordboka explicitly records this use under the adjective entry.
 
 **Sources:**
 
 - [Bokmålsordboka 37571](https://ordbokene.no/bm/37571)
-- [Reference vocabulary adjective sense](../../reference/vocabulary-4472/word-types/adjectives.md#added-40bc3cc1df7a)

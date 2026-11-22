@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference noun anchor added-f290124d23e2](../../reference/vocabulary-4472/word-types/nouns.md#added-f290124d23e2)
 - User attachment: `3000 Words.md`
 - [Bokm?lsordboka 7041](https://ordbokene.no/bm/7041)

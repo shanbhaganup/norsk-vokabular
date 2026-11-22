@@ -23,7 +23,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms checked against the cited Bokmålsordboka entry; original example sentences supplied.
 
-**Notes:** Source reference: [word-1567](../../reference/vocabulary-4472/word-types/nouns.md#word-1567). This is the historical homonym; it has masculine inflection and is distinct from *talent* meaning ability or a talented person.
+**Notes:** This is the historical homonym; it has masculine inflection and is distinct from *talent* meaning ability or a talented person.
 
 **Sources:**
 

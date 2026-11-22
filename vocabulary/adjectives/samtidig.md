@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0288](../../reference/vocabulary-4472/word-types/adjectives.md#word-0288).
 - [Bokmålsordboka: samtidig (50040)](https://ordbokene.no/bm/50040).

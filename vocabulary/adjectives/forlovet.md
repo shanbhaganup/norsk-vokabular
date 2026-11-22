@@ -32,4 +32,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: forlovet](https://ordbokene.no/bm/113715)
-- [Reference vocabulary: forlovet](../../reference/vocabulary-4472/word-types/adjectives.md#word-0087)

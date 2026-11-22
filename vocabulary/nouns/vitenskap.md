@@ -28,4 +28,3 @@ source_anchor: added-dfee304ad597
 **Sources:**
 
 - [Bokm?lsordboka: vitenskap](https://ordbokene.no/bm/vitenskap)
-- Reference anchor: [added-dfee304ad597](../../reference/vocabulary-4472/word-types/nouns.md#added-dfee304ad597)

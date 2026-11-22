@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/potensiell)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-57ef5a608065)
 - [Working adverb entry](../adverbs/potensielt.md)

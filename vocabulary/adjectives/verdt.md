@@ -34,5 +34,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0405](../../reference/vocabulary-4472/word-types/adjectives.md#word-0405).
 - [Bokmålsordboka: verdt, verd (67812)](https://ordbokene.no/bm/67812).

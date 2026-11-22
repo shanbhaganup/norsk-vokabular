@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: uavhengig](https://ordbokene.no/bm/uavhengig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-0ccbc3aa4b67)

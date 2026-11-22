@@ -39,9 +39,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary headword and principal paradigm forms checked; compound tenses and original example sentences supplied for teaching.
 
-**Notes:** Bokmålsordboka defines the transitive sense as altering something to make it fit, and lists tilpasse seg as a separate reflexive construction. Examples show transitive adaptation; reflexive usage uses the same inflectional paradigm but requires seg and is not a passive. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order. Source record: [reference verb anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-99b0837159f9).
+**Notes:** Bokmålsordboka defines the transitive sense as altering something to make it fit, and lists tilpasse seg as a separate reflexive construction. Examples show transitive adaptation; reflexive usage uses the same inflectional paradigm but requires seg and is not a passive. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order.
 
 **Sources:**
 
 - [Bokmålsordboka: tilpasse](https://ordbokene.no/bm/60886)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-99b0837159f9)

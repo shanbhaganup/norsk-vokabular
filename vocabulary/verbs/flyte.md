@@ -49,4 +49,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: flyte](https://ordbokene.no/bm/15609)
-- [Reference record added-f486a559654d](../../reference/vocabulary-4472/word-types/verbs.md#added-f486a559654d)

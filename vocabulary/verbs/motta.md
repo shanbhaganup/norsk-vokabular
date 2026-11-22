@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, motta (39340)](https://ordbokene.no/bm/39340)
-- [Reference record word-0247](../../reference/vocabulary-4472/word-types/verbs.md#word-0247)

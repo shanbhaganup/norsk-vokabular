@@ -22,9 +22,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms checked; original teaching examples supplied.
 
-**Notes:** The dictionary accepts both bein and ben. This entry teaches the leg sense; the bone sense has a separate entry. Reference links: [word-0120](../../reference/vocabulary-4472/word-types/nouns.md#word-0120) and added-cef137c93deb.
+**Notes:** The dictionary accepts both bein and ben. This entry teaches the leg sense; the bone sense has a separate entry.
 
 **Sources:**
 
 - [Bokmålsordboka 5026](https://ordbokene.no/bm/5026)
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/nouns.md#added-cef137c93deb)

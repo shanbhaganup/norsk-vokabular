@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: variere](https://ordbokene.no/bm/66692)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-b44e37e89ff6)

@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, overfalle (43560)](https://ordbokene.no/bm/43560)
-- [Reference record word-0268](../../reference/vocabulary-4472/word-types/verbs.md#word-0268)

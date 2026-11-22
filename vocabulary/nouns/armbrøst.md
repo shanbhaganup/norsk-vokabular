@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 2696](https://ordbokene.no/bm/2696)
-- [Reference snapshot · armbrøst](../../reference/vocabulary-4472/word-types/nouns.md#word-0048)

@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — invitere](https://ordbokene.no/bm/27116)
-- [Reference snapshot — invitere](../../reference/vocabulary-4472/word-types/verbs.md#added-cd288a0cd912)

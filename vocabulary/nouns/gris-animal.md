@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gris](https://ordbokene.no/bm/20985)
-- [Reference vocabulary record word-0521](../../reference/vocabulary-4472/word-types/nouns.md#word-0521)

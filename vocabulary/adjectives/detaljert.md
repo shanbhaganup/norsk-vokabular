@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-5f648bba9dac](../../reference/vocabulary-4472/word-types/adjectives.md#added-5f648bba9dac)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/9926>)
 
 | Komparativ | mer detaljert | Vi trenger et mer detaljert kart. | We need a more detailed map. |

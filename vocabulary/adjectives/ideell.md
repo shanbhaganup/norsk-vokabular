@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, ideell](https://ordbokene.no/bm/ideell)
-- [Reference record added-5dfb6093831d](../../reference/vocabulary-4472/word-types/adjectives.md#added-5dfb6093831d)

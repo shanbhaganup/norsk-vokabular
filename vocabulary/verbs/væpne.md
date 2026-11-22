@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka væpne](https://ordbokene.no/bm/69199)
-- [Reference record added-a2b3f35d4b0a](../../reference/vocabulary-4472/word-types/verbs.md#added-a2b3f35d4b0a)

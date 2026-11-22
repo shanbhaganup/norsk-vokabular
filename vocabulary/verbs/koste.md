@@ -51,4 +51,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 31810, cost sense](https://ordbokene.no/bm/31810)
 - [Bokmålsordboka 31809, separate sweeping sense](https://ordbokene.no/bm/31809)
-- [Reference record word-0204](../../reference/vocabulary-4472/word-types/verbs.md#word-0204)

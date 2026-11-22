@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: forlatt](https://ordbokene.no/bm/16462)
-- [Reference vocabulary: forlatt](../../reference/vocabulary-4472/word-types/adjectives.md#word-0086)

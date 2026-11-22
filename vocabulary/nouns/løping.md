@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 122243](https://ordbokene.no/bm/122243)
 - [Bokmålsordboka · løping](https://ordbokene.no/bm/løping)
-- [Reference snapshot · løping](../../reference/vocabulary-4472/word-types/nouns.md#word-0911)

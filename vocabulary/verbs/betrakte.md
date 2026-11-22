@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: betrakte](https://ordbokene.no/bm/5665)
-- [Reference record added-11229e463f12](../../reference/vocabulary-4472/word-types/verbs.md#added-11229e463f12)

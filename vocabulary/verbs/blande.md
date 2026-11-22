@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: blande](https://ordbokene.no/bm/6260)
-- [Reference record added-6a17c65a76c3](../../reference/vocabulary-4472/word-types/verbs.md#added-6a17c65a76c3)

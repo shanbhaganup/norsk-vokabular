@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — kollapse](https://ordbokene.no/bm/30811)
-- [Reference snapshot — kollapse](../../reference/vocabulary-4472/word-types/verbs.md#added-2d2c7d5eef8c)

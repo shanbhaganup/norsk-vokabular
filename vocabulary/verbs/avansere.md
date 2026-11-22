@@ -43,4 +43,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: avansere](https://ordbokene.no/bm/3351)
-- [Reference record added-3cafb2a6a4e8](../../reference/vocabulary-4472/word-types/verbs.md#added-3cafb2a6a4e8)

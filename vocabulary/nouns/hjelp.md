@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hjelp](https://ordbokene.no/bm/hjelp)
-- [Reference vocabulary word-0579](../../reference/vocabulary-4472/word-types/nouns.md#word-0579)

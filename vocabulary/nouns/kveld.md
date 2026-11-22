@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kveld](https://ordbokene.no/bm/33116)
-- [Reference snapshot word-0828](../../reference/vocabulary-4472/word-types/nouns.md#word-0828)

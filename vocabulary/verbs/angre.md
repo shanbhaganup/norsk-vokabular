@@ -63,4 +63,3 @@ checked_on: 2026-06-07
 **Sources:**
 
 - [Bokmålsordboka — angre](https://ordbokene.no/bm/1814)
-- [Reference snapshot — angre](../../reference/vocabulary-4472/word-types/verbs.md#word-0004)

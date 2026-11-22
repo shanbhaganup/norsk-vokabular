@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 61295 / toalettpapir](https://ordbokene.no/bm/61295)
-- [Reference vocabulary word-1626](../../reference/vocabulary-4472/word-types/nouns.md#word-1626)

@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, berømt (5431)](https://ordbokene.no/nob/bm/5431)
-- [Reference snapshot, record 16](../../reference/vocabulary-4472/word-types/adjectives.md#word-0016)

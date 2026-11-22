@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tarm](https://ordbokene.no/bm/59932)
-- [Reference vocabulary record 1576](../../reference/vocabulary-4472/word-types/nouns.md#word-1576)

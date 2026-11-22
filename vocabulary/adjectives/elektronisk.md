@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 12352](https://ordbokene.no/bm/12352)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#word-0057)

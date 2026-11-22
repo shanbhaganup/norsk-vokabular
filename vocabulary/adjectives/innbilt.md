@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, innbilt](https://ordbokene.no/bm/118177)
-- [Reference record added-795c27fc34f4](../../reference/vocabulary-4472/word-types/adjectives.md#added-795c27fc34f4)

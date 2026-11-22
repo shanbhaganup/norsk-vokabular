@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 
 - [Bokmålsordboka / Ordbøkene](https://ordbokene.no/bm/14079)
 - [Bokmålsordboka / Ordbøkene, related entry 2](https://ordbokene.no/bm/14080)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/nouns.md#word-0358)

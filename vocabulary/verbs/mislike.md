@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, mislike (38651)](https://ordbokene.no/bm/38651)
-- [Reference record word-0243](../../reference/vocabulary-4472/word-types/verbs.md#word-0243)

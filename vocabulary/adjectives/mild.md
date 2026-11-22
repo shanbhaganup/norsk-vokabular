@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/mild)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-80e97d58e15b)

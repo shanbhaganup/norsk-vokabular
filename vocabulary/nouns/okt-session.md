@@ -27,6 +27,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-e3841e5629be](../../reference/vocabulary-4472/word-types/nouns.md#added-e3841e5629be)
 
 - [Bokmålsordboka: økt (substantiv)](https://ordbokene.no/bm/42699)

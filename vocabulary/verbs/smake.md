@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, smake (54695)](https://ordbokene.no/bm/54695)
-- [Reference record word-0352](../../reference/vocabulary-4472/word-types/verbs.md#word-0352)

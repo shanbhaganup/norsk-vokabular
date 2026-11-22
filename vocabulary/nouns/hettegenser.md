@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hettegenser](https://ordbokene.no/bm/116936)
-- [Reference record word-0570](../../reference/vocabulary-4472/word-types/nouns.md#word-0570)

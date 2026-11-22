@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: imponert](https://ordbokene.no/bm/imponert)
-- [Reference snapshot: word-0148](../../reference/vocabulary-4472/word-types/adjectives.md#word-0148)

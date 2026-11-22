@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bli](https://ordbokene.no/bm/6390)
-- [Reference record added-da1cb08e5424](../../reference/vocabulary-4472/word-types/verbs.md#added-da1cb08e5424)

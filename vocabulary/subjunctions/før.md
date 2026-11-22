@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/114624)
-- [Reference snapshot · før](../../reference/vocabulary-4472/word-types/other-words.md#added-e42b5aa8eb72)

@@ -40,4 +40,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bestemme](https://ordbokene.no/bm/5529)
-- [Reference record added-6338ec74a68d](../../reference/vocabulary-4472/word-types/verbs.md#added-6338ec74a68d)

@@ -23,7 +23,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms checked against the cited Bokmålsordboka entry; original example sentences supplied.
 
-**Notes:** Source reference: [word-1568](../../reference/vocabulary-4472/word-types/nouns.md#word-1568). This neuter noun covers mathematical numbers, number symbols, quantity and the grammatical feature ‘number’. It is distinct from the botanical homonym *tall* meaning pine.
+**Notes:** This neuter noun covers mathematical numbers, number symbols, quantity and the grammatical feature ‘number’. It is distinct from the botanical homonym *tall* meaning pine.
 
 **Sources:**
 

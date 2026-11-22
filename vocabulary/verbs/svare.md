@@ -42,4 +42,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/58564>)
-- [Reference vocabulary word-0389](../../reference/vocabulary-4472/word-types/verbs.md#word-0389)

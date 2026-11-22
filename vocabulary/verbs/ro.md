@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka ro (verb)](https://ordbokene.no/bm/48729)
-- [Reference verb record word-0306](../../reference/vocabulary-4472/word-types/verbs.md#word-0306)

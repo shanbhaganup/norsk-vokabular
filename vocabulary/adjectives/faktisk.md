@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, faktisk](https://ordbokene.no/bm/13629)
-- [Reference record added-c1db9b252f1c](../../reference/vocabulary-4472/word-types/adjectives.md#added-c1db9b252f1c)

@@ -56,5 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, lukke 2 (36003)](https://ordbokene.no/bm/36003)
-- [Reference record word-0227](../../reference/vocabulary-4472/word-types/verbs.md#word-0227)
-- [Adjectival participle reference record](../../reference/vocabulary-4472/word-types/adjectives.md#added-6242abbfa201)

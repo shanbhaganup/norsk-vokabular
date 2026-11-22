@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Agreement forms follow the dictionary participle paradigm; comparison is inapplicable to this result-state participle.
 
-**Notes:** Adjectival past participle of skille, used for a person or couple whose marriage has ended. Not comparable in this sense. Distinct from the noun skilt “sign”. Reference entry [added-693039138a12](../../reference/vocabulary-4472/word-types/adjectives.md#added-693039138a12).
+**Notes:** Adjectival past participle of skille, used for a person or couple whose marriage has ended. Not comparable in this sense. Distinct from the noun skilt “sign”.
 
 **Sources:**
 
 - [Bokmålsordboka 128207](https://ordbokene.no/bm/128207)
-- [Reference vocabulary](../../reference/vocabulary-4472/word-types/adjectives.md#added-693039138a12)

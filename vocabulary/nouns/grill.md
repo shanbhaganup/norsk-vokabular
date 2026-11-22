@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: grill](https://ordbokene.no/bm/20946)
-- [Reference vocabulary record word-0520](../../reference/vocabulary-4472/word-types/nouns.md#word-0520)

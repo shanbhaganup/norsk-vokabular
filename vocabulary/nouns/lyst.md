@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · lyst](https://ordbokene.no/bm/36396)
-- [Reference snapshot · lyst](../../reference/vocabulary-4472/word-types/nouns.md#word-0897)

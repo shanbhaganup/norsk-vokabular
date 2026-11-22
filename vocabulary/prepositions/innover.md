@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 26596](https://ordbokene.no/bm/26596)
-- [Reference snapshot · innover](../../reference/vocabulary-4472/word-types/other-words.md#word-0010)

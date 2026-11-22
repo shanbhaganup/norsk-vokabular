@@ -46,4 +46,3 @@ checked_on: 2026-06-07
 **Sources:**
 
 - [Bokmålsordboka — anbefale](https://ordbokene.no/bm/1637)
-- [Reference snapshot — anbefale](../../reference/vocabulary-4472/word-types/verbs.md#word-0003)

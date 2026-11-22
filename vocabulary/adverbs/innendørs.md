@@ -27,5 +27,3 @@ This adverb entry covers the separate “indoors” sense from the same source r
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/26369)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#word-0094)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-b1fa2fb3fcb8)

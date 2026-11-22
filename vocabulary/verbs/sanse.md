@@ -59,4 +59,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, sanse (50167)](https://ordbokene.no/bm/50167)
-- [Reference record word-0314](../../reference/vocabulary-4472/word-types/verbs.md#word-0314)

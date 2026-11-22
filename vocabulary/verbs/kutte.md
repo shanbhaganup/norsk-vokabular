@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, kutte (32919)](https://ordbokene.no/bm/32919)
-- [Reference record word-0210](../../reference/vocabulary-4472/word-types/verbs.md#word-0210)

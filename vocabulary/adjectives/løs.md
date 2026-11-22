@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0209](../../reference/vocabulary-4472/word-types/adjectives.md#word-0209).
 - [Bokmålsordboka: løs, laus (34516)](https://ordbokene.no/bm/34516).

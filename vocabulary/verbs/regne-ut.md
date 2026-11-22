@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-30c6626f2897)
 - [Bokmålsordboka: regne ut](https://ordbokene.no/bm/regne%20ut)

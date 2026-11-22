@@ -41,4 +41,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, bekymret (109620)](https://ordbokene.no/bm/109620)
-- [Reference snapshot, record 15](../../reference/vocabulary-4472/word-types/adjectives.md#word-0015)

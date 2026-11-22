@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rusle 1 (49170)](https://ordbokene.no/bm/49170) · [rusle 2 (49171)](https://ordbokene.no/bm/49171)
-- [Reference record word-0307](../../reference/vocabulary-4472/word-types/verbs.md#word-0307)

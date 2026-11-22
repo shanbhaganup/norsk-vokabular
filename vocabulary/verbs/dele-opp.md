@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dele](https://ordbokene.no/bm/9604)
-- [Reference record added-5a677c0e8562](../../reference/vocabulary-4472/word-types/verbs.md#added-5a677c0e8562)

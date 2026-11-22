@@ -33,4 +33,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, eldgammel](https://ordbokene.no/bm/12251)
-- [Reference record added-652a24f334e5](../../reference/vocabulary-4472/word-types/adjectives.md#added-652a24f334e5)

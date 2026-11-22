@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0253](../../reference/vocabulary-4472/word-types/adjectives.md#word-0253).
 - [Bokmålsordboka: patetisk (44419)](https://ordbokene.no/bm/44419).

@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gutt](https://ordbokene.no/bm/21634)
-- [Reference record word-0532](../../reference/vocabulary-4472/word-types/nouns.md#word-0532)

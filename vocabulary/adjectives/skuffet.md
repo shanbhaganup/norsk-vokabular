@@ -34,5 +34,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0307](../../reference/vocabulary-4472/word-types/adjectives.md#word-0307).
 - [Bokmålsordboka: skuffe 4 IV (53782), participle forms and “disappoint” sense](https://ordbokene.no/bm/53782).

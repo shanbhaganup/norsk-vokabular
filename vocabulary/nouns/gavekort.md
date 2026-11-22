@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record gavekort](../../reference/vocabulary-4472/word-types/nouns.md#word-0479)
 - [Bokmålsordboka 19316](https://ordbokene.no/bm/19316)

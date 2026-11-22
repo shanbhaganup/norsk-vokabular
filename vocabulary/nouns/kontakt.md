@@ -26,5 +26,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference entry word-0774](../../reference/vocabulary-4472/word-types/nouns.md#word-0774)
 - [Bokmålsordboka: kontakt](https://ordbokene.no/bm/kontakt)

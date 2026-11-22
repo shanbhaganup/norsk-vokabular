@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gjøre (20054)](https://ordbokene.no/bm/20054)
-- [Reference snapshot, gjøre](../../reference/vocabulary-4472/word-types/verbs.md#word-0137)

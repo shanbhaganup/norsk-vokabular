@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/n%C3%A5v%C3%A6rende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-4968bf86a9b1)

@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-113d9c2a033f](../../reference/vocabulary-4472/word-types/nouns.md#added-113d9c2a033f)
 
 - [Bokmålsordboka: øst (substantiv)](https://ordbokene.no/bm/42842)

@@ -49,4 +49,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dra (10697)](https://ordbokene.no/bm/10697)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0068)

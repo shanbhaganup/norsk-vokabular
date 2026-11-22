@@ -416,4 +416,4 @@
 | [skille](../vocabulary/verbs/skille.md) | verb | separate; distinguish |
 | [skinne](../vocabulary/verbs/skinne.md) | verb | shine |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

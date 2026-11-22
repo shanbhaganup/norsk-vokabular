@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, plante (45150)](https://ordbokene.no/bm/45150)
-- [Reference record word-0277](../../reference/vocabulary-4472/word-types/verbs.md#word-0277)

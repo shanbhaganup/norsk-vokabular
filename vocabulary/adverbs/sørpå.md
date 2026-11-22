@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/nno/bm/s%C3%B8rp%C3%A5)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#word-0023)

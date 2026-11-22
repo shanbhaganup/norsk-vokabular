@@ -24,10 +24,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary forms and both accepted genders checked against Bokmålsordboka; original examples authored for this entry.
 
-**Notes:** The reference snapshot also lists moro as an adjective, but Bokmålsordboka classifies the headword as a noun. That source adjective classification is corrected here rather than duplicated; use morsom for the usual attributive adjective “fun/funny”. The noun accepts feminine and masculine inflection. Reference entries: noun word-1002 and [adjective added-ac8f0c55f5a9](../../reference/vocabulary-4472/word-types/adjectives.md#added-ac8f0c55f5a9).
+**Notes:** The reference snapshot also lists moro as an adjective, but Bokmålsordboka classifies the headword as a noun. That source adjective classification is corrected here rather than duplicated; use morsom for the usual attributive adjective “fun/funny”. The noun accepts feminine and masculine inflection.
 
 **Sources:**
 
 - [Bokmålsordboka 39122](https://ordbokene.no/bm/39122)
-- [Reference noun entry](../../reference/vocabulary-4472/word-types/nouns.md#word-1002)
-- [Reference adjective entry, POS corrected](../../reference/vocabulary-4472/word-types/adjectives.md#added-ac8f0c55f5a9)

@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 23187](https://ordbokene.no/bm/23187)
-- [Reference snapshot, verb anchor added-bb83d255eff5](../../reference/vocabulary-4472/word-types/verbs.md#added-bb83d255eff5)

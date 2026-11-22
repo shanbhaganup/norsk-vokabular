@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 13725](https://ordbokene.no/bm/13725)
-- [Reference record falsk](../../reference/vocabulary-4472/word-types/adjectives.md#word-0067)

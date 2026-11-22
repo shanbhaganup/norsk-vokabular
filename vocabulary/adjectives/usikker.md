@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0385](../../reference/vocabulary-4472/word-types/adjectives.md#word-0385).
 - [Bokmålsordboka: usikker (64932)](https://ordbokene.no/bm/64932).

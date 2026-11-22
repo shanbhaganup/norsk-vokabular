@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: brette](https://ordbokene.no/bm/7480)
-- [Reference record added-58fd5e3a28b0](../../reference/vocabulary-4472/word-types/verbs.md#added-58fd5e3a28b0)

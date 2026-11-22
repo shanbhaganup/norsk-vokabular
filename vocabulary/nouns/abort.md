@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 53](https://ordbokene.no/bm/53)
-- [Reference noun record word-0001](../../reference/vocabulary-4472/word-types/nouns.md#word-0001)

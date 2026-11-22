@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: interessant](https://ordbokene.no/bm/interessant)
-- [Reference snapshot: word-0153](../../reference/vocabulary-4472/word-types/adjectives.md#word-0153)

@@ -57,10 +57,9 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms verified; compound tenses and passive examples are productive constructions. All example sentences are original teaching examples.
 
-**Notes:** This entry covers the sense ‘catch fish’ in reference record [word-0092](../../reference/vocabulary-4472/word-types/verbs.md#word-0092), matched to Bokmålsordboka entry 14910. The separate Bokmålsordboka entry 14911 means ‘haul/hoist with a fishing tackle’ and is outside this sense. The reference English gloss was reviewed against the Norwegian dictionary definition; the dictionary does not validate English wording. Both accepted past/participle forms are shown; the rarer definite/plural forms are included as listed. Examples illustrate the intransitive activity and transitive fish-catching uses.
+**Notes:** This entry covers the sense ‘catch fish’, matched to Bokmålsordboka entry 14910. The separate Bokmålsordboka entry 14911 means ‘haul/hoist with a fishing tackle’ and is outside this sense. The reference English gloss was reviewed against the Norwegian dictionary definition; the dictionary does not validate English wording. Both accepted past/participle forms are shown; the rarer definite/plural forms are included as listed. Examples illustrate the intransitive activity and transitive fish-catching uses.
 
 **Sources:**
 
 - [Bokmålsordboka: fiske 2 II (14910)](https://ordbokene.no/bm/14910)
 - [Bokmålsordboka: fiske 3 III (14911)](https://ordbokene.no/bm/14911)
-- [Reference snapshot record word-0092](../../reference/vocabulary-4472/word-types/verbs.md#word-0092)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, juridisk (28046)](https://ordbokene.no/bm/28046)
-- [Reference snapshot, record 161](../../reference/vocabulary-4472/word-types/adjectives.md#word-0161)

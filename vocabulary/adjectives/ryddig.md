@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 - [No parent verb entry applies.]
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/ryddig>)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-d948d171a1a3)

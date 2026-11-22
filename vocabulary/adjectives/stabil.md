@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: stabil](https://ordbokene.no/bm/stabil)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-a4d2a36aa8b1)

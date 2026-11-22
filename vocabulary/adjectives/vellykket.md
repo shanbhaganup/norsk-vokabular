@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 67489](https://ordbokene.no/bm/67489)
-- [Reference adjective added-a4a4eb2c83ae](../../reference/vocabulary-4472/word-types/adjectives.md#added-a4a4eb2c83ae)
 - [Related verb lykkes](../verbs/lykkes.md)

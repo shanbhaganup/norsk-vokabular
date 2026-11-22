@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: teater](https://ordbokene.no/bm/60016)
-- [Reference vocabulary record 1580](../../reference/vocabulary-4472/word-types/nouns.md#word-1580)

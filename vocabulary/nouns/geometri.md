@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record geometri](../../reference/vocabulary-4472/word-types/nouns.md#word-0484)
 - [Bokm?lsordboka 19509](https://ordbokene.no/bm/19509)

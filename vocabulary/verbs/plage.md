@@ -70,4 +70,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, plage (45103)](https://ordbokene.no/bm/45103)
-- [Reference record word-0275](../../reference/vocabulary-4472/word-types/verbs.md#word-0275)

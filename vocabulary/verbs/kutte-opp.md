@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kutte](https://ordbokene.no/bm/kutte)
-- [Reference snapshot: kutte opp](../../reference/vocabulary-4472/word-types/verbs.md#added-43851d406c28)

@@ -28,5 +28,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference anchor: added-67d458c90bfc](../../reference/vocabulary-4472/word-types/nouns.md#added-67d458c90bfc)
 - [Bokmålsordboka 61906](https://ordbokene.no/bm/61906)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, indre](https://ordbokene.no/bm/26063)
-- [Reference record added-0eddd402244e](../../reference/vocabulary-4472/word-types/adjectives.md#added-0eddd402244e)

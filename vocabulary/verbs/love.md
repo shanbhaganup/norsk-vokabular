@@ -74,4 +74,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, love 3 (35841), promise](https://ordbokene.no/bm/35841)
-- [Reference record word-0226](../../reference/vocabulary-4472/word-types/verbs.md#word-0226)

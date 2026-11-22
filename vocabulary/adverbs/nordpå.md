@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 41050](https://ordbokene.no/bm/41050)
-- [Reference snapshot · nordpå](../../reference/vocabulary-4472/word-types/other-words.md#word-0016)

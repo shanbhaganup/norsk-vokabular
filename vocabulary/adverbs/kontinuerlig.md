@@ -25,4 +25,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/kontinuerlig)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-9fb6a9444abe)

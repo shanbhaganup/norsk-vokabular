@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/mystisk)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-54ee444c04c7)

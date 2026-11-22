@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 69188](https://ordbokene.no/bm/69188)
-- [Reference vocabulary vurdere](../../reference/vocabulary-4472/word-types/verbs.md#word-0449)

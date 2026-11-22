@@ -26,4 +26,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka: rikelig](https://ordbokene.no/bm/rikelig)
 - [Related adjective entry](../adjectives/rikelig.md)
-- [Related adjective source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-6184e681f5f6)

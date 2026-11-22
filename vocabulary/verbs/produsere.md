@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, produsere (46363)](https://ordbokene.no/bm/46363)
-- [Reference record word-0281](../../reference/vocabulary-4472/word-types/verbs.md#word-0281)

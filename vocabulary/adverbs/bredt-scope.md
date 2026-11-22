@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/7351)
-- [Reference snapshot · bredt](../../reference/vocabulary-4472/word-types/adverbs.md#word-0020)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/religi%C3%B8s)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-a349301af50a)

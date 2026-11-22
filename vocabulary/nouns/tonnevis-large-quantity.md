@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka tønnevis / tonnevis](https://ordbokene.no/bm%2Cnn/t%C3%B8nnevis)
-- [Reference vocabulary word-1632](../../reference/vocabulary-4472/word-types/nouns.md#word-1632)

@@ -31,7 +31,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-c802be189cf2](../../reference/vocabulary-4472/word-types/adjectives.md#added-c802be189cf2)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/6340>)
 
 | Komparativ | blekere | Han så blekere ut etter den lange natten. | He looked paler after the long night. |

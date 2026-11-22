@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, fortsatt](https://ordbokene.no/bm/115089)
-- [Reference record added-10a9a648d3d6](../../reference/vocabulary-4472/word-types/adjectives.md#added-10a9a648d3d6)

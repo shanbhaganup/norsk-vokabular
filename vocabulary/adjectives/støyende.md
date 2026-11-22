@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/støye.md)
 
 - [Bokmålsordboka: støyende](https://ordbokene.no/bm/støyende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-cbe1ed5b4f30)

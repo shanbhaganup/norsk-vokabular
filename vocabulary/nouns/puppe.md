@@ -28,6 +28,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary record word-1215](../../reference/vocabulary-4472/word-types/nouns.md#word-1215)
 - [Bokmålsordboka 46912](https://ordbokene.no/bm/46912)
 - [Bokmålsordboka: current puppe entry](https://ordbokene.no/bm/puppe)

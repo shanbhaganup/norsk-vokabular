@@ -30,6 +30,5 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 65217](https://ordbokene.no/bm/65217)
-- [Reference adjective added-80e7b58527cd](../../reference/vocabulary-4472/word-types/adjectives.md#added-80e7b58527cd)
 
 - [Related adverb](../adverbs/utendørs.md)

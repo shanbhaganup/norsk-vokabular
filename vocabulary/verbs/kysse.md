@@ -65,4 +65,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, kysse (33368)](https://ordbokene.no/bm/33368)
-- [Reference record word-0212](../../reference/vocabulary-4472/word-types/verbs.md#word-0212)

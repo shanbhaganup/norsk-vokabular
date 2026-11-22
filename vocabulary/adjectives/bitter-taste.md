@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-d9e746776009](../../reference/vocabulary-4472/word-types/adjectives.md#added-d9e746776009)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/6149>)
 
 | Komparativ | bitrere | Kaffen ble bitrere etter at den kokte for lenge. | The coffee became more bitter after it boiled too long. |

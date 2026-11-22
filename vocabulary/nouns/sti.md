@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 57094](https://ordbokene.no/bm/57094)
-- [Reference vocabulary word-1492](../../reference/vocabulary-4472/word-types/nouns.md#word-1492)

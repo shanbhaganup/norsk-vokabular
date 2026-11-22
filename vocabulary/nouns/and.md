@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-e736f041ac53](../../reference/vocabulary-4472/word-types/nouns.md#added-e736f041ac53)
 
 - [Bokmålsordboka: ånd](https://ordbokene.no/bm/974)

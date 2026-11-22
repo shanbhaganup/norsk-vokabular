@@ -25,4 +25,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/munter)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-111caca0967e)

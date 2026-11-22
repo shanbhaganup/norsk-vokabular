@@ -23,7 +23,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms checked against the cited Bokmålsordboka entry; original example sentences supplied.
 
-**Notes:** Source reference: [word-1568](../../reference/vocabulary-4472/word-types/nouns.md#word-1568). This entry is the botanical noun meaning ‘pine tree’, with masculine or feminine inflection. It is distinct from neuter *tall* meaning a number.
+**Notes:** This entry is the botanical noun meaning ‘pine tree’, with masculine or feminine inflection. It is distinct from neuter *tall* meaning a number.
 
 **Sources:**
 

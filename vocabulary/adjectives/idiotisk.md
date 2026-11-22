@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: idiotisk](https://ordbokene.no/bm/idiotisk)
-- [Reference snapshot: word-0145](../../reference/vocabulary-4472/word-types/adjectives.md#word-0145)

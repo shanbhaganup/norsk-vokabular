@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, følgende](https://ordbokene.no/bm/18677)
-- [Reference record added-98a82c8d31eb](../../reference/vocabulary-4472/word-types/adjectives.md#added-98a82c8d31eb)

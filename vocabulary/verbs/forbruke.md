@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forbruke](https://ordbokene.no/bm/15999)
-- [Reference record added-596a8628121d](../../reference/vocabulary-4472/word-types/verbs.md#added-596a8628121d)

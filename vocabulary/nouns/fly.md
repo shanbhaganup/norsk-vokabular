@@ -35,4 +35,3 @@ checked_on: 2026-11-22
 - [Bokmålsordboka: fly](https://ordbokene.no/bm/15540)
 - [Bokmålsordboka: fly](https://ordbokene.no/bm/15541)
 - [Bokmålsordboka: fly](https://ordbokene.no/bm/15542)
-- [Reference noun record added-0f11e0584579](../../reference/vocabulary-4472/word-types/nouns.md#added-0f11e0584579)

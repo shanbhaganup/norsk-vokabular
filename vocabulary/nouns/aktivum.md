@@ -29,5 +29,4 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 120644](https://ordbokene.no/nob/bm/120644)
-- [Reference noun record word-0011](../../reference/vocabulary-4472/word-types/nouns.md#word-0011)
 - [Bokmålsordboka, aktiva](https://ordbokene.no/bm%2Cnn/aktiva)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bevare](https://ordbokene.no/bm/5698)
-- [Reference record added-c7f4a838deec](../../reference/vocabulary-4472/word-types/verbs.md#added-c7f4a838deec)

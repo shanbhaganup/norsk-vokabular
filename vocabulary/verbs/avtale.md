@@ -50,9 +50,8 @@ checked_on: 2026-11-21
 
 **Form status:** Infinitive, present, past, participle and imperative values follow the dictionary paradigm; compound tenses and passive constructions are productive teaching forms.
 
-**Notes:** Source spelling and alternatives are retained. The present participle avtalende is uncommon and typically attributive. The s-passive is suitable in formal or procedural contexts; bli-passive forms are shown in complete contexts. The source gloss “deal” is refined to the verbal sense “agree on; arrange”. Reference record [added-ff1422ea60bc](../../reference/vocabulary-4472/word-types/verbs.md#added-ff1422ea60bc).
+**Notes:** Source spelling and alternatives are retained. The present participle avtalende is uncommon and typically attributive. The s-passive is suitable in formal or procedural contexts; bli-passive forms are shown in complete contexts. The source gloss “deal” is refined to the verbal sense “agree on; arrange”.
 
 **Sources:**
 
 - [Bokmålsordboka 3913](https://ordbokene.no/bm/3913)
-- [Reference vocabulary](../../reference/vocabulary-4472/word-types/verbs.md#added-ff1422ea60bc)

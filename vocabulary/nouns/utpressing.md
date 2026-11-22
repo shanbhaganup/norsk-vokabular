@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 65623](https://ordbokene.no/bm/65623)
-- [Reference noun record word-1705](../../reference/vocabulary-4472/word-types/nouns.md#word-1705)

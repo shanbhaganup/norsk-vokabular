@@ -28,4 +28,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: klo](https://ordbokene.no/bm/30174)
-- [Reference record word-0740](../../reference/vocabulary-4472/word-types/nouns.md#word-0740)

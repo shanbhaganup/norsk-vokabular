@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary agreement forms checked against the reference paradigm; original examples authored for this entry.
 
-**Notes:** The comparative and superlative are accepted dictionary forms; they are somewhat literary or formal in many contexts. Reference entry: [word-0170](../../reference/vocabulary-4472/word-types/adjectives.md#word-0170).
+**Notes:** The comparative and superlative are accepted dictionary forms; they are somewhat literary or formal in many contexts.
 
 **Sources:**
 
 - [Bokmålsordboka 29672](https://ordbokene.no/bm/29672)
-- [Reference vocabulary word-0170](../../reference/vocabulary-4472/word-types/adjectives.md#word-0170)

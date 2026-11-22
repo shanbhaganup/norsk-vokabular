@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, oransje 1 I](https://ordbokene.no/nno/bm/43202)
-- [Reference noun record](../../reference/vocabulary-4472/word-types/nouns.md#added-343d352758d7)
 - [Related adjective entry](../adjectives/oransje.md)

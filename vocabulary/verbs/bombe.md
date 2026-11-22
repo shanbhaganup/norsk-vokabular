@@ -56,9 +56,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary forms and alternatives are reproduced from the reference. Compound tenses and passive constructions are productive teaching forms.
 
-**Notes:** Past and perfect participle forms bomba and bombet are listed alternatives. The reference also lists bombede and bombete for definite/plural adjectival participles; these are retained but need direct dictionary verification. Passive examples describe fictional/historical contexts. Reference record [added-757b53135845](../../reference/vocabulary-4472/word-types/verbs.md#added-757b53135845).
+**Notes:** Past and perfect participle forms bomba and bombet are listed alternatives. The reference also lists bombede and bombete for definite/plural adjectival participles; these are retained but need direct dictionary verification. Passive examples describe fictional/historical contexts.
 
 **Sources:**
 
 - [Bokmålsordboka 6921](https://ordbokene.no/bm/6921)
-- [Reference vocabulary](../../reference/vocabulary-4472/word-types/verbs.md#added-757b53135845)

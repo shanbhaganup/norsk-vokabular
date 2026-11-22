@@ -102,4 +102,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, røyke 2 (49426)](https://ordbokene.no/bm/49426) · [røyke 1 (136672)](https://ordbokene.no/bm/136672)
-- [Reference record word-0312](../../reference/vocabulary-4472/word-types/verbs.md#word-0312)

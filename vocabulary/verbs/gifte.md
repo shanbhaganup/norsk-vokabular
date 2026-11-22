@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gifte (19594)](https://ordbokene.no/bm/19594)
-- [Reference snapshot, record 130](../../reference/vocabulary-4472/word-types/verbs.md#word-0130)

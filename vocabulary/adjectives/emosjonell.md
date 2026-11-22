@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, emosjonell](https://ordbokene.no/bm/12552)
-- [Reference record added-02374438b0c1](../../reference/vocabulary-4472/word-types/adjectives.md#added-02374438b0c1)

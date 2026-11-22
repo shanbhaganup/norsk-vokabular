@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0360](../../reference/vocabulary-4472/word-types/adjectives.md#word-0360).
 - [Bokmålsordboka: trygg (62580)](https://ordbokene.no/bm/62580).

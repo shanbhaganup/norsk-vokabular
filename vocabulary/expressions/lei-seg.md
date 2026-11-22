@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/lei)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-09e9840d2e19)

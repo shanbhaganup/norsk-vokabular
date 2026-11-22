@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, misforstå (38613)](https://ordbokene.no/bm/38613)
-- [Reference record word-0242](../../reference/vocabulary-4472/word-types/verbs.md#word-0242)

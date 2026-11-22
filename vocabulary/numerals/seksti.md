@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/seksti)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-657c29b2c2e7)

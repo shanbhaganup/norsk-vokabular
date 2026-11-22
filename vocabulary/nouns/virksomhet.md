@@ -28,4 +28,3 @@ source_anchor: added-13bfbcf17c3d
 **Sources:**
 
 - [Bokm?lsordboka: virksomhet](https://ordbokene.no/bm/virksomhet)
-- Reference anchor: [added-13bfbcf17c3d](../../reference/vocabulary-4472/word-types/nouns.md#added-13bfbcf17c3d)

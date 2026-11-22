@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: fakse](https://ordbokene.no/bm/13620)
-- [Reference vocabulary record word-0084](../../reference/vocabulary-4472/word-types/verbs.md#word-0084)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 117691 / tips](https://ordbokene.no/bm/117691)
-- [Reference vocabulary word-1620](../../reference/vocabulary-4472/word-types/nouns.md#word-1620)

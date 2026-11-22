@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-0a81e55ca7e1](../../reference/vocabulary-4472/word-types/adjectives.md#added-0a81e55ca7e1)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/111224>)
 
 | Komparativ | mer deprimerende | Filmen var mer deprimerende enn jeg ventet. | The film was more depressing than I expected. |

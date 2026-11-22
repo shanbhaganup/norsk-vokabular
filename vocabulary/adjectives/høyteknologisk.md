@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: høyteknologisk](https://ordbokene.no/bm/117818)
-- [Reference snapshot: word-0144](../../reference/vocabulary-4472/word-types/adjectives.md#word-0144)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forhøre](https://ordbokene.no/bm/16362)
-- [Reference record word-0104](../../reference/vocabulary-4472/word-types/verbs.md#word-0104)

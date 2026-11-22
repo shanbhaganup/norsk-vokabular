@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: vare](https://ordbokene.no/bm/66637)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-b5a7580f7647)

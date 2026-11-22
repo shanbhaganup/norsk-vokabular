@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bosette](https://ordbokene.no/bm/7126)
-- [Reference record added-7086d6ade7af](../../reference/vocabulary-4472/word-types/verbs.md#added-7086d6ade7af)

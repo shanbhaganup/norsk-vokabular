@@ -51,4 +51,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, kvitre (33300)](https://ordbokene.no/bm/33300)
-- [Reference record word-0211](../../reference/vocabulary-4472/word-types/verbs.md#word-0211)

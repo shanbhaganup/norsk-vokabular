@@ -57,9 +57,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms verified; compound tenses and passive examples are productive constructions. All example sentences are original teaching sentences.
 
-**Notes:** This entry represents the ‘move something’ and ‘change residence’ senses in [reference record word-0095](../../reference/vocabulary-4472/word-types/verbs.md#word-0095), checked against Bokmålsordboka 15627. Both past/participle alternatives and the listed definite/plural variants are included. Some `-ede`/`-ete` adjectival participles can sound formal or less usual; the shorter `flytta` is natural in the examples. The dictionary also records reflexive `flytte seg` (‘move oneself’), not treated here as a passive or inflected form. English glosses are reviewed interpretations, not dictionary-verified translations.
+**Notes:** This entry represents the ‘move something’ and ‘change residence’ senses, checked against Bokmålsordboka 15627. Both past/participle alternatives and the listed definite/plural variants are included. Some `-ede`/`-ete` adjectival participles can sound formal or less usual; the shorter `flytta` is natural in the examples. The dictionary also records reflexive `flytte seg` (‘move oneself’), not treated here as a passive or inflected form. English glosses are reviewed interpretations, not dictionary-verified translations.
 
 **Sources:**
 
 - [Bokmålsordboka: flytte (15627)](https://ordbokene.no/bm/15627)
-- [Reference snapshot record word-0095](../../reference/vocabulary-4472/word-types/verbs.md#word-0095)

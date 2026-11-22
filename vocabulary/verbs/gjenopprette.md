@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: gjenopprette](https://ordbokene.no/bm/19887)
-- [Reference record added-e70b563e7206](../../reference/vocabulary-4472/word-types/verbs.md#added-e70b563e7206)

@@ -26,4 +26,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 43498](https://ordbokene.no/bm/43498)
-- [Reference snapshot · ovenfra](../../reference/vocabulary-4472/word-types/other-words.md#word-0018)

@@ -46,4 +46,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokm?lsordboka 4966](https://ordbokene.no/bm/4966)
-- [Reference record](../../reference/vocabulary-4472/word-types/verbs.md#word-0021)

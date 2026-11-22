@@ -42,4 +42,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bestå](https://ordbokene.no/bm/5578)
-- [Reference record added-7ebcfc0f5fef](../../reference/vocabulary-4472/word-types/verbs.md#added-7ebcfc0f5fef)

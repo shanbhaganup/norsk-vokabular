@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0370](../../reference/vocabulary-4472/word-types/adjectives.md#word-0370).
 - [Bokmålsordboka: tåpelig (63532)](https://ordbokene.no/bm/63532).

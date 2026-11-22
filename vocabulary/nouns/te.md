@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: te](https://ordbokene.no/bm/60010)
-- [Reference vocabulary record 1578](../../reference/vocabulary-4472/word-types/nouns.md#word-1578)

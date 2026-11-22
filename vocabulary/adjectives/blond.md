@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-6ea863849311](../../reference/vocabulary-4472/word-types/adjectives.md#added-6ea863849311)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/6578>)
 
 | Komparativ | blondere | Etter sommeren så håret blondere ut. | After the summer, the hair looked blonder. |

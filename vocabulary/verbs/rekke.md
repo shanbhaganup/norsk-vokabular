@@ -50,4 +50,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rekke 3 (47952)](https://ordbokene.no/bm/47952) · [rekke 4 (47953)](https://ordbokene.no/bm/47953) · [rekke 5 (47954)](https://ordbokene.no/bm/47954)
-- [Reference record word-0297](../../reference/vocabulary-4472/word-types/verbs.md#word-0297)

@@ -28,4 +28,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: kne](https://ordbokene.no/bm/30455)
-- [Reference record word-0746](../../reference/vocabulary-4472/word-types/nouns.md#word-0746)

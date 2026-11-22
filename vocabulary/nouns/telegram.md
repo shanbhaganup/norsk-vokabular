@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: telegram](https://ordbokene.no/bm/60177)
-- [Reference vocabulary record 1591](../../reference/vocabulary-4472/word-types/nouns.md#word-1591)

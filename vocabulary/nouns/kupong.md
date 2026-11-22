@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kupong](https://ordbokene.no/bm/kupong)
-- [Reference snapshot word-0818](../../reference/vocabulary-4472/word-types/nouns.md#word-0818)

@@ -32,5 +32,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, blå (6678)](https://ordbokene.no/bm/6678)
-- [Reference snapshot, word-0026](../../reference/vocabulary-4472/word-types/adjectives.md#word-0026)
-

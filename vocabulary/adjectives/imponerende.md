@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: imponerende](https://ordbokene.no/bm/imponerende)
-- [Reference snapshot: word-0147](../../reference/vocabulary-4472/word-types/adjectives.md#word-0147)

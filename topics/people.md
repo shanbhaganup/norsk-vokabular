@@ -5,7 +5,6 @@
 | [cowboy](../vocabulary/nouns/cowboy-figurative.md) | noun | cowboy (reckless or rule-breaking person) |
 | [dame](../vocabulary/nouns/dame.md) | noun | lady; woman |
 | [dansk](../vocabulary/nouns/dansk-person.md) | noun | Dane |
-| [grann](../vocabulary/nouns/granne.md) | noun | a tiny amount; a bit |
 | [grann](../vocabulary/nouns/grann.md) | noun | a tiny amount; a bit |
 | [hai](../vocabulary/nouns/hai.md) | noun | shark; figuratively, a greedy or ruthless person |
 | [hamburger](../vocabulary/nouns/hamburger-person.md) | noun | person from Hamburg |

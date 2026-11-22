@@ -74,4 +74,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, rane (47410)](https://ordbokene.no/bm/47410)
-- [Reference record word-0290](../../reference/vocabulary-4472/word-types/verbs.md#word-0290)

@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: foreslå (16176)](https://ordbokene.no/bm/16176)
-- [Reference snapshot record word-0099](../../reference/vocabulary-4472/word-types/verbs.md#word-0099)

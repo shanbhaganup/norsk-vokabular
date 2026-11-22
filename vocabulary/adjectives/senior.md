@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 - [Related working entry](../nouns/senior.md)
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/senior>)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-a095a5b862b6)

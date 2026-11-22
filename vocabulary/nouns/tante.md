@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tante](https://ordbokene.no/bm/59887)
-- [Reference vocabulary record 1573](../../reference/vocabulary-4472/word-types/nouns.md#word-1573)

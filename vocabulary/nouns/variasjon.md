@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-e5b4d9657a19](../../reference/vocabulary-4472/word-types/nouns.md#added-e5b4d9657a19)
 
 - [Bokmålsordboka — variasjon](https://ordbokene.no/bm/66688)

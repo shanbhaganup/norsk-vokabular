@@ -33,4 +33,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: burde](https://ordbokene.no/bm/8158)
-- [Reference record added-a7756ad93a46](../../reference/vocabulary-4472/word-types/verbs.md#added-a7756ad93a46)

@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-f787c605e0c3](../../reference/vocabulary-4472/word-types/adjectives.md#added-f787c605e0c3)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm%2Cnn/bes%C3%B8kande%7Cbes%C3%B8kende>)
 
 | Komparativ | — | — | Present-participle adjective is not ordinarily graded. |

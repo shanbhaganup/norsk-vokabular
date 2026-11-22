@@ -50,4 +50,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: fastslå](https://ordbokene.no/bm/14022)
-- [Reference record added-55f510477373](../../reference/vocabulary-4472/word-types/verbs.md#added-55f510477373)

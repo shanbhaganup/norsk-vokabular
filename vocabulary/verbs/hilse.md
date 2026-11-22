@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, hilse (23567)](https://ordbokene.no/bm/23567)
-- [Reference snapshot, hilse](../../reference/vocabulary-4472/word-types/verbs.md#word-0156)

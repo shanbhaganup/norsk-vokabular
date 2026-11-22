@@ -28,6 +28,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record word-0791](../../reference/vocabulary-4472/word-types/nouns.md#word-0791)
 - [Bokmålsordboka: kraft (1)](https://ordbokene.no/bm/31865)
 - [Bokmålsordboka: kraft (2), broth](https://ordbokene.no/bm/113560)

@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, meddele (37507)](https://ordbokene.no/bm/37507)
-- [Reference record word-0239](../../reference/vocabulary-4472/word-types/verbs.md#word-0239)

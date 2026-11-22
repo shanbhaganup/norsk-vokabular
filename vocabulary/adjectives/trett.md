@@ -37,6 +37,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0356](../../reference/vocabulary-4472/word-types/adjectives.md#word-0356).
-- Reference record [word-0362](../../reference/vocabulary-4472/word-types/adjectives.md#word-0362).
 - [Bokmålsordboka: trøtt, trett (62171)](https://ordbokene.no/bm/62171).

@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, allergisk (871)](https://ordbokene.no/bm/871)
-- [Reference snapshot, record 5](../../reference/vocabulary-4472/word-types/adjectives.md#word-0005)

@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka støtte (verb)](https://ordbokene.no/bm/58083)
-- [Reference verb record added-87fbe449f45d](../../reference/vocabulary-4472/word-types/verbs.md#added-87fbe449f45d)

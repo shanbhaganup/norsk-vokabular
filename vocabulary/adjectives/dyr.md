@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary agreement and comparison forms checked against the reference paradigm; original examples authored for this entry.
 
-**Notes:** Distinct from the noun dyr “animal”. Reference entry [added-d4b28843110d](../../reference/vocabulary-4472/word-types/adjectives.md#added-d4b28843110d).
+**Notes:** Distinct from the noun dyr “animal”.
 
 **Sources:**
 
 - [Bokmålsordboka 11376](https://ordbokene.no/bm/11376)
-- [Reference vocabulary](../../reference/vocabulary-4472/word-types/adjectives.md#added-d4b28843110d)

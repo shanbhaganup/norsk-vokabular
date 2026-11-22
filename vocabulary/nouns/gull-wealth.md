@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gull](https://ordbokene.no/bm/21513)
-- [Reference record word-0530](../../reference/vocabulary-4472/word-types/nouns.md#word-0530)

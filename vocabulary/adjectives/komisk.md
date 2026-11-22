@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: komisk](https://ordbokene.no/bm/30936)
-- [Reference vocabulary 0174](../../reference/vocabulary-4472/word-types/adjectives.md#word-0174)

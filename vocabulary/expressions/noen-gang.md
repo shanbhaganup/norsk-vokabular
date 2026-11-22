@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 123933](https://ordbokene.no/bm/123933)
-- [Reference snapshot · noen gang](../../reference/vocabulary-4472/word-types/other-words.md#word-0014)

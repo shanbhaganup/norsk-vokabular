@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 64575](https://ordbokene.no/bm/64575)
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/nouns.md#added-7474c8bf3bab)

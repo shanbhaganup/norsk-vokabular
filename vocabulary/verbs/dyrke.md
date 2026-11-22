@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dyrke](https://ordbokene.no/nob/bm/dyrke)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0074)

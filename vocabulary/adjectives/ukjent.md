@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0377](../../reference/vocabulary-4472/word-types/adjectives.md#word-0377).
 - [Bokmålsordboka: ukjent (64033)](https://ordbokene.no/bm/64033).

@@ -47,4 +47,3 @@ checked_on: 2026-06-08
 
 - [Bokmålsordboka — avsky](https://ordbokene.no/bm/3812)
 - [Bokmålsordboka — avsky, noun](https://ordbokene.no/bm/3811)
-- [Reference snapshot — avsky](../../reference/vocabulary-4472/word-types/verbs.md#word-0014)

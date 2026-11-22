@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record generator](../../reference/vocabulary-4472/word-types/nouns.md#word-0481)
 - [Bokm?lsordboka 19451](https://ordbokene.no/bm/19451)

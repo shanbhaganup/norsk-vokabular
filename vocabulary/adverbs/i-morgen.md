@@ -25,4 +25,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/124257)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adverbs.md#added-3c97e6b245a8)

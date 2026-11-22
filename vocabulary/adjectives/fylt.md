@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, fylt](https://ordbokene.no/bm/18515)
-- [Reference record added-d44144c6bf29](../../reference/vocabulary-4472/word-types/adjectives.md#added-d44144c6bf29)

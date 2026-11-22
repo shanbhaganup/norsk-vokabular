@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: assistere](https://ordbokene.no/bm/2952)
-- [Reference record added-1152ddc9130b](../../reference/vocabulary-4472/word-types/verbs.md#added-1152ddc9130b)

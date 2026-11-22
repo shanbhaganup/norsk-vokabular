@@ -29,5 +29,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference adjective record word-0038](../../reference/vocabulary-4472/word-types/adjectives.md#word-0038)
 - [Bokmålsordboka 9706](https://ordbokene.no/bm/9706)

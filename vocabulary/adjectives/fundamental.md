@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, fundamental](https://ordbokene.no/bm/18392)
-- [Reference record added-d64926b153ef](../../reference/vocabulary-4472/word-types/adjectives.md#added-d64926b153ef)

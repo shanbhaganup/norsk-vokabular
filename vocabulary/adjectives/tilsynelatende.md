@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related adverb entry](../adverbs/tilsynelatende.md)
 
 - [Bokmålsordboka: tilsynelatende](https://ordbokene.no/bm/tilsynelatende)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-5387fcf6bfc1)

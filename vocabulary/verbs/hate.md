@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, hate (22518)](https://ordbokene.no/bm/22518)
-- [Reference snapshot, hate](../../reference/vocabulary-4472/word-types/verbs.md#word-0150)

@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-ee784c3caee3](../../reference/vocabulary-4472/word-types/adjectives.md#added-ee784c3caee3)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/10753>)
 
 | Komparativ | mer dramatisk | Den nye scenen er mer dramatisk enn den første. | The new scene is more dramatic than the first. |

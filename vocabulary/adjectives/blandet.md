@@ -33,7 +33,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-bf2737f8a649](../../reference/vocabulary-4472/word-types/adjectives.md#added-bf2737f8a649)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/109790>)
 
 | Komparativ | — | — | The meaning ‘mixed’ is not ordinarily graded. |

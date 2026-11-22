@@ -63,4 +63,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forhindre](https://ordbokene.no/bm/16336)
-- [Reference record added-6501fc2afb5d](../../reference/vocabulary-4472/word-types/verbs.md#added-6501fc2afb5d)

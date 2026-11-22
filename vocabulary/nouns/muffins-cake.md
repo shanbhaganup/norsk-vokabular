@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, Bokmålsordboka 100268](https://ordbokene.no/bm/100268)
-- [Reference record word-1012](../../reference/vocabulary-4472/word-types/nouns.md#word-1012)

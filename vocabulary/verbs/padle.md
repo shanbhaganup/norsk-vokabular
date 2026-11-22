@@ -60,4 +60,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, padle (43866)](https://ordbokene.no/bm/43866)
-- [Reference record word-0272](../../reference/vocabulary-4472/word-types/verbs.md#word-0272)

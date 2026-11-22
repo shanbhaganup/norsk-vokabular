@@ -26,5 +26,3 @@ checked_on: 2026-11-22
 **Notes:** In the source-listed sense, *tusenvis* occurs in the fixed quantity construction *tusenvis av* (“thousands of”); ordinary article and noun number/definiteness forms are not established by the source. The construction row records usage, not an inflection.
 
 **Sources:**
-
-- [Reference snapshot: word-1666](../../reference/vocabulary-4472/word-types/nouns.md#word-1666)

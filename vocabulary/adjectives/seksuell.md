@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0290](../../reference/vocabulary-4472/word-types/adjectives.md#word-0290).
 - [Bokmålsordboka: seksuell](https://ordbokene.no/bm/seksuell).

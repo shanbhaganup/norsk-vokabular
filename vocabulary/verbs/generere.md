@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: generere](https://ordbokene.no/bm/19455)
-- [Reference record added-896746d3c236](../../reference/vocabulary-4472/word-types/verbs.md#added-896746d3c236)

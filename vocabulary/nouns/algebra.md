@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 - [Bokmålsordboka 777](https://ordbokene.no/bm/777)
 - [NAOB, algebra](https://naob.no/ordbok/algebra)
 - [DinOrdbok, algebra paradigm](https://www.dinordbok.no/definisjoner/norsk/?q=algebra)
-- [Reference noun record word-0015](../../reference/vocabulary-4472/word-types/nouns.md#word-0015)

@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, mark 4 / makk, entry 37097](https://ordbokene.no/bm/37097)
-- [Reference record word-0939](../../reference/vocabulary-4472/word-types/nouns.md#word-0939)

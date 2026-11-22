@@ -63,4 +63,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, hamre (22164)](https://ordbokene.no/bm/22164)
-- [Reference snapshot, hamre](../../reference/vocabulary-4472/word-types/verbs.md#word-0148)

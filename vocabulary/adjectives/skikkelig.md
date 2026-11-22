@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: skikkelig](https://ordbokene.no/bm/skikkelig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-2784a75f5879)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dekorere](https://ordbokene.no/bm/9589)
-- [Reference record added-9a92143bc0b2](../../reference/vocabulary-4472/word-types/verbs.md#added-9a92143bc0b2)

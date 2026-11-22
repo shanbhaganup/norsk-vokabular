@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: børste](https://ordbokene.no/bm/8540)
-- [Reference record added-6648f98cea71](../../reference/vocabulary-4472/word-types/verbs.md#added-6648f98cea71)

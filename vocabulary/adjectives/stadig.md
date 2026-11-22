@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: stadig](https://ordbokene.no/bm/stadig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-dcb595c489f0)

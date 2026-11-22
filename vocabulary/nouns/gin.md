@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record gin](../../reference/vocabulary-4472/word-types/nouns.md#word-0487)
 - [Bokm?lsordboka 19644](https://ordbokene.no/bm/19644)

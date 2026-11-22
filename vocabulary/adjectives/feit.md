@@ -31,4 +31,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 14484](https://ordbokene.no/bm/14484)
-- [Reference record feit](../../reference/vocabulary-4472/word-types/adjectives.md#word-0074)

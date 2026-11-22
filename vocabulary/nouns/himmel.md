@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: himmel](https://ordbokene.no/bm/himmel)
-- [Reference vocabulary word-0573](../../reference/vocabulary-4472/word-types/nouns.md#word-0573)

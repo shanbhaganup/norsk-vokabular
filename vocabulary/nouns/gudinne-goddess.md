@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gudinne](https://ordbokene.no/bm/21456)
-- [Reference record word-0529](../../reference/vocabulary-4472/word-types/nouns.md#word-0529)

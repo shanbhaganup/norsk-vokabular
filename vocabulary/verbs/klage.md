@@ -64,4 +64,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — klage](https://ordbokene.no/bm/29867)
-- [Reference snapshot — klage](../../reference/vocabulary-4472/word-types/verbs.md#added-ee61a50d0b93)

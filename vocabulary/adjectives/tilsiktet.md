@@ -34,4 +34,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/tilsikte.md)
 
 - [Bokmålsordboka: tilsiktet](https://ordbokene.no/bm/tilsiktet)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-b28fb2393daf)

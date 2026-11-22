@@ -28,5 +28,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary record word-1242](../../reference/vocabulary-4472/word-types/nouns.md#word-1242)
 - [Bokmålsordboka 47946](https://ordbokene.no/bm/47946)

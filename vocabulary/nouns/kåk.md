@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kåk](https://ordbokene.no/bm/33402)
-- [Reference snapshot word-0835](../../reference/vocabulary-4472/word-types/nouns.md#word-0835)

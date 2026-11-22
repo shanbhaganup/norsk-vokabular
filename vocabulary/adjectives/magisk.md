@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0210](../../reference/vocabulary-4472/word-types/adjectives.md#word-0210).
 - [Bokmålsordboka: magisk (36540)](https://ordbokene.no/bm/36540).

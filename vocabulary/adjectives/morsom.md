@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0223](../../reference/vocabulary-4472/word-types/adjectives.md#word-0223).
 - [Bokmålsordboka: morsom (39154)](https://ordbokene.no/bm/39154).

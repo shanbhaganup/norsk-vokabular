@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka · lue](https://ordbokene.no/bm/35897)
-- [Reference snapshot · lue](../../reference/vocabulary-4472/word-types/nouns.md#word-0885)

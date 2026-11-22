@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, ku](https://ordbokene.no/nob/bm/ku)
-- [Reference vocabulary record word-0809](../../reference/vocabulary-4472/word-types/nouns.md#word-0809)

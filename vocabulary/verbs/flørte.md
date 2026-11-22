@@ -48,9 +48,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary forms verified; compound tenses are productive constructions. Passive and adjectival perfect-participle uses need usage verification for this intransitive sense. All Norwegian teaching sentences are original.
 
-**Notes:** The ‘make flirtatious advances’ sense in [reference record word-0096](../../reference/vocabulary-4472/word-types/verbs.md#word-0096) is verified against Bokmålsordboka 15659. The dictionary also records figurative `flørte med velgerne` (‘curry favor with voters’); this sense is not expanded here. `Med` introduces a prepositional complement, not a direct object. The reference snapshot lists passive and adjectival participle forms, but the dictionary gives no construction examples to establish their natural use in this intransitive sense; these rows remain Unverified rather than being assumed impossible. Both accepted past/participle forms are shown. English gloss reviewed separately from the headword verification.
+**Notes:** The ‘make flirtatious advances’ sense is verified against Bokmålsordboka 15659. The dictionary also records figurative `flørte med velgerne` (‘curry favor with voters’); this sense is not expanded here. `Med` introduces a prepositional complement, not a direct object. The reference snapshot lists passive and adjectival participle forms, but the dictionary gives no construction examples to establish their natural use in this intransitive sense; these rows remain Unverified rather than being assumed impossible. Both accepted past/participle forms are shown. English gloss reviewed separately from the headword verification.
 
 **Sources:**
 
 - [Bokmålsordboka: flørte (15659)](https://ordbokene.no/bm/15659)
-- [Reference snapshot record word-0096](../../reference/vocabulary-4472/word-types/verbs.md#word-0096)

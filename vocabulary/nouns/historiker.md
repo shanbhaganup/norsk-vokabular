@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: historiker](https://ordbokene.no/bm/historiker)
-- [Reference vocabulary word-0576](../../reference/vocabulary-4472/word-types/nouns.md#word-0576)

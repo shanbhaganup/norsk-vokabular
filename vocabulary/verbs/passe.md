@@ -53,4 +53,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, passe 3 (44355)](https://ordbokene.no/bm/44355) · [passe 4 (44356)](https://ordbokene.no/bm/44356) · [passe 5 (44357)](https://ordbokene.no/bm/44357)
-- [Reference record word-0273](../../reference/vocabulary-4472/word-types/verbs.md#word-0273)

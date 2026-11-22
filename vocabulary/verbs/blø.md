@@ -41,9 +41,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary headword and listed forms checked; productive compound tenses and original teaching examples supplied.
 
-**Notes:** The dictionary lists past-participle agreement forms, but they are not naturally used adjectivally with the selected sense; the adjectival rows are therefore marked inapplicable. **Notes:** Intransitive in the senses “lose blood” and “ooze”; passive constructions do not apply. “Bløende” is a dictionary-listed present participle. The listed participle agreement forms are used adjectivally and are distinct from compound-tense forms. Each accepted alternative is illustrated separately. Examples are original teaching sentences. Source reference anchor: [word-0048](../../reference/vocabulary-4472/word-types/verbs.md#word-0048).
+**Notes:** The dictionary lists past-participle agreement forms, but they are not naturally used adjectivally with the selected sense; the adjectival rows are therefore marked inapplicable. **Notes:** Intransitive in the senses “lose blood” and “ooze”; passive constructions do not apply. “Bløende” is a dictionary-listed present participle. The listed participle agreement forms are used adjectivally and are distinct from compound-tense forms. Each accepted alternative is illustrated separately. Examples are original teaching sentences.
 
 **Sources:**
 
 - [Bokmålsordboka 6650](https://ordbokene.no/bm/6650)
-- [Reference vocabulary record word-0048](../../reference/vocabulary-4472/word-types/verbs.md#word-0048)

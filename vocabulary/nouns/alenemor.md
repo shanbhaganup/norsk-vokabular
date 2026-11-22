@@ -32,4 +32,3 @@ checked_on: 2026-11-21
 - [Bokmålsordboka 39034, mor](https://ordbokene.no/bm/39034)
 - [NAOB, alenemor](https://naob.no/ordbok/alenemor)
 - [University of Agder thesis, attestation of alenemødrer](https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2435222/Jones%2C%20Maria-Teresa.pdf?sequence=1)
-- [Reference noun record word-0014](../../reference/vocabulary-4472/word-types/nouns.md#word-0014)

@@ -49,4 +49,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, løpe (34484)](https://ordbokene.no/bm/34484)
-- [Reference record word-0235](../../reference/vocabulary-4472/word-types/verbs.md#word-0235)

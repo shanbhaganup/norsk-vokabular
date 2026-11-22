@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, erfaren](https://ordbokene.no/bm/12980)
-- [Reference record added-18cb1017d34c](../../reference/vocabulary-4472/word-types/adjectives.md#added-18cb1017d34c)

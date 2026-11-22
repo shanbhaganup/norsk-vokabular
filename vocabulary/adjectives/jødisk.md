@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary agreement forms checked against the reference paradigm; original examples authored for this entry.
 
-**Notes:** No synthetic degree forms apply to this non-gradable category adjective; the dictionary lists no comparison. Reference entry: [word-0162](../../reference/vocabulary-4472/word-types/adjectives.md#word-0162).
+**Notes:** No synthetic degree forms apply to this non-gradable category adjective; the dictionary lists no comparison.
 
 **Sources:**
 
 - [Bokmålsordboka 28101](https://ordbokene.no/bm/28101)
-- [Reference vocabulary word-0162](../../reference/vocabulary-4472/word-types/adjectives.md#word-0162)

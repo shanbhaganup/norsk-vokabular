@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka øke](https://ordbokene.no/bm/42664)
-- [Reference record added-184263b2e6ce](../../reference/vocabulary-4472/word-types/verbs.md#added-184263b2e6ce)

@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hevn](https://ordbokene.no/bm/hevn)
-- [Reference vocabulary word-0571](../../reference/vocabulary-4472/word-types/nouns.md#word-0571)

@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 48878](https://ordbokene.no/bm/48878)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/nouns.md#added-142dc01dad20)
 - [Related adjective entry](../adjectives/rosa.md)

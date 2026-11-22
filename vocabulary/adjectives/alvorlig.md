@@ -33,4 +33,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka, alvorlig (1440)](https://ordbokene.no/bm/1440)
-- [Reference snapshot, record 6](../../reference/vocabulary-4472/word-types/adjectives.md#word-0006)

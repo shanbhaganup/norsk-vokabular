@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tett](https://ordbokene.no/bm/tett)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-4ca78574b9d8)

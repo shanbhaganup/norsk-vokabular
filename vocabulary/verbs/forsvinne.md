@@ -42,4 +42,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forsvinne](https://ordbokene.no/bm/17030)
-- [Reference record word-0113](../../reference/vocabulary-4472/word-types/verbs.md#word-0113)

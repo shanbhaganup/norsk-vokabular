@@ -35,4 +35,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, fikset](https://ordbokene.no/bm/14574)
-- [Reference record added-b2c0c2d47829](../../reference/vocabulary-4472/word-types/adjectives.md#added-b2c0c2d47829)

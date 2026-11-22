@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: wc](https://ordbokene.no/bm/69446)
-- [Reference vocabulary word-1774](../../reference/vocabulary-4472/word-types/nouns.md#word-1774)

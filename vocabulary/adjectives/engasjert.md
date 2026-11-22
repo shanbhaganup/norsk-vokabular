@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, engasjert](https://ordbokene.no/bm/12713)
-- [Reference record added-33eb96667807](../../reference/vocabulary-4472/word-types/adjectives.md#added-33eb96667807)

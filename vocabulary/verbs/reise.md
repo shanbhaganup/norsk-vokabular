@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, reise 3 (47912)](https://ordbokene.no/bm/47912) · [reise 2, raise/set upright (47911)](https://ordbokene.no/bm/47911)
-- [Reference record word-0296](../../reference/vocabulary-4472/word-types/verbs.md#word-0296)

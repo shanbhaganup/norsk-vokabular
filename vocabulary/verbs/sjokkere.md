@@ -44,7 +44,5 @@ checked_on: 2026-11-22
 **Notes:** Regular -ere verb; the past participle is used adjectivally in the linked source record. The examples focus on a common sense and are original teaching examples. Some dictionary-listed secondary senses are not illustrated in every tense.
 
 **Sources:**
-- [Related adjective source](../../reference/vocabulary-4472/word-types/adjectives.md#added-153f4b36ed98)
 
 - [Bokm?lsordboka](https://ordbokene.no/bm/sjokkere)
-- [Related source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-153f4b36ed98)

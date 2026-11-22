@@ -58,5 +58,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 58119](https://ordbokene.no/bm/58119)
-- [Related adjective source record: støyende](../../reference/vocabulary-4472/word-types/adjectives.md#added-cbe1ed5b4f30)
 - [Related adjective entry](../adjectives/støyende.md)

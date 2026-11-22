@@ -53,4 +53,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, herske (23404)](https://ordbokene.no/bm/23404)
-- [Reference snapshot, herske](../../reference/vocabulary-4472/word-types/verbs.md#word-0154)

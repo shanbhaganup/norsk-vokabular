@@ -142,10 +142,9 @@
 | [irritert](../vocabulary/adjectives/irritert.md) | adjective | annoyed, irritated |
 | [ivrig](../vocabulary/adjectives/ivrig.md) | adjective | keen, eager |
 | [kjedelig](../vocabulary/adjectives/kjedelig.md) | adjective | boring; tedious; annoying, regrettable |
-| [ønske](../vocabulary/verbs/undefined.md) | verb | to wish; to want; to wish someone something |
+| [ønske](../vocabulary/verbs/ønske.md) | verb | to wish; to want; to wish someone something |
 | [munter](../vocabulary/adjectives/munter.md) | adjective | cheerful, lively |
 | [ødelegge](../vocabulary/verbs/ødelegge.md) | verb | to damage, destroy; to ruin |
-| [ønske](../vocabulary/verbs/ønske.md) | verb | to wish; to want; to wish someone something |
 | [elske](../vocabulary/verbs/elske.md) | verb | to love |
 | [frykte](../vocabulary/verbs/frykte.md) | verb | to fear |
 | [utålmodig](../vocabulary/adjectives/utålmodig.md) | adjective | impatient |

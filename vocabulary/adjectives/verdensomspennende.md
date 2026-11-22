@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 67763](https://ordbokene.no/bm/67763)
-- [Reference adjective added-34f3ce33bdf2](../../reference/vocabulary-4472/word-types/adjectives.md#added-34f3ce33bdf2)

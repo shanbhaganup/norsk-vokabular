@@ -33,6 +33,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot: word-1661](../../reference/vocabulary-4472/word-types/nouns.md#word-1661)
 - [Bokmålsordboka: masculine *tull*](https://ordbokene.no/bm/62800)
 - [Bokmålsordboka: neuter *tull*](https://ordbokene.no/bm/62802)

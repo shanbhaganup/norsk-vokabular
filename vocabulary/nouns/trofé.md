@@ -36,4 +36,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/62348>)
-- [Reference record word-1651](../../reference/vocabulary-4472/word-types/nouns.md#word-1651)

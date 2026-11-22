@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tenårig](https://ordbokene.no/bm/tenårig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-fe4454c9ad9c)

@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 37729](https://ordbokene.no/bm/37729)
-- [Reference vocabulary word-0954](../../reference/vocabulary-4472/word-types/nouns.md#word-0954)

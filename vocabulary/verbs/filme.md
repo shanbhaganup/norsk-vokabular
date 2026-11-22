@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: filme](https://ordbokene.no/bm/14644)
-- [Reference snapshot: word-0089](../../reference/vocabulary-4472/word-types/verbs.md#word-0089)

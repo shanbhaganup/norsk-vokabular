@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: ørering](https://ordbokene.no/bm/42785)
-- [Reference vocabulary word-1793](../../reference/vocabulary-4472/word-types/nouns.md#word-1793)

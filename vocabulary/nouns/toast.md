@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 61299 / toast](https://ordbokene.no/bm/61299)
-- [Reference vocabulary word-1627](../../reference/vocabulary-4472/word-types/nouns.md#word-1627)

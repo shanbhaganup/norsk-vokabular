@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-4a8eed0e4dd8)
 - [Bokmålsordboka: redusere](https://ordbokene.no/bm/redusere)

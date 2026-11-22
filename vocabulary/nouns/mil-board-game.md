@@ -24,4 +24,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, mil 2, entry 38353](https://ordbokene.no/bm/38353)
-- [Reference record word-0975](../../reference/vocabulary-4472/word-types/nouns.md#word-0975)

@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka]( https://ordbokene.no/bm/hage )
-- [Reference record word-0542](../../reference/vocabulary-4472/word-types/nouns.md#word-0542)

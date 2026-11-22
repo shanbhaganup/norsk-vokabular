@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: herskapshus](https://ordbokene.no/bm/23403)
-- [Reference record word-0568](../../reference/vocabulary-4472/word-types/nouns.md#word-0568)

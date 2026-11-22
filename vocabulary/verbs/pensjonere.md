@@ -47,5 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/44597)
-- [Related source record](../../reference/vocabulary-4472/word-types/verbs.md#added-476e2b45c639)
-- [Related source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-dedd0a2bf769)

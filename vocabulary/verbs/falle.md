@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: falle (13673)](https://ordbokene.no/bm/13673)
-- [Reference vocabulary record word-0085](../../reference/vocabulary-4472/word-types/verbs.md#word-0085)

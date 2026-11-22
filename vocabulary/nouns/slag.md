@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary word-1420](../../reference/vocabulary-4472/word-types/nouns.md#word-1420)
 - [Bokmålsordboka 54170](https://ordbokene.no/bm/54170)

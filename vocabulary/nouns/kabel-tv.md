@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference vocabulary #word-0678](../../reference/vocabulary-4472/word-types/nouns.md#word-0678)
 - [Bokmålsordboka kabel-TV](https://ordbokene.no/bm/99377)

@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0401](../../reference/vocabulary-4472/word-types/adjectives.md#word-0401).
 - [Bokmålsordboka: velstående (67530)](https://ordbokene.no/bm/67530).

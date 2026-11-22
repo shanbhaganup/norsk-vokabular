@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — koke](https://ordbokene.no/bm/30732)
-- [Reference snapshot — koke](../../reference/vocabulary-4472/word-types/verbs.md#added-17ec2619cc4e)

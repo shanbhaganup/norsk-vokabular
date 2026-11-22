@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: høyhælt](https://ordbokene.no/bm/25290)
-- [Reference snapshot: word-0142](../../reference/vocabulary-4472/word-types/adjectives.md#word-0142)

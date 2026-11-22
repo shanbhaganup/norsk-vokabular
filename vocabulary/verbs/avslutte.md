@@ -62,4 +62,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka — avslutte](https://ordbokene.no/bm/3832)
-- [Reference snapshot — avslutte](../../reference/vocabulary-4472/word-types/verbs.md#word-0015)

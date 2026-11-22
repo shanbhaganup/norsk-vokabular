@@ -47,4 +47,3 @@ checked_on: 2026-06-08
 
 - [Bokmålsordboka — anholde](https://ordbokene.no/bm/1848)
 - [Bokmålsordboka headword search](https://ordbokene.no/bm/anholde)
-- [Reference snapshot — anholde](../../reference/vocabulary-4472/word-types/verbs.md#word-0006)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: drømme](https://ordbokene.no/bm/dr%C3%B8mme)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0072)

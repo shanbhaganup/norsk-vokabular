@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, maile (122277)](https://ordbokene.no/bm/122277) · [headword view](https://ordbokene.no/bm/maile)
-- [Reference record word-0236](../../reference/vocabulary-4472/word-types/verbs.md#word-0236)

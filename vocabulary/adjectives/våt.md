@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0416](../../reference/vocabulary-4472/word-types/adjectives.md#word-0416).
 - [Bokmålsordboka: våt (69402)](https://ordbokene.no/bm/69402).

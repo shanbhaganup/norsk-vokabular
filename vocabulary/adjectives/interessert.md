@@ -30,4 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: interessert](https://ordbokene.no/bm/interessert)
-- [Reference snapshot: word-0154](../../reference/vocabulary-4472/word-types/adjectives.md#word-0154)

@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, engstelig](https://ordbokene.no/bm/12747)
-- [Reference record added-c043c5be0ec0](../../reference/vocabulary-4472/word-types/adjectives.md#added-c043c5be0ec0)

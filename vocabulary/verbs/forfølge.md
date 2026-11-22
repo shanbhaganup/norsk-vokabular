@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forfølge (16252)](https://ordbokene.no/bm/16252)
-- [Reference snapshot record word-0101](../../reference/vocabulary-4472/word-types/verbs.md#word-0101)

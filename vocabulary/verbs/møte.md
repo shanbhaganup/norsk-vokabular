@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka, møte (verb)](https://ordbokene.no/bm/39910)
 - [Bokmålsordboka, møtes](https://ordbokene.no/nob/bm/m%C3%B8tes)
-- [Reference verb record added-29524c8f6e6b](../../reference/vocabulary-4472/word-types/verbs.md#added-29524c8f6e6b)

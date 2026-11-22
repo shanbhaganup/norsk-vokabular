@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, smile (54821)](https://ordbokene.no/bm/54821)
-- [Reference record word-0353](../../reference/vocabulary-4472/word-types/verbs.md#word-0353)

@@ -43,4 +43,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: ankomme](https://ordbokene.no/bm/1914)
-- [Reference record added-854c827b5fac](../../reference/vocabulary-4472/word-types/verbs.md#added-854c827b5fac)

@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dukke](https://ordbokene.no/bm/11123)
-- [Reference record added-f996c8d34026](../../reference/vocabulary-4472/word-types/verbs.md#added-f996c8d34026)

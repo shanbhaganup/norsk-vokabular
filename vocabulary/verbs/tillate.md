@@ -39,9 +39,8 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary headword and principal paradigm forms checked; compound tenses and original example sentences supplied for teaching.
 
-**Notes:** Bokmålsordboka lists preteritum tillot and participle tillatt; present tillater. S-passive tillates and bli-passive are shown. Tillatte is the adjective form in definite/plural contexts, distinct from the invariant participle in compound tenses. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order. Source record: [reference verb anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-3002e37d152e).
+**Notes:** Bokmålsordboka lists preteritum tillot and participle tillatt; present tillater. S-passive tillates and bli-passive are shown. Tillatte is the adjective form in definite/plural contexts, distinct from the invariant participle in compound tenses. The — marker means the construction is genuinely inapplicable to the stated intransitive use. Other forms follow the Bokmålsordboka paradigm; alternatives are each illustrated in the same order.
 
 **Sources:**
 
 - [Bokmålsordboka: tillate](https://ordbokene.no/bm/60834)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-3002e37d152e)

@@ -30,5 +30,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/43203)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-ffdf13763c3b)
 - [Related working entry](../nouns/oransje.md)

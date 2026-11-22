@@ -60,4 +60,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: fly](https://ordbokene.no/bm/15544)
-- [Reference record added-f8e71bf1e8eb](../../reference/vocabulary-4472/word-types/verbs.md#added-f8e71bf1e8eb)

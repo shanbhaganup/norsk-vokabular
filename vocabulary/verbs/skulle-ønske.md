@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-e38bfb770304)
 - [Bokmålsordboka](https://ordbokene.no/nob/bm/%C3%A5%20skulle)

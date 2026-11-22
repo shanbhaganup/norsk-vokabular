@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tiltrekke](https://ordbokene.no/bm/60994)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-2ec763e181a8)

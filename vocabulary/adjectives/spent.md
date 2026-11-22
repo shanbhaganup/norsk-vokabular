@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: spent](https://ordbokene.no/bm/spent)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-0f6683a44cb3)

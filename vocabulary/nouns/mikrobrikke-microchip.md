@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, brikke, entry 7521](https://ordbokene.no/bm/7521)
-- [Reference record word-0971](../../reference/vocabulary-4472/word-types/nouns.md#word-0971)

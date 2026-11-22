@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 
 - [Bokmålsordboka hinsides](https://ordbokene.no/bm/hinsides)
 - [Bokmålsordboka · article 23631](https://ordbokene.no/bm/23631)
-- [Reference snapshot · assigned record](../../reference/vocabulary-4472/word-types/other-words.md#word-0005)

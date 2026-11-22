@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forstå](https://ordbokene.no/bm/16999)
-- [Reference record word-0111](../../reference/vocabulary-4472/word-types/verbs.md#word-0111)

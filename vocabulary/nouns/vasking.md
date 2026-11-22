@@ -28,6 +28,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-22849ba9330d](../../reference/vocabulary-4472/word-types/nouns.md#added-22849ba9330d)
 
 - [Bokmålsordboka — vasking](https://ordbokene.no/bm/134621)

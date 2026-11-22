@@ -45,4 +45,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forråde](https://ordbokene.no/bm/16759)
-- [Reference record word-0108](../../reference/vocabulary-4472/word-types/verbs.md#word-0108)

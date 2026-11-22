@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gjenta (19906)](https://ordbokene.no/bm/19906)
-- [Reference snapshot, gjenta](../../reference/vocabulary-4472/word-types/verbs.md#word-0135)

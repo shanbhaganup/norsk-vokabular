@@ -63,4 +63,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forbedre](https://ordbokene.no/bm/15944)
-- [Reference record added-61dc1eaba3e3](../../reference/vocabulary-4472/word-types/verbs.md#added-61dc1eaba3e3)

@@ -34,5 +34,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0361](../../reference/vocabulary-4472/word-types/adjectives.md#word-0361).
 - [Bokmålsordboka: trådløs, trådlaus (62703)](https://ordbokene.no/bm/62703).

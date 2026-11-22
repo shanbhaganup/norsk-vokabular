@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tapet](https://ordbokene.no/bm/59901)
-- [Reference vocabulary record 1575](../../reference/vocabulary-4472/word-types/nouns.md#word-1575)

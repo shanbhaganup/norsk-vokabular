@@ -102,4 +102,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 21495](https://ordbokene.no/bm/21495)
-- [Reference snapshot, verb anchor added-81a715ee74f4](../../reference/vocabulary-4472/word-types/verbs.md#added-81a715ee74f4)

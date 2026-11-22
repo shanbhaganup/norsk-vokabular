@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 60798 / tilholdssted](https://ordbokene.no/bm/60798)
-- [Reference vocabulary word-1613](../../reference/vocabulary-4472/word-types/nouns.md#word-1613)

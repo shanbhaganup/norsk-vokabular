@@ -28,7 +28,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-fbb34ea471ec](../../reference/vocabulary-4472/word-types/adjectives.md#added-fbb34ea471ec)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/10465>)
 
 | Komparativ | — | — | The meaning ‘double/twofold’ is not ordinarily graded. |

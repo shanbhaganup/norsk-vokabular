@@ -26,7 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference anchor: added-1dfad1cc5e15](../../reference/vocabulary-4472/word-types/nouns.md#added-1dfad1cc5e15)
 
 - [Bokmålsordboka](https://ordbokene.no/bm/mobil)
-- [Reference adjective record](../../reference/vocabulary-4472/word-types/adjectives.md#added-77bf96396d7f)

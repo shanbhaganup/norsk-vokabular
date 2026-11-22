@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kokt](https://ordbokene.no/bm/30732)
-- [Reference vocabulary 0172](../../reference/vocabulary-4472/word-types/adjectives.md#word-0172)

@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: grense](https://ordbokene.no/bm/20861)
-- [Reference vocabulary record word-0513](../../reference/vocabulary-4472/word-types/nouns.md#word-0513)

@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: eksplodere](https://ordbokene.no/bm/12094)
-- [Reference record added-2cdc8ae91299](../../reference/vocabulary-4472/word-types/verbs.md#added-2cdc8ae91299)

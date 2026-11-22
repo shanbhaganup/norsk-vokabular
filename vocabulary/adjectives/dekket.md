@@ -34,7 +34,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-03562f1edfb3](../../reference/vocabulary-4472/word-types/adjectives.md#added-03562f1edfb3)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/9542>)
 
 | Komparativ | — | — | The resulting-state meaning ‘covered’ is not ordinarily graded. |

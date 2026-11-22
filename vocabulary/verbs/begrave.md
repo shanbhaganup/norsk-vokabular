@@ -52,4 +52,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: begrave](https://ordbokene.no/bm/4949)
-- [Reference record added-11c0d97b30aa](../../reference/vocabulary-4472/word-types/verbs.md#added-11c0d97b30aa)

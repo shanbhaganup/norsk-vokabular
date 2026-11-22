@@ -26,7 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary word-1270](../../reference/vocabulary-4472/word-types/nouns.md#word-1270)
 
-- [Reference vocabulary word-1269](../../reference/vocabulary-4472/word-types/nouns.md#word-1269)
 - [Bokmålsordboka 48735](https://ordbokene.no/bm/48735)

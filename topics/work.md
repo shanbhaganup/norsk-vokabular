@@ -20,7 +20,6 @@
 | [bruk](../vocabulary/nouns/bruk-farm.md) | noun | farm; farm holding |
 | [budsjett](../vocabulary/nouns/budsjett.md) | noun | budget |
 | [cowboy](../vocabulary/nouns/cowboy-rancher.md) | noun | cowboy; ranch hand |
-| [direkt?r](../vocabulary/nouns/direkt-r.md) | noun | director |
 | [direktør](../vocabulary/nouns/direktør.md) | noun | director |
 | [effektivt](../vocabulary/adverbs/effektivt-manner.md) | adverb | efficiently, effectively |
 | [firma](../vocabulary/nouns/firma.md) | noun | company; business |
@@ -238,4 +237,4 @@
 | [tilstedeværelse](../vocabulary/nouns/tilstedeværelse.md) | noun | presence |
 | [trykking](../vocabulary/nouns/trykking.md) | noun | printing |
 
-[Working index](../vocabulary/INDEX.md) · [All reference topics](../reference/vocabulary-4472/topics/README.md)
+[Working index](../vocabulary/INDEX.md)

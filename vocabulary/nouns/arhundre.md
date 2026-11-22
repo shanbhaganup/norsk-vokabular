@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-7d1a5a747562](../../reference/vocabulary-4472/word-types/nouns.md#added-7d1a5a747562)
 
 - [Bokmålsordboka: århundre](https://ordbokene.no/bm/1099)

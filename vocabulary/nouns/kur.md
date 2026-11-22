@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kur](https://ordbokene.no/bm/kur)
-- [Reference snapshot word-0819](../../reference/vocabulary-4472/word-types/nouns.md#word-0819)

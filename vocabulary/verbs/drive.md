@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: drive (10922)](https://ordbokene.no/bm/10922)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0071)

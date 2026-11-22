@@ -28,4 +28,3 @@ source_anchor: added-cb756d9c5745
 **Sources:**
 
 - [Bokm?lsordboka: virkelighet](https://ordbokene.no/bm/virkelighet)
-- Reference anchor: [added-cb756d9c5745](../../reference/vocabulary-4472/word-types/nouns.md#added-cb756d9c5745)

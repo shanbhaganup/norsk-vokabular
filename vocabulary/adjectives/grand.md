@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, grand](https://ordbokene.no/bm/20650)
-- [Reference record added-219fd05db6e3](../../reference/vocabulary-4472/word-types/adjectives.md#added-219fd05db6e3)

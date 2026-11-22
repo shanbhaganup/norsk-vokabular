@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tro](https://ordbokene.no/bm/62342)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-6ab665b3657a)

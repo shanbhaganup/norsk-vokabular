@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hær](https://ordbokene.no/bm/25047)
-- [Reference vocabulary record word-0633](../../reference/vocabulary-4472/word-types/nouns.md#word-0633)

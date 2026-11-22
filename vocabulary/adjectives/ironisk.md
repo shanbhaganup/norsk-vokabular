@@ -30,4 +30,3 @@ checked_on: 2026-06-08
 **Sources:**
 
 - [Bokmålsordboka, ironisk (27154)](https://ordbokene.no/bm/27154)
-- [Reference snapshot, record 157](../../reference/vocabulary-4472/word-types/adjectives.md#word-0157)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dø](https://ordbokene.no/nno/search?dict=bm&q=d%C3%B8&scope=eif)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0075)

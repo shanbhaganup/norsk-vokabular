@@ -25,9 +25,8 @@ checked_on: 2026-11-21
 
 **Form status:** Dictionary agreement forms checked against the reference paradigm; original examples authored for this entry.
 
-**Notes:** Intensified adjectives of this kind are not normally given further synthetic comparison; the reference lists none. Reference entry: [word-0167](../../reference/vocabulary-4472/word-types/adjectives.md#word-0167).
+**Notes:** Intensified adjectives of this kind are not normally given further synthetic comparison; the reference lists none.
 
 **Sources:**
 
 - [Bokmålsordboka 119104](https://ordbokene.no/bm/119104)
-- [Reference vocabulary word-0167](../../reference/vocabulary-4472/word-types/adjectives.md#word-0167)

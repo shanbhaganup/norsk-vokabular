@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-2631569e1e36)
 - [Bokmålsordboka: revidere](https://ordbokene.no/bm/revidere)

@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0402](../../reference/vocabulary-4472/word-types/adjectives.md#word-0402).
 - [Bokmålsordboka: vennlig (67622)](https://ordbokene.no/bm/67622).

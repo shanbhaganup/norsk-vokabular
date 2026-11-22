@@ -27,5 +27,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 100538](https://ordbokene.no/bm/100538)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/nouns.md#added-d5d2d6c913f0)
 - [Related adjective entry](../adjectives/total.md)

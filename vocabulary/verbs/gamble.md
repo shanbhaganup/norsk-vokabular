@@ -65,4 +65,3 @@ checked_on: 2026-11-22
 - [Bokmålsordboka, gamble (18959)](https://ordbokene.no/bm/18959)
 - [Stortinget, example of impersonal s-passive with gamble på](https://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-052s/?c=False&m=2)
 - [Google Play policy in Norwegian, example of impersonal s-passive with gamble med](https://support.google.com/googleplay/android-developer/answer/9877037?hl=no)
-- [Reference snapshot, record 128](../../reference/vocabulary-4472/word-types/verbs.md#word-0128)

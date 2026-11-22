@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, forvirrende](https://ordbokene.no/bm/114729)
-- [Reference record added-ab6c526304ff](../../reference/vocabulary-4472/word-types/adjectives.md#added-ab6c526304ff)

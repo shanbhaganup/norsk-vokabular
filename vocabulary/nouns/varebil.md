@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-a65fc96e228a](../../reference/vocabulary-4472/word-types/nouns.md#added-a65fc96e228a)
 
 - [Bokmålsordboka — varebil](https://ordbokene.no/bm/66639)

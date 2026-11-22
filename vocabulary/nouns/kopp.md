@@ -26,5 +26,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, word-0782](../../reference/vocabulary-4472/word-types/nouns.md#word-0782)
 - [Bokmålsordboka 31552, kopp 1](https://ordbokene.no/bm/31552)

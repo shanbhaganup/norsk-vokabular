@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, industriell](https://ordbokene.no/bm/26091)
-- [Reference record added-c75eb288360e](../../reference/vocabulary-4472/word-types/adjectives.md#added-c75eb288360e)

@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary 0434](../../reference/vocabulary-4472/word-types/verbs.md#word-0434)
 - [Bokmålsordboka 66790](https://ordbokene.no/bm/66790)

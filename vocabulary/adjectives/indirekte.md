@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, indirekte](https://ordbokene.no/bm/26023)
-- [Reference record added-dabfaf86ec36](../../reference/vocabulary-4472/word-types/adjectives.md#added-dabfaf86ec36)

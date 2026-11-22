@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record gevær](../../reference/vocabulary-4472/word-types/nouns.md#word-0485)
 - [Bokm?lsordboka 19566](https://ordbokene.no/bm/19566)

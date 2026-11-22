@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: bake](https://ordbokene.no/bm/4091)
-- [Reference record added-e8cfbb3518dd](../../reference/vocabulary-4472/word-types/verbs.md#added-e8cfbb3518dd)

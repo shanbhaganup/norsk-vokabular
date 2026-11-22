@@ -49,4 +49,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forbinde](https://ordbokene.no/bm/15964)
-- [Reference record added-608a701f842b](../../reference/vocabulary-4472/word-types/verbs.md#added-608a701f842b)

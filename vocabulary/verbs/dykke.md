@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: dykke](https://ordbokene.no/bm/11307)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#word-0073)

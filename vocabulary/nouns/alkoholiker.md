@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 - [Bokmålsordboka 817](https://ordbokene.no/bm/817)
 - [NAOB, alkoholiker](https://naob.no/ordbok/alkoholiker)
 - [Norwegian public report NOU 1995: 24, attestation of alkoholikerne](https://www.regjeringen.no/no/dokumenter/nou-1995-24/id140425/?ch=4)
-- [Reference noun record word-0018](../../reference/vocabulary-4472/word-types/nouns.md#word-0018)

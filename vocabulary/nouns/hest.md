@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: hest](https://ordbokene.no/bm/23430)
-- [Reference record word-0569](../../reference/vocabulary-4472/word-types/nouns.md#word-0569)

@@ -39,7 +39,7 @@ checked_on: 2026-11-22
 
 **Form status:** Inflectional paradigm verified; passive usage in this sense unverified.
 
-**Notes:** Promoted from [reference record word-0122](../../reference/vocabulary-4472/word-types/verbs.md#word-0122). Bokmålsordboka has two related uses: serve temporarily in a role, and work/operate satisfactorily. The ordinary sense is intransitive, so a bli-passive is inapplicable. The dictionary lists `fungert` and `fungerte` as participial agreement forms, but natural attributive examples for these forms have not been verified. The separately listed present participle `fungerende` is natural in attributive use. English glosses were reviewed separately from the Norwegian headword.
+**Notes:** Bokmålsordboka has two related uses: serve temporarily in a role, and work/operate satisfactorily. The ordinary sense is intransitive, so a bli-passive is inapplicable. The dictionary lists `fungert` and `fungerte` as participial agreement forms, but natural attributive examples for these forms have not been verified. The separately listed present participle `fungerende` is natural in attributive use. English glosses were reviewed separately from the Norwegian headword.
 
 **Sources:**
 

@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0297](../../reference/vocabulary-4472/word-types/adjectives.md#word-0297).
 - [Bokmålsordboka: sint (51673)](https://ordbokene.no/bm/51673).

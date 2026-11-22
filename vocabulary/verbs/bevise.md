@@ -46,4 +46,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: bevise](https://ordbokene.no/bm/5735)
-- [Reference record #word-0043](../../reference/vocabulary-4472/word-types/verbs.md#word-0043)

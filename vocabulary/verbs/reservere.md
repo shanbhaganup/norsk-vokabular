@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-382b47b8485a)
 - [Bokmålsordboka: reservere](https://ordbokene.no/bm/reservere)

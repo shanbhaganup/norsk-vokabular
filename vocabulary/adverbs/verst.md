@@ -25,4 +25,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 69562](https://ordbokene.no/bm/69562)
-- [Reference adjective added-c5bca2e44055](../../reference/vocabulary-4472/word-types/adjectives.md#added-c5bca2e44055)

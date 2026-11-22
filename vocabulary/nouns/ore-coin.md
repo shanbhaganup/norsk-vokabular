@@ -29,7 +29,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-2e371d75e36f](../../reference/vocabulary-4472/word-types/nouns.md#added-2e371d75e36f)
 
 - [Bokmålsordboka: øre (mynt)](https://ordbokene.no/bm/42754)
 - [Bokmålsordboka: øre (myntenhet)](https://ordbokene.no/bm/42755)

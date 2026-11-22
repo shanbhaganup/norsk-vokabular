@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 7208](https://ordbokene.no/bm/7208)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/nouns.md#word-0180)

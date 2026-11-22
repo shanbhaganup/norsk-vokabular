@@ -31,4 +31,3 @@ checked_on: 2026-11-21
 - [Bokmålsordboka, anfall sense text](https://ordbokene.no/bm/anfall)
 - [DinOrdbok, anfall paradigm](https://www.dinordbok.no/definisjoner/norsk/?q=anfall)
 - [NAOB, anfall](https://naob.no/ordbok/anfall)
-- [Reference noun record word-0026](../../reference/vocabulary-4472/word-types/nouns.md#word-0026)

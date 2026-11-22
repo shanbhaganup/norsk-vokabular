@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka 1](https://ordbokene.no/bm/29918)
 - [Bokmålsordboka 2](https://ordbokene.no/bm/119503)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-f3d09368fb44)

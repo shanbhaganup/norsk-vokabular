@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tilgjengelig](https://ordbokene.no/bm/tilgjengelig)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-3122cc013f2f)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, spasere (55846)](https://ordbokene.no/bm/55846)
-- [Reference record word-0361](../../reference/vocabulary-4472/word-types/verbs.md#word-0361)

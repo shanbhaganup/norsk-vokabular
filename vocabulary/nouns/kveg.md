@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kveg](https://ordbokene.no/bm/33080)
-- [Reference snapshot word-0827](../../reference/vocabulary-4472/word-types/nouns.md#word-0827)

@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference record word-0405](../../reference/vocabulary-4472/word-types/nouns.md#word-0405)
 - [Bokmålsordboka 16115](https://ordbokene.no/bm/16115)

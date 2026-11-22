@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: kvadratkilometer](https://ordbokene.no/bm/kvadratkilometer)
-- [Reference snapshot word-0823](../../reference/vocabulary-4472/word-types/nouns.md#word-0823)

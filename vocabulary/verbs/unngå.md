@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: unngå](https://ordbokene.no/bm/64603)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-5e0f01212356)

@@ -29,6 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-d78b811be690](../../reference/vocabulary-4472/word-types/adjectives.md#added-d78b811be690)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/relatere>)
-

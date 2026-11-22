@@ -58,4 +58,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, prate (45912)](https://ordbokene.no/bm/45912)
-- [Reference record word-0279](../../reference/vocabulary-4472/word-types/verbs.md#word-0279)

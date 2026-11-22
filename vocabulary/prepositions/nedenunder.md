@@ -24,4 +24,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 40475](https://ordbokene.no/bm/40475)
-- [Reference snapshot · nedenunder](../../reference/vocabulary-4472/word-types/other-words.md#word-0012)

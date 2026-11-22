@@ -63,4 +63,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, handle (22261)](https://ordbokene.no/bm/22261)
-- [Reference snapshot, handle](../../reference/vocabulary-4472/word-types/verbs.md#word-0149)

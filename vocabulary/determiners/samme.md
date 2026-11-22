@@ -28,4 +28,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 49935](https://ordbokene.no/bm/49935)
-- [Reference snapshot · samme](../../reference/vocabulary-4472/word-types/other-words.md#word-0020)

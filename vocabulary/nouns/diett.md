@@ -26,5 +26,4 @@ checked_on: 2026-11-21
 
 **Sources:**
 
-- [Reference noun record word-0263](../../reference/vocabulary-4472/word-types/nouns.md#word-0263)
 - [Bokmålsordboka 10050](https://ordbokene.no/bm/10050)

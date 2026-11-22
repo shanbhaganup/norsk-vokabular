@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka øve](https://ordbokene.no/bm/øve)
-- [Reference record added-1cf716de231e](../../reference/vocabulary-4472/word-types/verbs.md#added-1cf716de231e)

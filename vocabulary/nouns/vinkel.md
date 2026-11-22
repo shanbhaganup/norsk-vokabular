@@ -28,4 +28,3 @@ source_anchor: added-4e80f2056020
 **Sources:**
 
 - [Bokm?lsordboka: vinkel](https://ordbokene.no/bm/vinkel)
-- Reference anchor: [added-4e80f2056020](../../reference/vocabulary-4472/word-types/nouns.md#added-4e80f2056020)

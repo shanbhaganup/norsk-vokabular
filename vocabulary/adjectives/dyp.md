@@ -31,7 +31,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-96b38aee805e](../../reference/vocabulary-4472/word-types/adjectives.md#added-96b38aee805e)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/11350>)
 
 | Komparativ | dypere | Denne fjorden er dypere enn den andre. | This fjord is deeper than the other one. |

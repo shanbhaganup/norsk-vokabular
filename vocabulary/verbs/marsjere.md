@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, marsjere (37185)](https://ordbokene.no/bm/37185)
-- [Reference record word-0238](../../reference/vocabulary-4472/word-types/verbs.md#word-0238)

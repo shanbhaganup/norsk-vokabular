@@ -29,4 +29,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/19586)
-- [Reference snapshot · gift](../../reference/vocabulary-4472/word-types/nouns.md#added-ad03c1341bff)

@@ -45,5 +45,4 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tiltenke](https://ordbokene.no/bm/tiltenke)
-- [Related adjective source record: tiltenkt](../../reference/vocabulary-4472/word-types/adjectives.md#added-7c67d2ccf897)
 - [Related adjective entry](../adjectives/tiltenkt.md)

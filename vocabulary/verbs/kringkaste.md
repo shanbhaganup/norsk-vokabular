@@ -56,4 +56,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — kringkaste](https://ordbokene.no/bm/32161)
-- [Reference snapshot — kringkaste](../../reference/vocabulary-4472/word-types/verbs.md#added-42efdb8adea7)

@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: ty](https://ordbokene.no/bm/63177)
-- [Reference vocabulary record](../../reference/vocabulary-4472/word-types/verbs.md#added-bb9f95731498)

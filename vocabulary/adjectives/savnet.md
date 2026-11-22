@@ -31,4 +31,3 @@ checked_on: 2026-11-22
 - [Related working entry](../verbs/savne.md)
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/savnet>)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-93bdf1bee865)

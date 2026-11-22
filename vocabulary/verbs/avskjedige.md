@@ -53,4 +53,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: avskjedige](https://ordbokene.no/bm/3781)
-- [Reference record added-bfff65024d95](../../reference/vocabulary-4472/word-types/verbs.md#added-bfff65024d95)

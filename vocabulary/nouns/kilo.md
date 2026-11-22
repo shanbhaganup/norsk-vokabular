@@ -33,4 +33,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 29223](https://ordbokene.no/bm/29223)
-- [Reference vocabulary word-0712](../../reference/vocabulary-4472/word-types/nouns.md#word-0712)

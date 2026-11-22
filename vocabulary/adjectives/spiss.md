@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: spiss](https://ordbokene.no/bm/spiss)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-59e1af3be78b)

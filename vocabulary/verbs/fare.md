@@ -47,4 +47,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka, fare (verb)](https://ordbokene.no/nob/bm/13855)
 - [Bokmålsordboka, risikere](https://ordbokene.no/bm/48663)
-- [Reference verb record added-8bd41154a3f1](../../reference/vocabulary-4472/word-types/verbs.md#added-8bd41154a3f1)

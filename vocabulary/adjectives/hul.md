@@ -38,4 +38,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, hul](https://ordbokene.no/bm/24428)
-- [Reference record added-820435e8f89c](../../reference/vocabulary-4472/word-types/adjectives.md#added-820435e8f89c)

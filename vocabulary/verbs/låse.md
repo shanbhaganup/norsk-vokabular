@@ -46,4 +46,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, låse (34719)](https://ordbokene.no/bm/34719)
-- [Reference record word-0231](../../reference/vocabulary-4472/word-types/verbs.md#word-0231)

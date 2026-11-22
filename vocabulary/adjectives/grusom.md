@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, grusom](https://ordbokene.no/bm/21254)
-- [Reference record added-abf5db1a6e36](../../reference/vocabulary-4472/word-types/adjectives.md#added-abf5db1a6e36)

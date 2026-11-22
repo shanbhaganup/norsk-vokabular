@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 60923 / tilskudd](https://ordbokene.no/bm/60923)
-- [Reference vocabulary word-1615](../../reference/vocabulary-4472/word-types/nouns.md#word-1615)

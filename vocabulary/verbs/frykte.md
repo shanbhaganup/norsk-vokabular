@@ -61,5 +61,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary, word-0120](../../reference/vocabulary-4472/word-types/verbs.md#word-0120)
 - [Bokmålsordboka](https://ordbokene.no/bm/18263)

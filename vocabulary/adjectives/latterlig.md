@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, latterlig (34007)](https://ordbokene.no/bm/34007)
-- [Reference vocabulary, record 0193](../../reference/vocabulary-4472/word-types/adjectives.md#word-0193)

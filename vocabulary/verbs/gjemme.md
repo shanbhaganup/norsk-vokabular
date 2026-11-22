@@ -54,4 +54,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, gjemme (19748)](https://ordbokene.no/bm/19748)
-- [Reference snapshot, gjemme](../../reference/vocabulary-4472/word-types/verbs.md#word-0132)

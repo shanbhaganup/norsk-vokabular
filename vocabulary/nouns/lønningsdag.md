@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka 34449](https://ordbokene.no/bm/34449)
-- [Reference snapshot · lønningsdag](../../reference/vocabulary-4472/word-types/nouns.md#word-0907)

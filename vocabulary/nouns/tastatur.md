@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: tastatur](https://ordbokene.no/bm/59962)
-- [Reference vocabulary record 1577](../../reference/vocabulary-4472/word-types/nouns.md#word-1577)

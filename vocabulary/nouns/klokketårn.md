@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 
 **Sources:**
 - [Bokmålsordboka: klokketårn](https://ordbokene.no/bm/118794)
-- [Reference record word-0742](../../reference/vocabulary-4472/word-types/nouns.md#word-0742)

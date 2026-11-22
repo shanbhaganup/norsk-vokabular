@@ -27,4 +27,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, headword majoritet](https://ordbokene.no/bm,nn/MAJORITET) (entry id 36600 in the reference; exact-id page unavailable in this check)
-- [Reference record word-0923](../../reference/vocabulary-4472/word-types/nouns.md#word-0923)

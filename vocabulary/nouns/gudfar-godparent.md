@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gudfar](https://ordbokene.no/bm/21452)
-- [Reference record word-0528](../../reference/vocabulary-4472/word-types/nouns.md#word-0528)

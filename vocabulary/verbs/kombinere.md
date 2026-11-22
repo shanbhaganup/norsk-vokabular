@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka — kombinere](https://ordbokene.no/bm/30919)
-- [Reference snapshot — kombinere](../../reference/vocabulary-4472/word-types/verbs.md#added-bebfb5325a33)

@@ -27,6 +27,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-f5d9d7008c3b](../../reference/vocabulary-4472/word-types/nouns.md#added-f5d9d7008c3b)
 
 - [Bokmålsordboka: væske](https://ordbokene.no/bm/69252)

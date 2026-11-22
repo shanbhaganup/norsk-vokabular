@@ -37,4 +37,3 @@ checked_on: 2026-11-22
 - [Related verb entry](../verbs/tilkoble.md)
 
 - [Bokmålsordboka: tilkoblet](https://ordbokene.no/bm/tilkoblet)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-f470a3d375bb)

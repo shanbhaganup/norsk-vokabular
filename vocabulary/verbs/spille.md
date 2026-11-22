@@ -44,4 +44,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, spille (56060)](https://ordbokene.no/bm/56060)
-- [Reference record word-0362](../../reference/vocabulary-4472/word-types/verbs.md#word-0362)

@@ -62,4 +62,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: forvirre](https://ordbokene.no/bm/17268)
-- [Reference record added-fa2929eae402](../../reference/vocabulary-4472/word-types/verbs.md#added-fa2929eae402)

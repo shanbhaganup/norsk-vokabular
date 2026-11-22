@@ -54,4 +54,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Ordbøkene, oppdra (42377)](https://ordbokene.no/bm/42377)
-- [Reference record word-0258](../../reference/vocabulary-4472/word-types/verbs.md#word-0258)

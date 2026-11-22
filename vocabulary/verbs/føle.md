@@ -39,7 +39,7 @@ checked_on: 2026-11-22
 
 **Form status:** Dictionary paradigm verified; passive examples are grammatically formed, but some are marked in style.
 
-**Notes:** Promoted from [reference record word-0126](../../reference/vocabulary-4472/word-types/verbs.md#word-0126). Covers tactile perception, perception by the senses, and emotional experience, including the common reflexive `føle seg`. Fixed expressions such as `føle for` (“feel like”) and `føle med` (“sympathize with”) are related constructions, not inflections. The reference also supplied the inflected source spelling `føles`; it is normalized here to the infinitive lemma `føle`, with `føles` treated as present and infinitive s-passive. Participial adjectives can sound formal; examples show the agreement forms listed in the dictionary. English glosses reviewed independently.
+**Notes:** Covers tactile perception, perception by the senses, and emotional experience, including the common reflexive `føle seg`. Fixed expressions such as `føle for` (“feel like”) and `føle med` (“sympathize with”) are related constructions, not inflections. The reference also supplied the inflected source spelling `føles`; it is normalized here to the infinitive lemma `føle`, with `føles` treated as present and infinitive s-passive. Participial adjectives can sound formal; examples show the agreement forms listed in the dictionary. English glosses reviewed independently.
 
 **Sources:**
 

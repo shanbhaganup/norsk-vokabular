@@ -26,6 +26,5 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference snapshot, noun anchor added-8c4bc9f40838](../../reference/vocabulary-4472/word-types/nouns.md#added-8c4bc9f40838)
 
 - [Bokmålsordboka — varme](https://ordbokene.no/bm/66703)

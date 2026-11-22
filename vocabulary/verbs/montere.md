@@ -48,4 +48,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka: montere (39022)](https://ordbokene.no/bm/39022)
-- [Reference snapshot, verb anchor added-690ac9cf6dcc](../../reference/vocabulary-4472/word-types/verbs.md#added-690ac9cf6dcc)

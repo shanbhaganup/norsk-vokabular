@@ -55,8 +55,5 @@ checked_on: 2026-11-22
 **Notes:** Separate verb homonym to adjective/adverb sakte. Weak paradigm is regular; the dictionary also records reflexive sakte seg (clock slows down). The examples focus on a common sense and are original teaching examples. Some dictionary-listed secondary senses are not illustrated in every tense.
 
 **Sources:**
-- [Related adjective source](../../reference/vocabulary-4472/word-types/adjectives.md#added-13b8db06671e)
 
 - [Bokm?lsordboka](https://ordbokene.no/bm/sakte)
-- [Related source record](../../reference/vocabulary-4472/word-types/verbs.md#added-a6fd3a6f1f92)
-- [Related source record](../../reference/vocabulary-4472/word-types/adjectives.md#added-13b8db06671e)

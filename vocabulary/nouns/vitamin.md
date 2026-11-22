@@ -28,4 +28,3 @@ source_anchor: added-b490dc98ee9c
 **Sources:**
 
 - [Bokm?lsordboka: vitamin](https://ordbokene.no/bm/68819)
-- Reference anchor: [added-b490dc98ee9c](../../reference/vocabulary-4472/word-types/nouns.md#added-b490dc98ee9c)

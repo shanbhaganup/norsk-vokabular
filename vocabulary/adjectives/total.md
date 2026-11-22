@@ -32,4 +32,3 @@ checked_on: 2026-11-22
 - [Related noun entry](../nouns/total.md)
 
 - [Bokmålsordboka: total](https://ordbokene.no/bm/total)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-28b8461f2f69)

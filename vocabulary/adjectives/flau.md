@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka, flau](https://ordbokene.no/bm/15296)
-- [Reference record added-97559483a92c](../../reference/vocabulary-4472/word-types/adjectives.md#added-97559483a92c)

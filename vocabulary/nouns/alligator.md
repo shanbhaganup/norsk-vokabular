@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka 885](https://ordbokene.no/bm/885)
-- [Reference noun record word-0020](../../reference/vocabulary-4472/word-types/nouns.md#word-0020)

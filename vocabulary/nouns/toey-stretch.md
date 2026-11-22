@@ -26,5 +26,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record word-1679](../../reference/vocabulary-4472/word-types/nouns.md#word-1679)
 - [Bokmålsordboka tøy 1 (masculine)](https://ordbokene.no/bm/63467)

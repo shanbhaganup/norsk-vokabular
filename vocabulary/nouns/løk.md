@@ -28,4 +28,3 @@ checked_on: 2026-11-22
 
 - [Bokmålsordboka · løk 1](https://ordbokene.no/bm/34423)
 - [Bokmålsordboka · løk 2](https://ordbokene.no/bm/34424)
-- [Reference snapshot · løk](../../reference/vocabulary-4472/word-types/nouns.md#word-0905)

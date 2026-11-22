@@ -30,6 +30,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/9728)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-dfd6704a4dea)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-0fe9816acaf3)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/other-words.md#added-8b42845d01dd)

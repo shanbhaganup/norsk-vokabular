@@ -29,5 +29,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- Reference record [word-0222](../../reference/vocabulary-4472/word-types/adjectives.md#word-0222).
 - [Bokmålsordboka: modig (38866)](https://ordbokene.no/bm/38866).

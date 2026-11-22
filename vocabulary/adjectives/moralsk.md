@@ -30,4 +30,3 @@ checked_on: 2026-11-22
 **Sources:**
 
 - [Bokmålsordboka](https://ordbokene.no/bm/moralsk)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-e937177c06d2)

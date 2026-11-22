@@ -26,7 +26,6 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference record added-89febe3ccafc](../../reference/vocabulary-4472/word-types/adjectives.md#added-89febe3ccafc)
 - [Bokmålsordboka / Ordbøkene](<https://ordbokene.no/bm/5682>)
 
 | Komparativ | betydeligere | Forskjellen ble betydeligere etter den nye målingen. | The difference became more significant after the new measurement. |

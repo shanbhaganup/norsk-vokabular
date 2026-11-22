@@ -27,4 +27,3 @@ checked_on: 2026-11-21
 **Sources:**
 
 - [Bokmålsordboka: gryn](https://ordbokene.no/bm/21274)
-- [Reference vocabulary record word-0524](../../reference/vocabulary-4472/word-types/nouns.md#word-0524)

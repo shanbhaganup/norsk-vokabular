@@ -43,5 +43,4 @@ checked_on: 2026-11-22
 
 **Sources:**
 
-- [Reference vocabulary anchor](../../reference/vocabulary-4472/word-types/verbs.md#added-2c9bc26e28f3)
 - [Bokmålsordboka: relatere](https://ordbokene.no/bm/relatere)

@@ -29,4 +29,3 @@ checked_on: 2026-11-22
 - [No parent verb entry applies.]
 
 - [Bokmålsordboka](<https://ordbokene.no/bm/skadelig>)
-- [Reference snapshot](../../reference/vocabulary-4472/word-types/adjectives.md#added-183a0c16fef1)
