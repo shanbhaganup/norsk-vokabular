@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## opplæring
 
-**English:** school
+**English:** training; education
 
-**Topics:** 42540
+**Topics:** school
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

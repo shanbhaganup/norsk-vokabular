@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## oppmerksomhet
 
-**English:** general
+**English:** attention; consideration; small gift (as a gesture)
 
-**Topics:** 42568
+**Topics:** general
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

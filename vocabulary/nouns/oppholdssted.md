@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## oppholdssted
 
-**English:** home
+**English:** place of residence
 
-**Topics:** 42461
+**Topics:** home
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

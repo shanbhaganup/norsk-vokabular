@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## oppdragelse
 
-**English:** family
+**English:** upbringing; manners
 
-**Topics:** 42379
+**Topics:** family
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

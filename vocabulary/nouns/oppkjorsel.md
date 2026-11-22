@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## oppkjørsel
 
-**English:** home
+**English:** driveway
 
-**Topics:** 42493
+**Topics:** home
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

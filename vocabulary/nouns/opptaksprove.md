@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## opptaksprøve
 
-**English:** school
+**English:** entrance exam; admission test
 
-**Topics:** 43107
+**Topics:** school
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

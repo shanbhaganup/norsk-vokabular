@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## opprør
 
-**English:** society
+**English:** rebellion; revolt; protest
 
-**Topics:** 43004
+**Topics:** society
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

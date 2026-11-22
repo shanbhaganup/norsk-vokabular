@@ -1,31 +1,24 @@
 # Norskopplæring
 
-This project maintains Norwegian Bokmål vocabulary for an English-speaking learner.
+Maintain accurate Norwegian Bokmål vocabulary for English-speaking learners. Preserve Norwegian spelling in UTF-8 Markdown.
 
-## Entry format
+## Entries
 
-Use the matching file in templates/. TEMPLATES.md collects the worked examples. Keep one canonical entry per normalized lemma, word type and genuinely distinct sense under vocabulary/. Use UTF-8 Markdown with Norwegian spelling preserved. Keep metadata fields id, lemma, word_type, sense and checked_on at the top of each entry.
+- Before adding a word, search `vocabulary/` for duplicates. If a reference snapshot is supplied for the task, check it too. Normalize case, Unicode, infinitive markers and inflected source forms. Keep one entry per lemma, word type and genuinely distinct sense; record source spellings and corrections in Notes.
+- Use the matching file in `templates/` and follow `docs/GRAMMAR.md`. Each entry needs top metadata `id`, `lemma`, `word_type`, `sense`, `checked_on`, plus English, Topics, Form status, Notes and Sources.
+- For every applicable form, give its value and an original, natural Norwegian example using that form, with an accurate English translation. Use the four-column form table. Illustrate each accepted alternative. Keep inflections distinct from constructions, related words and editorial examples.
+- Include the applicable paradigm for each word type: nouns need article/gender and all four number/definiteness forms; verbs need applicable simple forms, participles, compound tenses, imperative and passive; adjectives need agreement and applicable comparison. Other types need their applicable forms and syntax. Do not invent forms or inflections for invariable words.
+- Use `—` only for genuinely inapplicable forms and explain why. Use `Unverified` for unknown forms. A missing form is not proof that it is impossible. Explain context-dependent, rare or formal variants.
 
-For every applicable grammatical form, include its value, at least one original Norwegian example sentence using that form, and an accurate English translation. If a cell lists alternatives, illustrate each alternative or put each in a separate row. Follow the four-column table format. Do not treat a grammatical feature, construction, or related word as an inflected form.
+## Verification and sources
 
-Include English, Topics, Form status, Notes and Sources. Use standard Bokmål labels. Nouns need article/gender and all four number/definiteness combinations. Verbs need applicable simple forms, participles, compound tenses, imperative and passive constructions; note context-dependent or unavailable constructions. Adjectives need gender/number/definiteness agreement and applicable comparison. Other word types use their own applicable forms and syntax; do not invent inflections for invariable words.
+Prefer Bokmålsordboka/Ordbøkene for spelling, gender and paradigms; cite exact entries where possible. Verify English meanings separately: a checked Norwegian headword does not verify its translation. Treat project examples as authored teaching examples, not dictionary quotations. Preserve accepted alternatives. Do not assign a Norwegian CEFR level from an English source level. Keep source imports and any supplied reference snapshot unchanged unless explicitly asked to revise them.
 
-Use — only for a genuinely inapplicable form, and explain why. Use Unverified for unknown forms. A missing form is not automatically impossible. Keep dictionary forms, productive constructions and editorial examples distinguishable. Do not invent plural forms, comparatives, passives or imperatives. Examples must be natural and must match the labelled form and meaning.
+## Imports and maintenance
 
-## Correctness and sources
+- A supplied reference snapshot is source material, not a second active index. When promoting an entry from it, create or update the working entry; do not count the promotion as a new word. The 12 seeded format demonstrations are examples, not additional words.
+- Mark uncertain translations and paradigms for review rather than guessing.
+- Update `vocabulary/INDEX.md` after changes. It is the single searchable index with word, type (noun followed by article/gender), English meaning and topic. Do not create or maintain separate topic index files.
+- Read `README.md` and `docs/GRAMMAR.md`; use the matching template, verify lemma and sense, and add forms and bilingual examples. After editing working entries, run `python3 scripts/check_vocabulary.py`. It checks structure and duplicate keys, not grammatical correctness; inspect forms and sentences yourself.
 
-Prefer Bokmålsordboka/Ordbøkene for spelling, genders and paradigms. Cite exact entries where possible. Dictionary verification of a Norwegian headword does not verify an imported English translation. Review the sense separately. Treat examples in this project as authored teaching examples, not dictionary quotations. Preserve accepted alternatives. Explain rare or formal variants. Do not assign a Norwegian CEFR level from an English source level.
-
-## Duplicates and imports
-
-Search vocabulary/ and reference/vocabulary-4472/ before adding a word. Normalize case, Unicode, infinitive markers and inflected source forms. Merge genuine duplicates by lemma, word type and sense. Distinct word types or genuinely different senses may have separate entries. Put source spellings and corrections in Notes.
-
-The reference snapshot is source material, not a second active vocabulary index. When upgrading a reference entry, create or update its working entry under vocabulary/ and record the promotion in docs/MIGRATION.md. Do not count that promotion as a new word. The 12 seeded working entries are format demonstrations and may overlap the reference snapshot; do not add their count to the snapshot count.
-
-Keep source imports unchanged. Mark uncertain translations and paradigms for review instead of guessing. Record additions, merges and corrections in docs/CHANGELOG.md. Update vocabulary/INDEX.md and relevant topic indexes after changes. Keep the reference snapshot unchanged unless the user explicitly asks to revise it.
-
-## Workflow
-
-Read README.md and docs/GRAMMAR.md. Copy the appropriate template, verify the lemma and sense, add forms and bilingual examples, then update indexes. Run `python3 scripts/check_vocabulary.py` after editing working entries. The checker verifies structure and duplicate keys; it does not establish grammatical correctness. Inspect sentences and forms yourself.
-
-Make reversible edits and follow the user's requested scope. Never claim that this file changes global ChatGPT memory or installs a skill.
+Follow the requested scope and make reversible edits. This file does not change global ChatGPT memory or install a skill.

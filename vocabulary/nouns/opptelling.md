@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## opptelling
 
-**English:** numbers
+**English:** count; tally
 
-**Topics:** 43116
+**Topics:** numbers
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

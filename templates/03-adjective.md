@@ -1,6 +1,6 @@
 # Adjektiv — adjective template
 
-[All templates](../TEMPLATES.md)
+[Grammar conventions](../docs/GRAMMAR.md)
 
 ## Copyable structure
 

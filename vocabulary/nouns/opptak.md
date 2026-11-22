@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## opptak
 
-**English:** general
+**English:** recording; admission
 
-**Topics:** 43105
+**Topics:** general
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |

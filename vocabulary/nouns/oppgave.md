@@ -8,9 +8,9 @@ checked_on: 2026-11-22
 
 ## oppgave
 
-**English:** work, education
+**English:** task; assignment
 
-**Topics:** 42429
+**Topics:** work, education
 
 | Form / feature | Value | Norwegian example | English translation |
 | --- | --- | --- | --- |
