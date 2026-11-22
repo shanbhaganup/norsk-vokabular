@@ -1,0 +1,52 @@
+/* This is a single-purpose catalog, so use the page width for its two useful panes. */
+.md-sidebar--primary,
+.md-sidebar--secondary,
+[for="__search"],
+.md-search__button { display: none !important; }
+.md-main__inner { max-width: 1500px; margin-inline: auto; }
+.md-content { max-width: none; }
+.md-content__inner { max-width: none; margin-inline: 0; padding-inline: clamp(.8rem, 2vw, 2rem); }
+
+.catalog-app { --catalog-border: var(--md-default-fg-color--lightest); max-width: 1400px; margin-inline: auto; }
+.search-label { display: block; margin: 1.2rem 0 .4rem; font-weight: 650; }
+.word-search { width: 100%; box-sizing: border-box; padding: .85rem 1rem; border: 1px solid var(--catalog-border); border-radius: .65rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit; }
+.word-search:focus { outline: 3px solid var(--md-accent-fg-color--transparent); border-color: var(--md-accent-fg-color); }
+.result-count { margin: .55rem 0 1rem; color: var(--md-default-fg-color--light); font-size: .9rem; }
+.catalog-layout { display: grid; grid-template-columns: minmax(17rem, 22rem) minmax(0, 1fr); gap: 1rem; align-items: start; }
+.results-panel { min-width: 0; }
+.md-typeset ul.word-list { list-style: none !important; margin: 0; padding: 0 !important; max-height: 72vh; overflow-y: auto; border: 1px solid var(--catalog-border); border-radius: .7rem; }
+.md-typeset ul.word-list > li { list-style: none !important; margin: 0; padding: 0; }
+.md-typeset ul.word-list > li::marker { content: ""; }
+.md-typeset ul.word-list > li + li { border-top: 1px solid var(--catalog-border); }
+.word-option { display: block; width: 100%; padding: .75rem .9rem; border: 0; background: transparent; color: inherit; text-align: left; cursor: pointer; }
+.word-option:hover { background: var(--md-default-fg-color--lightest); }
+.word-option[aria-current="true"] { background: var(--md-accent-fg-color--transparent); box-shadow: inset 3px 0 var(--md-accent-fg-color); }
+.word-option strong, .word-option span { display: block; }
+.word-option .word-headword { font-size: 1rem; }
+.word-option .word-meaning { margin-top: .15rem; color: var(--md-default-fg-color--light); font-size: .88rem; line-height: 1.35; }
+.word-option .word-meta { margin-top: .3rem; color: var(--md-default-fg-color--light); font-size: .74rem; }
+.show-more { width: 100%; margin-top: .6rem; padding: .65rem; border: 1px solid var(--catalog-border); border-radius: .5rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); cursor: pointer; }
+.show-more:hover { border-color: var(--md-accent-fg-color); }
+.entry-detail { min-width: 0; padding: clamp(1rem, 2vw, 1.5rem); border: 1px solid var(--catalog-border); border-radius: .7rem; box-shadow: 0 4px 18px #0000000a; }
+.entry-detail h2 { margin: 0; overflow-wrap: anywhere; font-size: clamp(1.6rem, 3vw, 2.2rem); }
+.entry-meaning { margin: .4rem 0; font-size: 1.2rem; }
+.topic-list { display: flex; flex-wrap: wrap; gap: .4rem; margin: .8rem 0 1.2rem; }
+.topic-chip { padding: .2rem .6rem; border-radius: 99px; background: var(--md-code-bg-color); font-size: .78rem; }
+.entry-metadata { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: .35rem .8rem; margin: 1rem 0 1.4rem; font-size: .9rem; }
+.entry-metadata dt { color: var(--md-default-fg-color--light); }
+.entry-metadata dd { margin: 0; overflow-wrap: anywhere; }
+.entry-detail h3 { margin: 1.5rem 0 .6rem; }
+.form-table-wrap { overflow-x: auto; }
+.form-table { width: 100%; min-width: 42rem; border-collapse: collapse; font-size: .86rem; }
+.form-table th, .form-table td { padding: .55rem; border: 1px solid var(--catalog-border); text-align: left; vertical-align: top; }
+.form-table th { background: var(--md-code-bg-color); }
+.form-table td { overflow-wrap: anywhere; }
+.entry-notes { white-space: pre-wrap; }
+.source-list { padding-left: 1.2rem; }
+.empty-results { list-style: none !important; padding: .9rem !important; color: var(--md-default-fg-color--light); }
+@media (max-width: 760px) {
+  .md-content__inner { padding-inline: .65rem; }
+  .catalog-layout { grid-template-columns: minmax(0, 1fr); }
+  .md-typeset ul.word-list { max-height: 34vh; }
+  .entry-detail { padding: 1rem; }
+}

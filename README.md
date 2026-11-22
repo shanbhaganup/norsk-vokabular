@@ -22,3 +22,17 @@ A Norwegian Bokmål vocabulary project for English-speaking learners.
 | scripts/check_vocabulary.py | Structural and duplicate-key checker |
 
 After editing working entries, run `python3 scripts/check_vocabulary.py`. The checker verifies structure and duplicate keys; it does not verify grammatical correctness.
+
+## Vocabulary site
+
+The Zensical site lists and searches the entries linked in `vocabulary/INDEX.md`. The index is the inclusion authority: entries not linked there are not included. Repeated links for an entry merge its index topics and produce one word entry. The site data is regenerated before each build, so adding an entry to the index includes it without code changes.
+
+Install the site dependency and start a local preview from the project root:
+
+```sh
+python -m pip install -r requirements-site.txt
+python scripts/generate_vocabulary_data.py
+zensical serve
+```
+
+The site is served at <http://localhost:8000>. Search by word, meaning, topic, type, notes, or forms. Select a result to see the complete entry, including its forms and examples, form status, notes, and sources. Build a deployable static site with `python scripts/generate_vocabulary_data.py` followed by `zensical build`; output goes to `site-build/`. The GitHub Actions workflow builds and deploys on pushes to `master` and can also be run manually. Set the repository’s Pages source to **GitHub Actions** to enable deployment.

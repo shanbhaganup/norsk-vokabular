@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
+site-build/
+site/data/vocabulary.json
 .DS_Store

@@ -1,0 +1,14 @@
+[project]
+site_name = "Norskopplæring – Bokmål vocabulary"
+site_description = "Search Norwegian Bokmål vocabulary, forms, examples, and sources."
+docs_dir = "site"
+site_dir = "site-build"
+nav = [
+  { "Vocabulary" = "index.md" },
+]
+extra_css = ["assets/catalog.css"]
+extra_javascript = ["assets/catalog.js"]
+
+[project.theme]
+language = "en"
+features = ["navigation.sections", "navigation.top"]
